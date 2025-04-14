@@ -211,3 +211,46 @@ Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones qu
 <div style="text-align: center;">
 <img src="assets/Competitors/Budget.png" width=225  alt="">
 </div>
+
+### 2.2. Entrevistas.
+#### 2.2.1. Diseño de entrevistas
+
+##### Segmento 1 (Dueño de vehiculo):
+###### Preguntas de Información General:
+1. ¿Cuál es tu nombre?
+2. ¿Cuántos años tienes?
+3. ¿En qué distrito vives?
+4. ¿A qué te dedicas actualmente?
+
+#### Preguntas sobre el alquiler de sus vehículos:
+5. ¿Que tipo de documento exiges para proceder con el alquiler?
+6. ¿Qué tipo de vehículo ofreces para el alquiler?
+7. ¿Cual es la cantidad minima y maxima de tiempo que permites alquilar tu vehiculo?
+8. ¿Cómo llevas la cuenta de todos tus vehículos, tanto alquilados como sin alquilar?
+
+#### Preguntas sobre la plataforma:
+9. ¿Que tipo de plataforma usas para ofrecer tu vehiculo?
+10. ¿En qué dispositivos accedes a dichas plataformas?
+11. ¿Consideras que las aplicaciones te dan facilidades para identificar clientes confiables?
+13. ¿Estarías dispuesto a ofrecer tus vehículos en una nueva plataforma que te permita consultar reseñas de un cliente previo al alquiler?
+14. ¿Estarías dispuesto a ofrecer tus vehículos en una nueva plataforma que te ofrezca un panel donde registrar tus vehículos y consultar su estado?
+15. ¿Estarías dispuesto a ofrecer tus vehículos en una nueva plataforma que te permita reseñar a los clientes?
+##### Segmento 2 (Usuario que busca alquilar un vehiculo):
+###### Preguntas de Información General:
+1. ¿Cuál es tu nombre?
+2. ¿Cuántos años tienes?
+3. ¿En qué distrito vives?
+4. ¿A qué te dedicas actualmente?
+
+#### Preguntas sobre el alquiler de sus vehículos:
+5. ¿Qué tipo de documento te exigen para proceder con el alquiler?
+6. ¿Que tipo de vehiculo buscas alquilar?
+7. ¿Que documentos te suelen pedir previo al alquiler del vehiculo?
+8. ¿Que restricciones se te imponen previo al alquiler del vehiculo?
+#### Preguntas sobre la plataforma:
+9. ¿Qué tipo de plataforma usas para buscar vehículos?
+10. ¿En qué dispositivos accedes a dichas plataformas?
+11. ¿Consideras que las aplicaciones te dan facilidades para identificar vehículos o arrendadores confiables?
+12. ¿Estarías dispuesto a migrar a una nueva plataforma que te permita consultar reseñas de arrendadores antes de alquilar?
+13. ¿Estarías dispuesto a usar una nueva plataforma que te permita reservar un vehículo en unas fechas concretas antes de alquilarlo?
+14. ¿Estarías dispuesto a usar una nueva plataforma que te permita reseñar a los arrendadores?
