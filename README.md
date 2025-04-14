@@ -212,6 +212,70 @@ Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones qu
 <img src="assets/Competitors/Budget.png" width=225  alt="">
 </div>
 
+#### 2.1.1. Análisis competitivo
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr><td colspan="6">Análisis de competidores</td></tr>
+		<tr><td colspan="2"></td><td>EasyRent</td><td>Kayak</td><td>Peru Rent A Car</td><td>Budget Car Rental Peru</td></tr>
+		<tr><td rowspan="2">Perfil</td><td>Resumen</td>
+			<td>Una aplicación que busca ofrecer una plataforma rápida y ágil para el alquiler de autos, con un fuerte enfoque en la seguridad de ambas partes.</td>
+			<td>Kayak es una plataforma líder de búsqueda tanto de vuelos, como cuartos de hotel, alquiler de vehículos, etc.</td>
+			<td>Esta plataforma web presenta parte de un catálogo establecido de vehículos para alquilar, con una atención mediante WhatsApp y dirigido solo a clientes.</td>
+			<td>Plataforma de similar funcionamiento que Rent A Car Peru, orientado a clientes con un énfasis en cuidar el presupuesto de los mismos.</td></tr>
+		<tr><td>Ventaja competitiva</td>
+			<td>Ofrecer una plataforma tanto para dueños de vehículos como a clientes interesados en alquilar.</td>
+			<td>Es la aplicación líder en la búsqueda de servicios por su variedad y robusta plataforma web.</td>
+			<td>Líder local del servicio de alquiler de autos, con una amplia flota y rápida atención al usuario</td>
+			<td>Ofrece una alternativa de alquiler económica velando por el bolsillo de sus clientes. </td></tr>
+		<tr><td rowspan="2">Perfil de Marketing</td><td>Mercado objetivo</td>
+			<td>Jóvenes y adultos desde los 20 a los 50 años.</td>
+			<td>Turistas o viajeros que necesiten cualquier tipo de servicio de comodidad.</td>
+			<td>Adultos peruanos que busquen alquilar un vehiculo.</td>
+			<td>Adultos peruanos que busquen alquilar un vehiculo económico.</td></tr>
+		<tr><td>Estrategias de marketing</td>
+			<td>Marketing digital en redes sociales y colaboraciones con influencers.</td>
+			<td>Alianza con Google Ads, tanto en Youtube como Chrome.</td>
+			<td>Patrocinio mediante búsquedas de Chrome.</td>
+			<td>Patrocinio mediante búsquedas de Chrome.</td></tr>
+		<tr><td rowspan="3">Perfil de Producto</td>
+			<td>Productos y Servicios</td>
+			<td>Aplicación destinada a la oferta de vehículos en alquiler, como la demanda de los mismos.</td>
+			<td>Aplicación móvil y web que cuenta con una enorme variedad de servicios esenciales para viajeros y turistas</td>
+			<td>Aplicación web rápida e intuitiva que permite consultar parte del catálogo de vehículos disponibles para alquiler.</td>
+			<td>Aplicación web ágil y amigable que permite consultar una limitada oferta de vehículos económicos en alquiler</td></tr>
+		<tr><td>Precios y Costos</td>
+			<td>Costos por publicación de vehículos mediante una suscripción.</td>
+			<td>Modelo gratuito, con cobro de comisión a las empresas referidas.</td>
+			<td>Ingreso directo mediante el alquiler.</td>
+			<td>Ingreso directo mediante el alquiler.</td></tr>
+		<tr><td>Canales de distribución</td>
+			<td>Disponible en línea a través de la aplicación web.</td>
+			<td>Descargable en Google Play y App Store y la plataforma web.</td>
+			<td>Disponible en línea a través de la aplicación web.</td>
+			<td>Disponible en línea a través de la aplicación web.</td></tr>
+		<tr><td rowspan="4">Análisis SWOT</td><td>Fortalezas</td><td><ul>
+                    <li>Orientado a jóvenes y adultos peruanos</li><li>Facilidades para alquilar, como ofrecer alquiler</li><li>Énfasis en la seguridad y garantía</li></ul></td>
+			<td><ul>
+                    <li>Gran cantidad de usuarios</li><li>Referente del sector</li><li>Plataformas ágiles e intuitivas</li></ul></td>
+			<td><ul><li>Plataforma local</li><li>Excelente atención al cliente</li></ul></td>
+			<td><ul><li>Plataforma web amigable</li><li>Todo el catálogo está disponible para cualquier usuario</li></ul></td></tr>
+		<tr><td>Debilidades</td>
+            <td><ul><li>Nuevo competidor</li><li>Sector con competidores fuertes ya establecidos</li></ul></td>
+			<td><ul><li>Pobre atención al cliente</li></ul></td>
+			<td><ul><li>Solo se puede consultar parte del catálogo de vehículos</li></ul></td>
+			<td><ul><li>Opta por un nicho muy concreto</li><li>No cuenta con tanta relevancia como su competencia</li></ul></td></tr>
+		<tr><td>Oportunidades</td>
+            <td><ul><li>Sin competidores a nivel nacional</li><li>Ofrece servicio para ambas partes involucradas en el alquiler</li></ul></td>
+			<td><ul><li>Fuerte presencia internacional</li><li>Referente del sector</li></ul></td>
+			<td><ul><li>Flota amplia y en crecimiento</li><li>Atención personalizada</li></ul></td>
+			<td><ul><li>Excelente interfaz</li></ul></td></tr>
+		<tr><td>Amenazas</td>
+            <td><ul><li>Competencia ya establecida</li><li>Sector muy competitivo</li></ul></td>
+			<td><ul><li>Oferta demasiado ámplia</li><li>Sin control de calidad</li></ul></td>
+			<td><ul><li>Oferta fija y poco variada</li><li>Sin opciones para dueños interesados en alquilar</li></ul></td>
+<td><ul><li>Se ve opacado por la competencia</li><li>Oferta aún más limitada que la competencia</li></ul></td>
+</tr></tbody></table>
+
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas
 
