@@ -191,6 +191,28 @@ del ABET – EAC - Student Outcome 3.
 </table>
 
 ## Capítulo I: Introducción <a id="cap1"></a>
+### 1.1. Startup Profile
+En esta sección presentaremos nuestra start-up, el sector que buscamos incursionar, la soluciona propuesta a la problemática escogida y 
+demás información pertinente para poder entender la vision del equipo con respecto al proyecto
+#### 1.1.1. Descripción de la Startup
+Innovacode es una startup creada por estudiantes de la carrera de Ingeniería de Software.
+Para el presente ciclo desarrollaremos una aplicación web llamada EasyRent, con la cual buscamos crear una plataforma destinada al alquiler de vehículos, con la cual tanto
+los clientes que deseen alquilar, como los dueños de los vehículos puedan interactuar de una manera sencilla, rápida y segura.
+
+**Misión:** Nuestra misión es proporcionar una plataforma segura y confiable donde ofrecer tus vehículos como alquiler o buscar un vehículo para alquilar.
+**Visión:** Nuestra vision es la de convertirnos en la plataforma de alquiler de vehículos más confiable y segura del Perú, donde tanto los dueños como los clientes 
+puedan interactuar de una manera rápida y sencilla.
+#### 1.1.2. Perfiles de integrantes del equipo
+
+### 1.2. Solution Profile
+#### 1.2.1. Antecedentes y problemática
+#### 1.2.2. Lean UX Process
+##### 1.2.2.1. Lean UX Problem Statements
+##### 1.2.2.2. Lean UX Assumptions
+##### 1.2.2.3. Lean UX Hypothesis Statements
+##### 1.2.2.4. Lean UX Canvas
+### 1.3. Segmentos objetivo
+
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 ### 2.1. Competidores
 Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones que ya existen en el mercado, para ver que es lo que ofrecen y como podemos diferenciarnos de ellos.
