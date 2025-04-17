@@ -4,12 +4,12 @@
   <h2 >Carrera: de Ingeniería de Software</h2>
   <h2 >Ciclo: 2025-01</h2>
   <br>
-  <h2 >Curso: Desarrollo de Aplicaciones Open Source </h2>
-  <h2 >Sección: 4341</h2>
+  <h2 >Curso: Desarrollo de Aplicaciones Web</h2>
+  <h2 >Sección: 4380</h2>
   <br>
   <h2 >Informe del TB1</h2>
-  <h2 >Startup: </h2>
-  <h2 >Producto: </h2>
+  <h2 >Startup: NovaCode</h2>
+  <h2 >Producto: EasyRent</h2>
   <br>
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
@@ -195,7 +195,7 @@ del ABET – EAC - Student Outcome 3.
 En esta sección presentaremos nuestra start-up, el sector que buscamos incursionar, la soluciona propuesta a la problemática escogida y 
 demás información pertinente para poder entender la vision del equipo con respecto al proyecto
 #### 1.1.1. Descripción de la Startup
-Innovacode es una startup creada por estudiantes de la carrera de Ingeniería de Software.
+NovaCode es una startup creada por estudiantes de la carrera de Ingeniería de Software.
 Para el presente ciclo desarrollaremos una aplicación web llamada EasyRent, con la cual buscamos crear una plataforma destinada al alquiler de vehículos, con la cual tanto
 los clientes que deseen alquilar, como los dueños de los vehículos puedan interactuar de una manera sencilla, rápida y segura.
 
@@ -203,7 +203,30 @@ los clientes que deseen alquilar, como los dueños de los vehículos puedan inte
 **Visión:** Nuestra vision es la de convertirnos en la plataforma de alquiler de vehículos más confiable y segura del Perú, donde tanto los dueños como los clientes 
 puedan interactuar de una manera rápida y sencilla.
 #### 1.1.2. Perfiles de integrantes del equipo
-
+<table>
+  <tr><th colspan="2">Josue Paiva</th></tr>
+  <tr><td><img src="assets/TeamMembers/JosuePaiva.jpg" alt="Josue Paiva" style="width: 300px"></td>
+<td>Soy Josue Paiva, tengo 22 años y soy de la carrera de Ingeniería de Software, tengo conocimiento de C++, Python y SQL, me gusta mantener buena comunicación con mis commpañeros de equipo, 
+cumplir con mis tareas y apoyar al resto cuando se requiera.</td></tr>
+  <tr><th colspan="2">Integrante 2</th></tr>
+  <tr><td>Foto</td>
+    <td>Descripción</td>
+  </tr>
+<tr><th colspan="2">Integrante 3</th></tr>
+  <tr><td>Foto</td>
+    <td>Descripción</td></tr>
+<tr>
+    <th colspan="2">Integrante 4</th>
+  </tr>
+  <tr>
+    <td>Foto</td>
+    <td>Descripción</td>
+  </tr>
+<tr><th colspan="2">Integrante 5</th></tr>
+  <tr><td>Foto</td>
+    <td>Descripción</td>
+  </tr>
+</table>
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
 #### 1.2.2. Lean UX Process
