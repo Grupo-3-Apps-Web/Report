@@ -318,6 +318,11 @@ Debe ser intuitivo, confiable y rápido, para que así se vea visualmente limpio
 <img src="assets/Canvas/UX%20canva.png" width=800>
 
 ### 1.3. Segmentos objetivos
+**Segmento 1 (Arrendador de vehículo):**
+Dueños de autos que no usan su vehículo con frecuencia y desean generar ingresos extras, estos serían personas de edad entre 25 a 55 años que residen en Lima Metropolitana.
+
+**Segmento 2 (Arrendatario de vehículo):**
+Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 a 55 años con residencia en Lima Metropolitana y estos no tendrían un auto propio o profieran no usarlo todo el tiempo, así buscando una alternativa más económica y flexible frente a taxis o apps de transporte.
 
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 ### 2.1. Competidores
