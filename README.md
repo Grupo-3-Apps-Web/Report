@@ -277,7 +277,7 @@ Los usuarios en Lima que necesitan alquilar vehículos tienen dificultades para 
 **El cliente también puede obtener estos servicios adicionales** como el historial de reservas, clasificaciones y reseñas, soporte ate incidentes, opciones de seguro y promociones en temporadas específicas.
 **Voy a adquirir a mis clientes a través de** publicidad en redes sociales como Instagram, Facebook y TikTok. Además, se podría publicitar en talleres, grifos o negocios locales.
 **Mi competencia en el mercado** serán empresas tradicionales de alquiler de autos y también alquileres informales por vía Facebook Marketplace o grupos de WhatsApp.
-**Los venceremos debido a** una experiencia digital centrada en el usuarios, precios más accesibles y mayor variedad de vehículos.
+**Los venceremos debido a** una experiencia digital centrada en el usuario, precios más accesibles y mayor variedad de vehículos.
 **Mis mayores riesgos de producto** son la baja confianza inicial entre usuarios y propietarios.
 **Resolveremos esto** mediante una verificación de identidad y contratos digitales.
 
@@ -303,20 +303,20 @@ Debe ser intuitivo, confiable y rápido, para que así se vea visualmente limpio
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 ###### **Hipótesis 1:**
-**Creemos que** los usuarios que buscan alquilar un vehículo necesitan una plataforma confiable y con filtros personalizados para lograr encontrar opciones adecuadas de forma rápida y segura.
-**Sabremos que esto es cierto cuando veamos** al menos un 60% de los usuarios completan una reserva después de su primera búsqueda.
+**Creemos que** los usuarios interesados en alquilar vehículos requieren una plataforma confiable y con filtros personalizados para poder encontrar opciones adecuadas de manera rápida y segura.
+**Sabremos que esto es cierto cuando veamos** que al menos el 60% de los usuarios completan una reserva tras realizar su primera búsqueda.
 
 ###### **Hipótesis 2:**
-**Creemos que** los propietarios de vehículos necesitan una herramienta para gestionar sus autos en alquiler, ver su historial y calificaciones para lograr mayor confianza y control sobre transacciones.
-**Sabremos que esto es cierto cuando veamos** al menos más del 50% de los propietarios registrados publican más de un vehículo o lo mantienen activo al menos por 3 meses.
+**Creemos que** los dueños de vehículos necesitan una herramienta que les permita gestionar sus autos en alquiler, acceder a su historial y revisar calificaciones, con el fin de aumentar su confianza y control sobre las transacciones.
+**Sabremos que esto es cierto cuando veamos** más del 50% de los propietarios registrados publican más de un vehículo o mantienen sus publicaciones activas durante al menos 3 meses.
 
 ###### **Hipótesis 3:**
-**Creemos que** ambos grupos necesitan una sección de reseñas y calificaciones para lograr una relación de confianza mutua.
-**Sabremos que esto sea cierto cuando veamos** al menos más del 70% de los usuarios y propietarios dejan una reseña después de cada alquiler.
+**Creemos que** tanto los usuarios como los propietarios requieren una sección de reseñas y calificaciones para generar una relación de confianza mutua.
+**Sabremos que esto sea cierto cuando veamos** más del 70% de usuarios y propietarios dejan una reseña después de cada alquiler.
 
 ##### 1.2.2.4. Lean UX Canvas
+<img src="assets/Canvas/UX%20canva.png" width=800>
 
-<img src="assets/Canvas/UX%20canva.png" width=800 >
 ### 1.3. Segmentos objetivos
 
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
