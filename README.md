@@ -451,3 +451,79 @@ Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones qu
 12. ¿Estarías dispuesto a migrar a una nueva plataforma que te permita consultar reseñas de arrendadores antes de alquilar?
 13. ¿Estarías dispuesto a usar una nueva plataforma que te permita reservar un vehículo en unas fechas concretas antes de alquilarlo?
 14. ¿Estarías dispuesto a usar una nueva plataforma que te permita reseñar a los arrendadores?
+
+### 2.3. Needfinding.
+#### 2.3.1. User Personas
+A continuación presentamos los user personas identificadas basándonos en las entrevistas realizadas para ambos segmentos objetivos. Estos user personas nos ayudarán a entender mejor las necesidades y expectativas de nuestros futuros usuarios.
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/Needfinding/Jordan%20Dario%C2%A0.png" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/Needfinding/Paul%20Gamero.png" width=600px>
+
+#### 2.3.2. User Task Matrix
+<table><tr><th rowspan="2" valign="top"><b><i>User Task Matrix</i></b></th>
+    <th colspan="2" valign="top"><b><i>Jordan Dario</i></b></th>
+    <th colspan="2" valign="top"><b><i>Paul Gamero</i></b></th></tr>
+  <tr><td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td></tr>
+  <tr><td>Comunicación directa con el dueño o cliente</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Alta</i></b></td></tr>
+  <tr><td>Valoración del dueño o cliente</td>
+    <td><b><i>Baja</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Baja</i></b></td>
+    <td><b><i>Alta</i></b></td></tr>
+  <tr><td>Historial de alquileres realizados</td>
+    <td><b><i>Nunca</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Media</i></b></td></tr>
+  <tr><td>Acceso a los documentos de garantía del cliente o dueño</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td></tr>
+  <tr><td>Panel de navegación de vehículos</td>
+    <td><b><i>Nunca</i></b></td>
+    <td><b><i>Baja</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td></tr>
+  <tr><td>Panel de publicación de vehículos</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Nunca</i></b></td>
+    <td><b><i>Baja</i></b></td></tr></table>
+
+### Explicación de la User Task Matrix
+- **Comunicación directa con el dueño o cliente**: Renzo y Jonathan consideran que es muy importante mantener una comunicación directa con el dueño o cliente, ya que esto les permite resolver dudas y coordinar detalles del alquiler de manera más eficiente.
+- **Valoración del dueño o cliente**: Ambos usuarios consideran que la valoración del dueño o cliente es importante, sin embargo, Jonathan lo valora más debido a la cantidad de dueños con los que trabaja
+- **Historial de alquileres realizados**: Renzo no considera importante tener un historial de alquileres realizados, ya que no lo utiliza para gestionar sus vehículos. Por otro lado, Jonathan considera que es relevante tener un historial de alquileres realizados para poder tener a mano la información de los arrendatarios.
+- **Acceso a los documentos de garantía del cliente o dueño**: Ambos usuarios consideran que es importante tener acceso a los documentos de garantía del cliente o dueño, ya que esto les permite verificar la fidelidad del otro.
+- **Panel de navegación de vehículos**: Renzo no considera importante tener un panel de navegación de vehículos porque no lo utiliza. Por otro lado, Jonathan considera fundamental un panel de navegación de vehículos para buscar opciones rápidamente.
+- **Panel de publicación de vehículos**: Renzo considera importante tener un panel de publicación de vehículos para ofrecer en alquiler sus vehículos, mientras que Jonathan no lo considera relevante porque no publica vehículos.
+
+#### 2.3.3. User Journey Mapping
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/Needfinding/JordanJourneyMap.png" width=600px>
+Aqui podemos evidenciar eñ flujo de trabajo y captación de Jordan para encontrar nuevos clientes, no es ideal y se encuentra frustrado con la poca seguridad que le ofrecen las plataformas gratuitas, pero las utiliza por su alcance.
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/Needfinding/PaulJourneyMap.png" width=600px>
+Por su lado Paul se siente frustrado por la falta de opciones y la poca seguridad que le ofrecen las plataformas gratuitas, por ello una vez identifica dueños confiables, deja de utilizar dicha plataforma a menos que sea estrictamente necesario.
+
+#### 2.3.4. Empathy Mapping
+
+#### 2.3.5. As-Is Scenario Mapping
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/Needfinding/PaulAsIsScenarioMap.png" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+
