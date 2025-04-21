@@ -520,6 +520,10 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 #### 2.3.4. Empathy Mapping
 
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+
+<img src="assets/Needfinding/Empathy-map-Arrendador.png" width=600px>
+
 #### 2.3.5. As-Is Scenario Mapping
 
 ###### Segmento Objetivo 1 (Arrendador de vehículos)
