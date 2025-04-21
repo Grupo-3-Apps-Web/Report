@@ -452,6 +452,29 @@ Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones qu
 13. ¿Estarías dispuesto a usar una nueva plataforma que te permita reservar un vehículo en unas fechas concretas antes de alquilarlo?
 14. ¿Estarías dispuesto a usar una nueva plataforma que te permita reseñar a los arrendadores?
 
+#### 2.2.2. Registro de entrevistas.
+
+Registramos las entrevistas con el fin de reunir y estructurar la información recibida. A través de estas entrevistas con los grupos objetivo, podremos identificar y destacar las necesidades que el cliente espera que la aplicación satisfaga.
+
+#### Arrendador
+
+* **Entrevista 1** <br>
+Nombre completo: Melina Orderique<br>
+Edad: 21 años<br>
+Papel desempeñado: Arrendador de un auto<br>
+Distrito: San Miguel<br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Enntrevista-Melina.png" alt="Entrevista 1" width="500"></a><br>
+[URL de la entrevista](https://cibertecedu-my.sharepoint.com/:v:/g/personal/x202410787_cibertec_edu_pe/EUl4xpD2au9MoF2MGtvQUTwBd9Sooxu6eDRi8VfRW7dHHQ?e=rvbSYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Duración de la entrevista: 10:02<br>
+**Transcripción resumen de entrevista:**<br>
+Durante la entrevista, la persona mostró una clara admiración por el producto que le presentamos, ya que le transmitió la seguridad que buscaba al momento de arrendar un vehículo a un tercero. Destacó que las medidas implementadas le parecieron adecuadas y necesarias. Además, comentó que para sentirse aún más segura, sería ideal contar con valoraciones o comentarios, tanto de los usuarios que han arrendado anteriormente los autos como de los propios dueños.
+
+También señaló que el acceso a la información detallada del vehículo, como sus características y su historial, le genera confianza, ya que considera que es una forma transparente de saber qué auto va a conducir. Por otro lado, mostró bastante interés en la disponibilidad de los vehículos al momento de hacer una reserva, ya que planea usarlos en distintos contextos: para ir al trabajo, en su rutina diaria o incluso para realizar viajes. En ese sentido, valoró positivamente la variedad de automóviles que ofrecemos, ya que eso le permite elegir el que mejor se adapte al uso que necesita darle en cada ocasión.
+
+
+
 ### 2.3. Needfinding.
 #### 2.3.1. User Personas
 A continuación presentamos los user personas identificadas basándonos en las entrevistas realizadas para ambos segmentos objetivos. Estos user personas nos ayudarán a entender mejor las necesidades y expectativas de nuestros futuros usuarios.
