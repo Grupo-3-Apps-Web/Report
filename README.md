@@ -535,6 +535,8 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ###### Segmento Objetivo 2 (Arrendatario de vehículos)
 
+<img src="assets/Needfinding/As-Is Scenario-Arrendatario.png" width=600px>
+
 
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 ### 3.2. User Stories
