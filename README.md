@@ -618,4 +618,4 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 <img src="assets/Impact-Mapping/IM-Arrendador.PNG" width=600px>
 
 ###### Segmento Objetivo 2 (Arrendatario de vehículos)
-<img src="assets/Impact-Mapping/IM-Arrendatario.PNG" width=600px>
+<img src="assets/Impact-Mapping/Impact-map-arrendador.PNG" width=600px>
