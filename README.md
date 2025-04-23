@@ -540,7 +540,7 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ## Capítulo III: Requirements Specification <a id="cap3"></a> 
 
-### 3.1 To Be Scenario Mapping
+### 3.1. To Be Scenario Mapping
 
 ###### Segmento Objetivo 1 (Arrendador de vehículos)
 <img src="assets/To-Be-ScenariO-Mapping/TBSM-Arrendador.jpg" width=600px>
@@ -611,3 +611,14 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 | TS-18        | Cambiar el Idioma de la Landing Page |
 | TS-19        | Contactar al Equipo de Soporte       |
 | TS-20        | Solucionar Errores Reportados        |
+
+
+### 3.3. Impact Mapping
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+
+<img src="assets/Impact-Mapping/IM-Arrendador.PNG" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+
+<img src="assets/Impact-Mapping/IM-Arrendatario.PNG" width=600px>
