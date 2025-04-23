@@ -521,11 +521,9 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 #### 2.3.4. Empathy Mapping
 
 ###### Segmento Objetivo 1 (Arrendador de vehículos)
-
 <img src="assets/Needfinding/Empathy-map-Arrendador.png" width=600px>
 
 ###### Segmento Objetivo 2 (Arrendatario de vehículos)
-
 <img src="assets/Needfinding/Empathy-map-Arrendatario.png" width=600px>
 
 #### 2.3.5. As-Is Scenario Mapping
@@ -534,8 +532,19 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 <img src="assets/Needfinding/PaulAsIsScenarioMap.png" width=600px>
 
 ###### Segmento Objetivo 2 (Arrendatario de vehículos)
-
 <img src="assets/Needfinding/As-Is Scenario-Arrendatario.png" width=600px>
+
+### 2.4. Ubiquitous Language
+
+Customer: Persona o entidad que alquila un vehículo a través de la plataforma.
+Vehicle: El objeto que se alquila, que puede tener diferentes características (marca, modelo, estado de disponibilidad, etc.).
+Rental: El proceso o transacción en el que un cliente toma un vehículo en renta.
+Reservation: Acción de apartar un vehículo para su alquiler en una fecha específica.
+Owner: Persona o empresa que pone a disposición un vehículo para alquiler en la plataforma.
+Availability: Estado que indica si un vehículo está disponible para ser alquilado en un periodo determinado.
+Transaction: El proceso de pago asociado al alquiler del vehículo.
+User Profile: Información asociada a los usuarios (clientes o propietarios), como datos personales, historial de alquileres, etc.
+
 
 
 ## Capítulo III: Requirements Specification <a id="cap3"></a> 
