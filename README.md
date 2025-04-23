@@ -538,7 +538,17 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 <img src="assets/Needfinding/As-Is Scenario-Arrendatario.png" width=600px>
 
 
-## Capítulo III: Requirements Specification <a id="cap3"></a>
+## Capítulo III: Requirements Specification <a id="cap3"></a> 
+
+### 3.1. To Be Scenario Mapping
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/To-Be-ScenariO-Mapping/TBSM-Arrendador.jpg" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/To-Be-ScenariO-Mapping/TBSM-Arrendatario.jpg" width=600px>
+
+
 ### 3.2. User Stories
 | **Epic / Story ID** | **Título**                               | **Descripción**                                                                                                                    | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Relacionado con (Epic ID)** |
 |---------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
@@ -601,3 +611,4 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 | TS-18        | Cambiar el Idioma de la Landing Page |
 | TS-19        | Contactar al Equipo de Soporte       |
 | TS-20        | Solucionar Errores Reportados        |
+
