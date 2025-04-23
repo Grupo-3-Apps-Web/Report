@@ -619,3 +619,29 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ###### Segmento Objetivo 2 (Arrendatario de vehículos)
 <img src="assets/Impact-Mapping/IM-Arrendatario.PNG" width=600px>
+
+### 3.4. Product Backlog
+
+| # Orden | User Story Id | Título                                      | Descripción                                                                                                                                 | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|----------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-18          | Cambiar el Idioma de la Landing Page        | Como visitante, quiero cambiar el idioma de la landing page para poder entender mejor la información presentada.                           | 1                                |
+| 2       | TS-19          | Contactar al Equipo de Soporte              | Como visitante, quiero contactar al equipo de soporte para obtener ayuda o resolver dudas sobre la plataforma.                             | 1                                |
+| 3       | US-16          | Navegación por el Landing Page              | Como visitante, quiero navegar por la landing page del software para obtener la información que deseo del producto.                        | 2                                |
+| 4       | US-17          | Ver Información del Startup                 | Como visitante, quiero ver la información del equipo de desarrollo para conocer a las personas detrás del software.                        | 2                                |
+| 5       | US-02          | Inicio de Sesión                            | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y publicar o reservar vehículos.                             | 2                                |
+| 6       | US-03          | Recuperación de Contraseña                  | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                               | 2                                |
+| 7       | US-09          | Eliminar una publicación                    | Como usuario, quiero eliminar una publicación ya creada.                                                                                   | 2                                |
+| 8       | US-10          | Visualizar las publicaciones de alquiler    | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                                               | 3                                |
+| 9       | US-11          | Ordenar el precio de los alquileres         | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                                         | 3                                |
+| 10      | US-12          | Reseñar publicaciones de alquiler           | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños                                                 | 3                                |
+| 11      | US-13          | Cargar documentos de garantía               | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.                           | 3                                |
+| 12      | US-06          | Dashboard del usuario                       | Como usuario, quiero contar con un dashboard donde consultar mis vehículos publicados.                                                     | 3                                |
+| 13      | US-08          | Visualizar una publicación                  | Como usuario, quiero ver el estado e información de una publicación ya creada.                                                             | 3                                |
+| 14      | US-15          | Cancelar reserva de vehículo                | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                                                 | 3                                |
+| 15      | US-01          | Registro de Usuario                         | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler.                    | 3                                |
+| 16      | US-05          | Cambiar el Idioma de la Aplicación          | Como usuario, quiero cambiar el idioma de la aplicación para poder utilizarla en mi idioma preferido.                                      | 3                                |
+| 17      | US-07          | Creación de publicaciones                   | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                                           | 5                                |
+| 18      | US-04          | Personalizar Interfaz                       | Como usuario, quiero personalizar la interfaz de la aplicación para adaptarla a mis preferencias y necesidades.                            | 5                                |
+| 19      | US-14          | Reserva de vehículo                         | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                                                | 5                                |
+| 20      | TS-20          | Solucionar Errores Reportados               | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto.         | 8                                |
+
