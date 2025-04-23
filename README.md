@@ -612,3 +612,10 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 | TS-19        | Contactar al Equipo de Soporte       |
 | TS-20        | Solucionar Errores Reportados        |
 
+### 3.3. Impact Mapping
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/Impact-Mapping/Impact-map-arrendador.PNG" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/Impact-Mapping/IM-Arrendatario.PNG" width=600px>
