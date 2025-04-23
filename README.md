@@ -538,7 +538,12 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 <img src="assets/Needfinding/As-Is Scenario-Arrendatario.png" width=600px>
 
 
-## Capítulo III: Requirements Specification <a id="cap3"></a>
+## Capítulo III: Requirements Specification <a id="cap3"></a> 
+
+### 3.1 To Be Scenario Mapping
+
+<img src="assets/To-Be-ScenariO-Mapping/TBSM-Arrendador.jpg" width=600px>
+
 ### 3.2. User Stories
 | **Epic / Story ID** | **Título**                               | **Descripción**                                                                                                                    | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Relacionado con (Epic ID)** |
 |---------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
