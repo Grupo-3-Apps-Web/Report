@@ -208,9 +208,9 @@ puedan interactuar de una manera rápida y sencilla.
   <tr><td><img src="assets/TeamMembers/JosuePaiva.jpg" alt="Josue Paiva" style="width: 300px"></td>
 <td>Soy Josue Paiva, tengo 22 años y soy de la carrera de Ingeniería de Software, tengo conocimiento de C++, Python y SQL, me gusta mantener buena comunicación con mis commpañeros de equipo, 
 cumplir con mis tareas y apoyar al resto cuando se requiera.</td></tr>
-  <tr><th colspan="2">Integrante 2</th></tr>
-  <tr><td>Foto</td>
-    <td>Descripción</td>
+  <tr><th colspan="2">Carlos De La Cruz Villarreal</th></tr>
+  <tr><td><img src="assets/TeamMembers/CarlosDeLaCruz.png" alt="Carlos De La Cruz" style="width: 300px"></td>
+    <td>Me llamo Carlos soy un estudiante de Ingeniería de Software, tengo 22 años y vivo en Lima. Mis pasatiempos son hacer deporte, jugar videojuegos y escuchar música. Me gusta trabajar en equipo porque de esta manera todos los integrantes podemos dar nuestro punto de vista e ideas para poder lograr el objetivo del curso. Además, para este curso me comprometo a ayudar en todo lo posible para la elaboración y desarrollo del trabajo.</td>
   </tr>
 <tr><th colspan="2">Integrante 3</th></tr>
   <tr><td>Foto</td>
