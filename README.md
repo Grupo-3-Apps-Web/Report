@@ -612,4 +612,3 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 | TS-19        | Contactar al Equipo de Soporte       |
 | TS-20        | Solucionar Errores Reportados        |
 
-
