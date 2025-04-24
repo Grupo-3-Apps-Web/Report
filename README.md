@@ -686,7 +686,7 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 **Home Landing Page**
 
-<img src="assets\Mock-Up\Desktop.png" alt="light-mode" width="750" height="400">
+<img src="assets\Mock-Up\Desktop.png">
 
 **Why Novacode**
 <img src="assets\Mock-Up\Why-Novacode.png" >
