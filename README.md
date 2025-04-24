@@ -688,6 +688,9 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 <img src="assets\Mock-Up\Desktop.png" alt="light-mode" width="750" height="400">
 
+**Why Novacode**
+<img src="assets\Mock-Up\Why-Novacode.png" >
+
 ### 4.4. Web Applications UX/UI Design 
 
 #### 4.4.1. Web Applications Wireframes
