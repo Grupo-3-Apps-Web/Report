@@ -686,7 +686,7 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 **Home Landing Page**
 
-<img src="assets\Mock-up\Desktop.png">
+<img src="assets\Mock-up\Desktop.png" alt="light-mode" width="750" height="400">
 
 ### 4.4. Web Applications UX/UI Design 
 
