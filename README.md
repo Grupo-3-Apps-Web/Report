@@ -456,7 +456,7 @@ Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones qu
 
 Registramos las entrevistas con el fin de reunir y estructurar la información recibida. A través de estas entrevistas con los grupos objetivo, podremos identificar y destacar las necesidades que el cliente espera que la aplicación satisfaga.
 
-#### Arrendador
+#### Segmento Objetivo 1: Arrendador de vehículo
 
 * **Entrevista 1** <br>
 Nombre completo: Melina Orderique<br>
@@ -472,6 +472,35 @@ Duración de la entrevista: 10:02<br>
 Durante la entrevista, la persona mostró una clara admiración por el producto que le presentamos, ya que le transmitió la seguridad que buscaba al momento de arrendar un vehículo a un tercero. Destacó que las medidas implementadas le parecieron adecuadas y necesarias. Además, comentó que para sentirse aún más segura, sería ideal contar con valoraciones o comentarios, tanto de los usuarios que han arrendado anteriormente los autos como de los propios dueños.
 
 También señaló que el acceso a la información detallada del vehículo, como sus características y su historial, le genera confianza, ya que considera que es una forma transparente de saber qué auto va a conducir. Por otro lado, mostró bastante interés en la disponibilidad de los vehículos al momento de hacer una reserva, ya que planea usarlos en distintos contextos: para ir al trabajo, en su rutina diaria o incluso para realizar viajes. En ese sentido, valoró positivamente la variedad de automóviles que ofrecemos, ya que eso le permite elegir el que mejor se adapte al uso que necesita darle en cada ocasión.
+
+**Entrevista 2** <br> 
+Nombre completo: Jordan Cruz <br>
+Edad: 27 años <br>
+Papel desempeñado: Arrendador de un auto<br>
+Distrito: Los Olivos<br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/jordan-cruz.png" alt="Entrevista 2" width="500"></a><br>
+[Url de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EaoNiK9S0c9Cl0y7G_ECciEBZhTQSMRyKaBdg_vgDIoQdg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EeJeC9)
+**Transcripción resumen de entrevistas:**<br>
+Durante la entrevista, el entrevistado, Jordan Darío, mostró interés en la plataforma, ya que considera que le brindaría un control más claro sobre el alquiler de sus vehículos. Apreció las medidas de seguridad que podrían proteger tanto a los arrendadores como a los arrendatarios. Además, destacó que contar con un sistema de reseñas de clientes anteriores sería una herramienta valiosa para identificar a inquilinos confiables y evitar problemas.
+Jordan también mencionó que sería útil tener una plataforma que permita registrar el estado de sus vehículos y gestionar el tiempo de alquiler de manera más eficiente. Aprecio especialmente la idea de contar con una plataforma que facilite la reserva anticipada, lo que le permitiría asegurar la disponibilidad de sus vehículos en fechas específicas. En general, mostró interés en un sistema que mejore la confianza y la transparencia entre arrendadores y arrendatarios.
+
+
+#### Segmento Objetivo 1: Arrendatario de vehículos
+
+**Entrevista 1** <br>
+Nombre: Paul Gamero
+Edad: 20 años <br>
+Papel desempeñado: Arrendadatario
+Distrito: Los olivos <br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Entrevista-Paul.png" alt="Entrevista 1" width="500"></a><br>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/ET9v_fSfaAxCuLASaqTLq-MBnc0DnhJK5HbxxiwMZ79Pxw?e=p7NnBh)
+**Transcripción resumen de entrevistas:**<br>
+Durante la entrevista, el entrevistado mostró un claro interés en la plataforma de alquiler de vehículos. Destacó la importancia de contar con una aplicación que ofrezca información detallada sobre los vehículos y que permita consultar reseñas de otros usuarios para garantizar la confiabilidad de los arrendadores. 
+También valoró positivamente la posibilidad de reservar vehículos con antelación, ya que esto le otorga más seguridad al momento de realizar su alquiler. Mencionó que la variedad de opciones disponibles es crucial para elegir el vehículo adecuado según el tipo de uso que necesita, ya sea para viajes familiares o desplazamientos diarios.
 
 
 
