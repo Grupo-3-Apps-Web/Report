@@ -458,22 +458,7 @@ Registramos las entrevistas con el fin de reunir y estructurar la información r
 
 #### Segmento Objetivo 1: Arrendador de vehículo
 
-* **Entrevista 1** <br>
-Nombre completo: Melina Orderique<br>
-Edad: 21 años<br>
-Papel desempeñado: Arrendador de un auto<br>
-Distrito: San Miguel<br><br>
-**Detalles de la entrevista:** <br>
-
-<img src="assets/Interviews/Enntrevista-Melina.png" alt="Entrevista 1" width="500"></a><br>
-[URL de la entrevista](https://cibertecedu-my.sharepoint.com/:v:/g/personal/x202410787_cibertec_edu_pe/EUl4xpD2au9MoF2MGtvQUTwBd9Sooxu6eDRi8VfRW7dHHQ?e=rvbSYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-Duración de la entrevista: 10:02<br>
-**Transcripción resumen de entrevista:**<br>
-Durante la entrevista, la persona mostró una clara admiración por el producto que le presentamos, ya que le transmitió la seguridad que buscaba al momento de arrendar un vehículo a un tercero. Destacó que las medidas implementadas le parecieron adecuadas y necesarias. Además, comentó que para sentirse aún más segura, sería ideal contar con valoraciones o comentarios, tanto de los usuarios que han arrendado anteriormente los autos como de los propios dueños.
-
-También señaló que el acceso a la información detallada del vehículo, como sus características y su historial, le genera confianza, ya que considera que es una forma transparente de saber qué auto va a conducir. Por otro lado, mostró bastante interés en la disponibilidad de los vehículos al momento de hacer una reserva, ya que planea usarlos en distintos contextos: para ir al trabajo, en su rutina diaria o incluso para realizar viajes. En ese sentido, valoró positivamente la variedad de automóviles que ofrecemos, ya que eso le permite elegir el que mejor se adapte al uso que necesita darle en cada ocasión.
-
-**Entrevista 2** <br> 
+**Entrevista 1** <br> 
 Nombre completo: Jordan Cruz <br>
 Edad: 27 años <br>
 Papel desempeñado: Arrendador de un auto<br>
@@ -543,6 +528,21 @@ También valoró positivamente la posibilidad de reservar vehículos con antelac
         - Reseñas verificadas de arrendadores y vehículos.
         - Reservas instantáneas sin trámites burocráticos.
         - Reporte transparente del estado del auto (para evitar conflictos post-devolución).
+
+* **Entrevista 3** <br>
+Nombre completo: Melina Orderique<br>
+Edad: 21 años<br>
+Papel desempeñado: Arrendador de un auto<br>
+Distrito: San Miguel<br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Enntrevista-Melina.png" alt="Entrevista 1" width="500"></a><br>
+[URL de la entrevista](https://cibertecedu-my.sharepoint.com/:v:/g/personal/x202410787_cibertec_edu_pe/EUl4xpD2au9MoF2MGtvQUTwBd9Sooxu6eDRi8VfRW7dHHQ?e=rvbSYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Duración de la entrevista: 10:02<br>
+**Transcripción resumen de entrevista:**<br>
+Durante la entrevista, la persona mostró una clara admiración por el producto que le presentamos, ya que le transmitió la seguridad que buscaba al momento de arrendar un vehículo a un tercero. Destacó que las medidas implementadas le parecieron adecuadas y necesarias. Además, comentó que para sentirse aún más segura, sería ideal contar con valoraciones o comentarios, tanto de los usuarios que han arrendado anteriormente los autos como de los propios dueños.
+
+También señaló que el acceso a la información detallada del vehículo, como sus características y su historial, le genera confianza, ya que considera que es una forma transparente de saber qué auto va a conducir. Por otro lado, mostró bastante interés en la disponibilidad de los vehículos al momento de hacer una reserva, ya que planea usarlos en distintos contextos: para ir al trabajo, en su rutina diaria o incluso para realizar viajes. En ese sentido, valoró positivamente la variedad de automóviles que ofrecemos, ya que eso le permite elegir el que mejor se adapte al uso que necesita darle en cada ocasión.
 
 
 
