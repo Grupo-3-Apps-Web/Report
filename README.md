@@ -492,7 +492,7 @@ Jordan también mencionó que sería útil tener una plataforma que permita regi
   Papel desempeñado: Profesor<br>
   Distrito: Bellavista<br><br>
   **Detalles de la entrevista:** <br>
-  <img src="assets/Interviews/interview1-juandiaz.jpg" alt="Entrevista 1" width="500"></a><br>
+  <img src="assets/Interviews/interview1-juandiaz.jpg" alt="Entrevista 3" width="500"></a><br>
   [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ETNLRkvi8BtPjVwMTuiRGh8BjuWbt-KyCiaRb21tqHgS_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oMhBuv)<br>
   Inicio de la entrevista: 00:03 <br>
   Duración de la entrevista: 03:54<br><br>
@@ -522,13 +522,13 @@ Distrito: Los olivos <br><br>
 Durante la entrevista, el entrevistado mostró un claro interés en la plataforma de alquiler de vehículos. Destacó la importancia de contar con una aplicación que ofrezca información detallada sobre los vehículos y que permita consultar reseñas de otros usuarios para garantizar la confiabilidad de los arrendadores. 
 También valoró positivamente la posibilidad de reservar vehículos con antelación, ya que esto le otorga más seguridad al momento de realizar su alquiler. Mencionó que la variedad de opciones disponibles es crucial para elegir el vehículo adecuado según el tipo de uso que necesita, ya sea para viajes familiares o desplazamientos diarios.
 
-**Entrevista 4** <br>
+**Entrevista 2** <br>
   Nombre completo: Antony Quito Penadillo<br>
   Edad: 24<br>
   Papel desempeñado: Psicologo<br>
   Distrito: Ventanilla<br><br>
   **Detalles de la entrevista:** <br>
-  <img src="assets/Interviews/interview4-antonyquito.jpg" alt="Entrevista 4" width="500"></a><br>
+  <img src="assets/Interviews/interview4-antonyquito.jpg" alt="Entrevista 2" width="500"></a><br>
   [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ESjuf2gLnSxHn35FiYEj4v4Be-7s2Asex8MHxyRjfgZFHQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YGjnaH)<br>
   Inicio de la entrevista: 00:02<br>
   Duración de la entrevista: 06:39<br><br>
