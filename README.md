@@ -705,6 +705,10 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 <img src="assets\Mock-Up\vehicles.png">
 
+<br>**Download**
+
+<img src="assets\Mock-Up\Download.png">
+
 ### 4.4. Web Applications UX/UI Design 
 
 #### 4.4.1. Web Applications Wireframes
