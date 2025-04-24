@@ -691,6 +691,9 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 **Why Novacode**
 <img src="assets\Mock-Up\Why-Novacode.png" >
 
+**Testimonies**
+<img src="assets\Mock-Up\\Testimonies.png">
+
 ### 4.4. Web Applications UX/UI Design 
 
 #### 4.4.1. Web Applications Wireframes
