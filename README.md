@@ -9,7 +9,7 @@
   <br>
   <h2 >Informe del TB1</h2>
   <h2 >Startup: NovaCode</h2>
-  <h2 >Producto: EasyRent</h2>
+  <h2 >Producto: Automovil-Unite</h2>
   <br>
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
@@ -207,8 +207,7 @@ puedan interactuar de una manera rápida y sencilla.
 <table>
   <tr><th colspan="2">Josue Paiva</th></tr>
   <tr><td><img src="assets/TeamMembers/JosuePaiva.jpg" alt="Josue Paiva" style="width: 300px"></td>
-<td>Soy Josue Paiva, tengo 22 años y soy de la carrera de Ingeniería de Software, tengo conocimiento de C++, Python y SQL, me gusta mantener buena comunicación con mis commpañeros de equipo, 
-cumplir con mis tareas y apoyar al resto cuando se requiera.</td></tr>
+<td>Soy Josue Paiva, tengo 22 años y soy de la carrera de Ingeniería de Software, tengo conocimiento de C++, Python y SQL, me gusta mantener buena comunicación con mis commpañeros de equipo, cumplir con mis tareas y apoyar al resto cuando se requiera.</td></tr>
   <tr><th colspan="2">Carlos De La Cruz Villarreal</th></tr>
   <tr><td><img src="assets/TeamMembers/CarlosDeLaCruz.png" alt="Carlos De La Cruz" style="width: 300px"></td>
     <td>Me llamo Carlos soy un estudiante de Ingeniería de Software, tengo 22 años y vivo en Lima. Mis pasatiempos son hacer deporte, jugar videojuegos y escuchar música. Me gusta trabajar en equipo porque de esta manera todos los integrantes podemos dar nuestro punto de vista e ideas para poder lograr el objetivo del curso. Además, para este curso me comprometo a ayudar en todo lo posible para la elaboración y desarrollo del trabajo.</td>
@@ -740,3 +739,110 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
+
+## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
+### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+### Project Management
+Desarrollo del reporte: Github
+Planificacion y reunion: Discord
+Comunicacion: Whatsapp
+
+### Requirement Management
+Utilizamos UXPressia para poder desarrollar los mapas, los user personas y lean UX canvas
+
+<img src="assets/sprint1/uxpressia.png" width=300 >
+
+### Product UX/UI Design
+Utilizamos Figma para el desarrollo de mock ups tanto del landing page como de la web app
+
+<img src="assets/sprint1/figma.jpeg" width=300 >
+
+### Software Deployment
+Trabajamos con Netlify para el despliegue de la landing page
+
+#### 5.1.2. Source Code Management
+
+| Producto     | URL                                              |
+|--------------|--------------------------------------------------|
+| Landing Page | https://github.com/Grupo-3-Apps-Web/Landing-Page |
+| Report       | https://github.com/Grupo-3-Apps-Web/Report       |
+
+#### 5.1.3. Source Code Style Guide & Conventions.
+
+Como convención general , todo el codigo realizado por los miembros del equipo debe redactarse en completo inglés.
+<br><br>*HTML*<br>
+- *Use Lowercase Element Name*<br>
+  Se recomienda usar lowercase para los nombres de los elementos HTML:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html.png" /></p><br>
+- *Close All HTML Elements*<br>
+  Se recomienda cerrar todos los elementos HTML:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-1.png" alt="Close all html" /></p><br>
+- *Use Lowercase Attribute Names*<br>
+  Se recomienda usar lowercase para los nombres de los atributos HTML:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-2.png" alt="attribute Names" /></p><br>
+- *Always Specify alt, width, and height for Images*<br>
+  Se recomienda seguir estas convenciones en caso de que la imagen no se puede mostrar y ayudar con la accesibilidad del contenido:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-3.png" alt="always images" /></p>
+  <br>Para mas información sobre las convenciones de HTML: https://www.w3schools.com/html/html5_syntax.asp
+
+<br>*CSS*<br><br>
+- *ID and Class Naming*<br>
+  Usar nombres de clases y ID significativos que expresen el propósito del elemento:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-1.png" alt="class naming" /></p><br>
+- *Block Content Identation*<br>
+  Sangrar todo el contenido del bloque, es decir, reglas dentro de reglas, así como declaraciones, para reflejar la jerarquía y Mejorar la comprensión<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-2.png" alt="content identation" /></p><br>
+- *Section Comments*<br>
+  Agrupe las secciones de la hoja de estilo mediante comentarios. Separar secciones con nuevas líneas.<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-3.png" alt="Comments" /></p>
+  <br>Para mas informacion sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
+
+<br>*JavaScript*<br><br>
+- *Array initializers: can be "block-like"*<br>
+  Cualquier inicializador de matriz puede ser formateado opcionalmente como si fuera un "tipo bloque" construir". Por ejemplo, los siguientes son todos válidos (no es un análisis exhaustivo lista):<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-1.png" alt="block like" /></p><br>
+- *Type-use annotations*<br>
+  Las anotaciones de uso de tipo aparecen inmediatamente antes del tipo anotado. Una anotación es un uso de tipo anotación si está meta-anotado con . Ejemplo:@Target(ElementType.TYPE_USE)<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-2.png" alt="type-use annotations" /></p><br>
+- *Method and constructor annotations*<br>
+  Las reglas para las anotaciones en las declaraciones de método y constructor son las mismas que en la sección anterior. Ejemplo:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-3.png" alt="method" /></p>
+  <br>Para mas informacion sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
+
+<br>*TypeScript*<br><br>
+- *Imports*<br>
+  Hay cuatro variantes de instrucciones de importación en ES6 y TypeScript:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-1.png" alt="imports" /></p><br>
+- *Class declarations*<br>
+  Las declaraciones de clase no deben terminar con punto y coma:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-2.png" alt="Class declarations" /></p><br>
+
+- *Constructors*<br>
+  Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasa ningún argumento:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-3.png" alt="constructor" /></p>
+  <br>Para mas informacion sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
+
+<br>*Gherkin*<br><br>
+- *Discernible Given-When-Then Blocks*<br>
+  En teoría, sus escenarios pueden ser tan simples como un solo paso Given, When Then, cada uno. Sin embargo, en la vida real, tienden a crecer y tienen múltiples pasos para cada una de estas palabras clave. Para detectar rápidamente dónde termina un bloque y comienza otro, puede sangrar los pasos que comienzan con "Y". Entonces, el escenario sería algo así:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-1.png" alt="Discernible" /></p><br>
+  Una alternativa es hacer que cada paso comience con la misma sangría y agregar una nueva línea adicional antes del siguiente bloque de palabras clave.<br><br>
+- *Steps with Tables*<br>
+  A menudo usamos tablas en nuestros pasos. Para que sea inmediatamente reconocible que un paso necesita más información de una tabla, usamos dos puntos al final del paso. Esto ayuda cuando se usa IntelliSense, que no incluye vistas previas de tablas, pero mostrará los dos puntos:<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-2.png" alt="tables" /></p><br>
+- *Reducing Noise*<br>
+  Para reducir el ruido, se recomienda utilizar valores predeterminados para los campos que el sistema requiere, pero que no son relevantes para su escenario.<br>
+  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-3.png" alt="noise" /></p><br>
+  Para mas informacion sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
+#### 5.1.4. Software Deployment Configuration
+**Pasos realizados para desplegar la Landing Page:**
+1) Crear un nuevo repositorio en la organizacion para la landing page
+2) Cargar el proyecto en el repositorio
+3) Enlazar netlify con la cuenta de github
+4) Seleccionar el repositorio de la landing page
+5) Configurar el branch a desplegar (main)
+6) Configurar el directorio de salida (build)
+8) Configurar el dominio (automovilunite.com)
+
