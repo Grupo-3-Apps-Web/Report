@@ -688,14 +688,22 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 <img src="assets\Mock-Up\Desktop.png">
 
-**Why Novacode**
+
+<br>**Why Novacode**
+
 <img src="assets\Mock-Up\Why-Novacode.png" >
 
-**Testimonies**
+<br>**Testimonies**
+
 <img src="assets\Mock-Up\Testimonies.png">
 
-**Safety**
+<br>**Safety**
+
 <img src="assets\Mock-Up\Safety.png">
+
+<br>**Show the vehicles**
+
+<img src="assets\Mock-Up\vehicles.png">
 
 ### 4.4. Web Applications UX/UI Design 
 
