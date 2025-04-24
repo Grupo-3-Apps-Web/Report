@@ -729,6 +729,8 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 #### 4.6.3. Software Architecture Components Diagrams
 
+<img src="assets\Diagrams\Components-Diagrams.png">
+
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
