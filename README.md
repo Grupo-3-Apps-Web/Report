@@ -171,25 +171,16 @@ del ABET – EAC - Student Outcome 3.
   </tr>
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-    <td>
-<br>
-<br>
-<br>
-<br>
-    <td>
-</td>
+    <td>Hola</td>
+    <td>Hola</td>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-    <td>
-<br>
-<br>
-<br>
-    </td>
-    <td>
-</td>
+    <td>Chau</td>
+    <td>Chau</td>
   </tr>
 </table>
+
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 ### 1.1. Startup Profile
