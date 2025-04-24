@@ -486,6 +486,26 @@ Distrito: Los Olivos<br><br>
 Durante la entrevista, el entrevistado, Jordan Darío, mostró interés en la plataforma, ya que considera que le brindaría un control más claro sobre el alquiler de sus vehículos. Apreció las medidas de seguridad que podrían proteger tanto a los arrendadores como a los arrendatarios. Además, destacó que contar con un sistema de reseñas de clientes anteriores sería una herramienta valiosa para identificar a inquilinos confiables y evitar problemas.
 Jordan también mencionó que sería útil tener una plataforma que permita registrar el estado de sus vehículos y gestionar el tiempo de alquiler de manera más eficiente. Aprecio especialmente la idea de contar con una plataforma que facilite la reserva anticipada, lo que le permitiría asegurar la disponibilidad de sus vehículos en fechas específicas. En general, mostró interés en un sistema que mejore la confianza y la transparencia entre arrendadores y arrendatarios.
 
+**Entrevista 3** <br>
+  Nombre completo: Juan Diaz Banda<br>
+  Edad: 28 años<br>
+  Papel desempeñado: Profesor<br>
+  Distrito: Bellavista<br><br>
+  **Detalles de la entrevista:** <br>
+  <img src="assets/Interviews/interview1-juandiaz.jpg" alt="Entrevista 1" width="500"></a><br>
+  [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ETNLRkvi8BtPjVwMTuiRGh8BjuWbt-KyCiaRb21tqHgS_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oMhBuv)<br>
+  Inicio de la entrevista: 00:03 <br>
+  Duración de la entrevista: 03:54<br><br>
+  **Transcripción resumen de entrevista:**<br>
+  Juan Díaz, de 28 años y residente en Bellavista, Callao, combina su trabajo en un colegio con el
+  alquiler de su Toyota Yaris para generar ingresos adicionales. Es una persona práctica y organizada, que gestiona su negocio mediante un registro en Excel y opera principalmente en zonas cercanas a su domicilio. Para alquilar su vehículo, exige DNI y licencia de conducir, con un mínimo de un día y un máximo de tres (usualmente fines de semana). <br><br>
+  Promociona su servicio a través de Instagram y coordina los tratos por WhatsApp, pero reconoce que estas plataformas son inseguras para manejar datos personales. Muestra interés en migrar a una aplicación especializada que le permita ver reseñas de clientes, gestionar sus alquileres con un panel de control y reducir riesgos. Su perfil refleja la necesidad de una solución tecnológica más confiable y eficiente para su negocio.<br><br>
+
+  **Insights clave:**<br>
+    - Personalidad: Práctico, cauteloso y abierto a innovaciones.
+    - Tecnología actual: Redes sociales + Excel, con limitaciones de seguridad.
+    - Oportunidad: Plataforma con sistema de reputación, gestión integrada y verificación de clientes.
+
 
 #### Segmento Objetivo 2: Arrendatario de vehículos
 
@@ -501,6 +521,28 @@ Distrito: Los olivos <br><br>
 **Transcripción resumen de entrevistas:**<br>
 Durante la entrevista, el entrevistado mostró un claro interés en la plataforma de alquiler de vehículos. Destacó la importancia de contar con una aplicación que ofrezca información detallada sobre los vehículos y que permita consultar reseñas de otros usuarios para garantizar la confiabilidad de los arrendadores. 
 También valoró positivamente la posibilidad de reservar vehículos con antelación, ya que esto le otorga más seguridad al momento de realizar su alquiler. Mencionó que la variedad de opciones disponibles es crucial para elegir el vehículo adecuado según el tipo de uso que necesita, ya sea para viajes familiares o desplazamientos diarios.
+
+**Entrevista 4** <br>
+  Nombre completo: Antony Quito Penadillo<br>
+  Edad: 24<br>
+  Papel desempeñado: Psicologo<br>
+  Distrito: Ventanilla<br><br>
+  **Detalles de la entrevista:** <br>
+  <img src="assets/Interviews/interview4-antonyquito.jpg" alt="Entrevista 4" width="500"></a><br>
+  [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ESjuf2gLnSxHn35FiYEj4v4Be-7s2Asex8MHxyRjfgZFHQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YGjnaH)<br>
+  Inicio de la entrevista: 00:02<br>
+  Duración de la entrevista: 06:39<br><br>
+  **Transcripción resumen de entrevista:**<br>
+  Anthony Steven Quito Peñadillo, de 23 años y residente en Ventanilla, trabaja como psicólogo para Coca-Cola, donde realiza visitas a múltiples sedes para sesiones y distribución de productos. Para optimizar su movilidad entre distritos (Comas, Independencia, etc.), recurre frecuentemente al alquiler de vehículos compactos con espacio de carga.<br><br>
+  Es un usuario metódico y exigente, que prioriza procesos claros y transparencia en los alquileres. Actualmente utiliza plataformas web de concesionarias (como Six Rentacar o Street Rentacar) vinculadas al aeropuerto Jorge Chávez, accediendo desde su laptop Lenovo 5 o computadora de escritorio. Sin embargo, critica la lentitud del sistema (requiere tickets de soporte) y la falta de información real sobre el estado de los vehículos.<br><br>
+
+  Insights clave:<br>
+    - Personalidad: Técnico, detallista y frustrado con procesos obsoletos.
+    - Tecnología actual: Plataformas web tradicionales con mala UX y soporte lento.
+    - Oportunidad: Sistema ágil con:
+        - Reseñas verificadas de arrendadores y vehículos.
+        - Reservas instantáneas sin trámites burocráticos.
+        - Reporte transparente del estado del auto (para evitar conflictos post-devolución).
 
 
 
