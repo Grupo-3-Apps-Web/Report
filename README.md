@@ -480,8 +480,8 @@ Papel desempeñado: Arrendador de un auto<br>
 Distrito: Los Olivos<br><br>
 **Detalles de la entrevista:** <br>
 
-<img src="assets/Interviews/jordan-cruz.png" alt="Entrevista 2" width="500"></a><br>
-[Url de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EaoNiK9S0c9Cl0y7G_ECciEBZhTQSMRyKaBdg_vgDIoQdg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EeJeC9)
+<img src="assets/Interviews/Entrevista-Jordan.png" alt="Entrevista 2" width="500"></a><br>
+[Url de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EaoNiK9S0c9Cl0y7G_ECciEBZhTQSMRyKaBdg_vgDIoQdg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EeJeC9) Duración de la entrevista: 4:51 <br>
 **Transcripción resumen de entrevistas:**<br>
 Durante la entrevista, el entrevistado, Jordan Darío, mostró interés en la plataforma, ya que considera que le brindaría un control más claro sobre el alquiler de sus vehículos. Apreció las medidas de seguridad que podrían proteger tanto a los arrendadores como a los arrendatarios. Además, destacó que contar con un sistema de reseñas de clientes anteriores sería una herramienta valiosa para identificar a inquilinos confiables y evitar problemas.
 Jordan también mencionó que sería útil tener una plataforma que permita registrar el estado de sus vehículos y gestionar el tiempo de alquiler de manera más eficiente. Aprecio especialmente la idea de contar con una plataforma que facilite la reserva anticipada, lo que le permitiría asegurar la disponibilidad de sus vehículos en fechas específicas. En general, mostró interés en un sistema que mejore la confianza y la transparencia entre arrendadores y arrendatarios.
@@ -497,7 +497,7 @@ Distrito: Los olivos <br><br>
 **Detalles de la entrevista:** <br>
 
 <img src="assets/Interviews/Entrevista-Paul.png" alt="Entrevista 1" width="500"></a><br>
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/ET9v_fSfaAxCuLASaqTLq-MBnc0DnhJK5HbxxiwMZ79Pxw?e=p7NnBh)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/ET9v_fSfaAxCuLASaqTLq-MBnc0DnhJK5HbxxiwMZ79Pxw?e=p7NnBh) Duración de la entrevista: 3:57 <br>
 **Transcripción resumen de entrevistas:**<br>
 Durante la entrevista, el entrevistado mostró un claro interés en la plataforma de alquiler de vehículos. Destacó la importancia de contar con una aplicación que ofrezca información detallada sobre los vehículos y que permita consultar reseñas de otros usuarios para garantizar la confiabilidad de los arrendadores. 
 También valoró positivamente la posibilidad de reservar vehículos con antelación, ya que esto le otorga más seguridad al momento de realizar su alquiler. Mencionó que la variedad de opciones disponibles es crucial para elegir el vehículo adecuado según el tipo de uso que necesita, ya sea para viajes familiares o desplazamientos diarios.
