@@ -666,16 +666,50 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 #### 4.1.2. Web Style Guidelines
 
 ### 4.2. Information Architecture
-
 #### 4.2.1. Organization Systems
+El sistema de organización del contenido de EasyRent sigue una estructura jerárquica
+clara, permitiendo a los usuarios navegar fácilmente desde lo general hasta lo específico.
+Las secciones principales incluyen:
+- **Home**: Página principal con acceso a todas las funcionalidades.
+- **Features**: Características principales de la plataforma.
+- **Pricing**: Precios y planes de alquiler.
+- **Footer**: Información de contacto y enlaces adicionales.
+
+Además, se emplea un sistema secuencial para la sección de precios, donde los usuarios
+siguen un proceso paso a paso para seleccionar el plan de alquiler adecuado.
 
 #### 4.2.2. Labeling Systems
 
+Las etiquetas dentro de la plataforma han sido diseñadas para ser simples, claras y
+concisas, evitando confusiones para los usuarios. Se utilizan términos como "Ver
+Vehículos", "Alquilar Ahora", "Características", "Mis Reservas", etc.
+
 #### 4.2.3. SEO Tags and Meta Tags
+
+Se implementa una estrategia de SEO para asegurar una mayor visibilidad en los motores
+de búsqueda. Las etiquetas usadas son las siguientes:
+
+- **Title**: EasyRent - Plataforma de Alquiler de Vehículos
+- **Meta Description**: EasyRent es una plataforma fácil de usar y segura para alquilar
+  vehículos. Encuentra el coche ideal para tus necesidades de forma rápida y conveniente.
+- **Meta Keywords**: alquiler de vehículos, alquiler de autos, plataforma de alquiler
+  de vehículos, EasyRent, coches en alquiler.
+- **Meta Author**: NovaCode Team
 
 #### 4.2.4. Searching Systems
 
+Se ha incluido un sistema de búsqueda accesible en la barra de navegación para que los
+usuarios puedan buscar vehículos por tipo, ubicación, fecha y más. Además, los filtros
+permiten refinar la búsqueda según las preferencias del usuario.
+
 #### 4.2.5. Navigation Systems
+
+El sistema de navegación es claro y accesible, permitiendo a los usuarios desplazarse
+fácilmente por el sitio. La navegación principal incluye enlaces a las secciones clave
+como "Inicio", "Vehículos", "Precios", y "Mi Cuenta". Además, se ha añadido una barra de
+navegación fija para que los usuarios siempre tengan acceso al menú de secciones,
+independientemente de su posición en la página.
+
 
 ### 4.3. Landing Page UI Design
 
