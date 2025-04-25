@@ -215,12 +215,9 @@ puedan interactuar de una manera rápida y sencilla.
 <tr><th colspan="2">Josue Antonio Flores Apaico</th></tr>
   <tr><td><img src="assets/TeamMembers/JosueFlores.png" alt="Carlos De La Cruz" style="width: 300px"></td>
     <td>Soy Josue Flores es una persona creativa, perseverante y empática, con interés en áreas como la Inteligencia Artificial, ciberseguridad y ciencia de datos. Busca aplicar sus conocimientos en C++, Python, C# y Java dentro de una startup tecnológica, impulsando la innovación y la mejora continua. Cuenta con experiencia práctica en proyectos y participación en conferencias de ciberseguridad.</td></tr>
-<tr>
-    <th colspan="2">Integrante 4</th>
-  </tr>
-  <tr>
-    <td>Foto</td>
-    <td>Descripción</td>
+<tr><th colspan="2">Gabriel Alcantara Baldeon</th></tr>
+   <tr><td><img src="assets/TeamMembers/GabrielAlcantara.jpg" alt="Gabriel Alcantara" style="width: 300px"></td>
+    <td>Soy Poly Gabriel Alcántara Baldeón, estudiante de Ingeniería de Software en la UPC. Tengo conocimientos básicos en C#, Java y Python, y estoy en constante búsqueda de mejorar mis habilidades técnicas. Me considero una persona responsable y comprometida, que valora el trabajo en equipo y el apoyo mutuo. Siempre estoy dispuesto a colaborar en lo que sea necesario para lograr los objetivos comunes y asegurar que cada tarea se complete de forma eficiente.</td>
   </tr>
 <tr><th colspan="2">Integrante 5</th></tr>
   <tr><td>Foto</td>
