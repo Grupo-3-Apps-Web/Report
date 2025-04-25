@@ -451,6 +451,114 @@ Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones qu
 13. ¿Estarías dispuesto a usar una nueva plataforma que te permita reservar un vehículo en unas fechas concretas antes de alquilarlo?
 14. ¿Estarías dispuesto a usar una nueva plataforma que te permita reseñar a los arrendadores?
 
+#### 2.2.2. Registro de entrevistas.
+
+Registramos las entrevistas con el fin de reunir y estructurar la información recibida. A través de estas entrevistas con los grupos objetivo, podremos identificar y destacar las necesidades que el cliente espera que la aplicación satisfaga.
+
+#### Segmento Objetivo 1: Arrendador de vehículo
+
+**Entrevista 1** <br> 
+Nombre completo: Jordan Cruz <br>
+Edad: 27 años <br>
+Papel desempeñado: Arrendador de un auto<br>
+Distrito: Los Olivos<br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Entrevista-Jordan.PNG" alt="Entrevista 1" width="500"></a><br>
+[Url de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EaoNiK9S0c9Cl0y7G_ECciEBZhTQSMRyKaBdg_vgDIoQdg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EeJeC9) Duración de la entrevista: 4:51 <br>
+**Transcripción resumen de entrevistas:**<br>
+Durante la entrevista, el entrevistado, Jordan Darío, mostró interés en la plataforma, ya que considera que le brindaría un control más claro sobre el alquiler de sus vehículos. Apreció las medidas de seguridad que podrían proteger tanto a los arrendadores como a los arrendatarios. Además, destacó que contar con un sistema de reseñas de clientes anteriores sería una herramienta valiosa para identificar a inquilinos confiables y evitar problemas.
+Jordan también mencionó que sería útil tener una plataforma que permita registrar el estado de sus vehículos y gestionar el tiempo de alquiler de manera más eficiente. Aprecio especialmente la idea de contar con una plataforma que facilite la reserva anticipada, lo que le permitiría asegurar la disponibilidad de sus vehículos en fechas específicas. En general, mostró interés en un sistema que mejore la confianza y la transparencia entre arrendadores y arrendatarios.
+
+
+**Entrevista 2** <br> 
+Nombre completo: Jose Marchena <br>
+Edad: 23 años <br>
+Papel desempeñado: Arrendador de un auto<br>
+Distrito: San Juan de Lurigancho<br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Interviews-Jose.png" alt="Entrevista 2" width="500"><a><br>
+[Url de la entrevista](https://cibertecedu-my.sharepoint.com/:v:/g/personal/x202410787_cibertec_edu_pe/Ed8WH4kM5r1NuKBbAIT-o7sBkQnUGxM9BAgtcJfWBJ2Kzw?e=50ILnu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) Duración de la entrevista: 5:33 <br>
+**Transcripción resumen de entrevistas:**<br>
+Me impresionó gratamente el producto presentado, ya que incorpora las medidas de seguridad que siempre buscamos al momento de arrendar un vehículo a un tercero. Además, me gustaría que también contara con funciones que permitan ver opiniones o comentarios de otros usuarios que ya han utilizado la plataforma para alquilar vehículos, lo cual aumentaría aún más la confianza. Anteriormente solía ofrecer mi vehículo en alquiler a través de Facebook, pero siempre quedaba esa duda e inseguridad al momento de entregarlo. Sin embargo, con los métodos de seguridad que me mostraron, ahora me siento mucho más tranquilo y confiado en el servicio, ya que cubre nuestras preocupaciones y brinda la tranquilidad que buscábamos.
+
+
+**Entrevista 3** <br>
+  Nombre completo: Juan Diaz Banda<br>
+  Edad: 28 años<br>
+  Papel desempeñado: Profesor<br>
+  Distrito: Bellavista<br><br>
+  **Detalles de la entrevista:** <br>
+  <img src="assets/Interviews/interview1-juandiaz.jpg" alt="Entrevista 3" width="500"></a><br>
+  [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ETNLRkvi8BtPjVwMTuiRGh8BjuWbt-KyCiaRb21tqHgS_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oMhBuv)<br>
+  Inicio de la entrevista: 00:03 <br>
+  Duración de la entrevista: 03:54<br><br>
+  **Transcripción resumen de entrevista:**<br>
+  Juan Díaz, de 28 años y residente en Bellavista, Callao, combina su trabajo en un colegio con el
+  alquiler de su Toyota Yaris para generar ingresos adicionales. Es una persona práctica y organizada, que gestiona su negocio mediante un registro en Excel y opera principalmente en zonas cercanas a su domicilio. Para alquilar su vehículo, exige DNI y licencia de conducir, con un mínimo de un día y un máximo de tres (usualmente fines de semana). <br><br>
+  Promociona su servicio a través de Instagram y coordina los tratos por WhatsApp, pero reconoce que estas plataformas son inseguras para manejar datos personales. Muestra interés en migrar a una aplicación especializada que le permita ver reseñas de clientes, gestionar sus alquileres con un panel de control y reducir riesgos. Su perfil refleja la necesidad de una solución tecnológica más confiable y eficiente para su negocio.<br><br>
+
+  **Insights clave:**<br>
+    - Personalidad: Práctico, cauteloso y abierto a innovaciones.
+    - Tecnología actual: Redes sociales + Excel, con limitaciones de seguridad.
+    - Oportunidad: Plataforma con sistema de reputación, gestión integrada y verificación de clientes.
+
+
+#### Segmento Objetivo 2: Arrendatario de vehículos
+
+**Entrevista 1** <br>
+Nombre: Paul Gamero
+Edad: 20 años <br>
+Papel desempeñado: Arrendadatario
+Distrito: Los olivos <br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Entrevista-Paul.png" alt="Entrevista 1" width="500"></a><br>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/ET9v_fSfaAxCuLASaqTLq-MBnc0DnhJK5HbxxiwMZ79Pxw?e=p7NnBh) Duración de la entrevista: 3:57 <br>
+**Transcripción resumen de entrevistas:**<br>
+Durante la entrevista, el entrevistado mostró un claro interés en la plataforma de alquiler de vehículos. Destacó la importancia de contar con una aplicación que ofrezca información detallada sobre los vehículos y que permita consultar reseñas de otros usuarios para garantizar la confiabilidad de los arrendadores. 
+También valoró positivamente la posibilidad de reservar vehículos con antelación, ya que esto le otorga más seguridad al momento de realizar su alquiler. Mencionó que la variedad de opciones disponibles es crucial para elegir el vehículo adecuado según el tipo de uso que necesita, ya sea para viajes familiares o desplazamientos diarios.
+
+**Entrevista 2** <br>
+  Nombre completo: Antony Quito Penadillo<br>
+  Edad: 24<br>
+  Papel desempeñado: Psicologo<br>
+  Distrito: Ventanilla<br><br>
+  **Detalles de la entrevista:** <br>
+  <img src="assets/Interviews/interview4-antonyquito.jpg" alt="Entrevista 2" width="500"></a><br>
+  [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ESjuf2gLnSxHn35FiYEj4v4Be-7s2Asex8MHxyRjfgZFHQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YGjnaH)<br>
+  Inicio de la entrevista: 00:02<br>
+  Duración de la entrevista: 06:39<br><br>
+  **Transcripción resumen de entrevista:**<br>
+  Anthony Steven Quito Peñadillo, de 23 años y residente en Ventanilla, trabaja como psicólogo para Coca-Cola, donde realiza visitas a múltiples sedes para sesiones y distribución de productos. Para optimizar su movilidad entre distritos (Comas, Independencia, etc.), recurre frecuentemente al alquiler de vehículos compactos con espacio de carga.<br><br>
+  Es un usuario metódico y exigente, que prioriza procesos claros y transparencia en los alquileres. Actualmente utiliza plataformas web de concesionarias (como Six Rentacar o Street Rentacar) vinculadas al aeropuerto Jorge Chávez, accediendo desde su laptop Lenovo 5 o computadora de escritorio. Sin embargo, critica la lentitud del sistema (requiere tickets de soporte) y la falta de información real sobre el estado de los vehículos.<br><br>
+
+  Insights clave:<br>
+    - Personalidad: Técnico, detallista y frustrado con procesos obsoletos.
+    - Tecnología actual: Plataformas web tradicionales con mala UX y soporte lento.
+    - Oportunidad: Sistema ágil con:
+        - Reseñas verificadas de arrendadores y vehículos.
+        - Reservas instantáneas sin trámites burocráticos.
+        - Reporte transparente del estado del auto (para evitar conflictos post-devolución).
+
+* **Entrevista 3** <br>
+Nombre completo: Melina Orderique<br>
+Edad: 21 años<br>
+Papel desempeñado: Arrendataria de un auto<br>
+Distrito: San Miguel<br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Enntrevista-Melina.png" alt="Entrevista 1" width="500"></a><br>
+[URL de la entrevista](https://cibertecedu-my.sharepoint.com/:v:/g/personal/x202410787_cibertec_edu_pe/EUl4xpD2au9MoF2MGtvQUTwBd9Sooxu6eDRi8VfRW7dHHQ?e=rvbSYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Duración de la entrevista: 10:02<br>
+**Transcripción resumen de entrevista:**<br>
+Durante la entrevista, la persona mostró una clara admiración por el producto que le presentamos, ya que le transmitió la seguridad que buscaba al momento de arrendar un vehículo a un tercero. Destacó que las medidas implementadas le parecieron adecuadas y necesarias. Además, comentó que para sentirse aún más segura, sería ideal contar con valoraciones o comentarios, tanto de los usuarios que han arrendado anteriormente los autos como de los propios dueños.
+
+También señaló que el acceso a la información detallada del vehículo, como sus características y su historial, le genera confianza, ya que considera que es una forma transparente de saber qué auto va a conducir. Por otro lado, mostró bastante interés en la disponibilidad de los vehículos al momento de hacer una reserva, ya que planea usarlos en distintos contextos: para ir al trabajo, en su rutina diaria o incluso para realizar viajes. En ese sentido, valoró positivamente la variedad de automóviles que ofrecemos, ya que eso le permite elegir el que mejor se adapte al uso que necesita darle en cada ocasión.
+
+
+
 ### 2.3. Needfinding.
 #### 2.3.1. User Personas
 A continuación presentamos los user personas identificadas basándonos en las entrevistas realizadas para ambos segmentos objetivos. Estos user personas nos ayudarán a entender mejor las necesidades y expectativas de nuestros futuros usuarios.
