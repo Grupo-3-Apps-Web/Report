@@ -730,7 +730,7 @@ El diseño orientado a objetos de nuestro software es un pilar fundamental para 
 
 #### 4.7.1. Class Diagrams
 
-<<img src="assets\Class-Diagrams\ClassDiagram.png">
+<img src="assets\Class-Diagram\ClassDiagram.png" width=600px>
 
 #### 4.7.2. Class Dictionary
 
