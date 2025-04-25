@@ -215,12 +215,9 @@ puedan interactuar de una manera rápida y sencilla.
 <tr><th colspan="2">Josue Antonio Flores Apaico</th></tr>
   <tr><td><img src="assets/TeamMembers/JosueFlores.png" alt="Carlos De La Cruz" style="width: 300px"></td>
     <td>Soy Josue Flores es una persona creativa, perseverante y empática, con interés en áreas como la Inteligencia Artificial, ciberseguridad y ciencia de datos. Busca aplicar sus conocimientos en C++, Python, C# y Java dentro de una startup tecnológica, impulsando la innovación y la mejora continua. Cuenta con experiencia práctica en proyectos y participación en conferencias de ciberseguridad.</td></tr>
-<tr>
-    <th colspan="2">Integrante 4</th>
-  </tr>
-  <tr>
-    <td>Foto</td>
-    <td>Descripción</td>
+<tr><th colspan="2">Gabriel Alcantara Baldeon</th></tr>
+   <tr><td><img src="assets/TeamMembers/GabrielAlcantara.jpg" alt="Gabriel Alcantara" style="width: 300px"></td>
+    <td>Soy Poly Gabriel Alcántara Baldeón, estudiante de Ingeniería de Software en la UPC. Tengo conocimientos básicos en C#, Java y Python, y estoy en constante búsqueda de mejorar mis habilidades técnicas. Me considero una persona responsable y comprometida, que valora el trabajo en equipo y el apoyo mutuo. Siempre estoy dispuesto a colaborar en lo que sea necesario para lograr los objetivos comunes y asegurar que cada tarea se complete de forma eficiente.</td>
   </tr>
 <tr><th colspan="2">Integrante 5</th></tr>
   <tr><td>Foto</td>
@@ -731,10 +728,43 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 <img src="assets\Diagrams\Components-Diagrams.png">
 
 ### 4.7. Software Object-Oriented Design
+El diseño orientado a objetos de nuestro software es un pilar fundamental para el proyecto. Hemos organizado el sistema siguiendo nuestras reglas de negocio, con el objetivo de construir componentes que sean comprensibles y que faciliten tanto su desarrollo en un entorno real como futuras modificaciones por parte de nuestro equipo.
 
 #### 4.7.1. Class Diagrams
 
+<img src="assets\Class-Diagram\ClassDiagram.png" width=600px>
+
 #### 4.7.2. Class Dictionary
+
+| Clase     | Nombre de Atributo  | Descripción                                | Tipo de Dato  |
+|:----------|:--------------------|:-------------------------------------------|:--------------|
+| Usuario   | idDocumento         | Identificador del documento del usuario    | String        |
+| Usuario   | nombre              | Nombre del usuario                         | String        |
+| Usuario   | email               | Correo electrónico del usuario             | String        |
+| Usuario   | contraseña          | Contraseña del usuario                     | String        |
+| Usuario   | tipoUsuario         | Tipo de usuario                            | Enum          |
+| Usuario   | documentos          | Documentos asociados al usuario            | Documento[]   |
+| Documento | idDocumento         | Identificador del documento                | String        |
+| Documento | tipo                | Tipo de documento                          | String        |
+| Documento | archivo             | Archivo digital del documento              | String        |
+| Vehiculo  | idVehiculo          | Identificador del vehículo                 | Int           |
+| Vehiculo  | marca               | Marca del vehículo                         | String        |
+| Vehiculo  | modelo              | Modelo del vehículo                        | String        |
+| Vehiculo  | anio                | Año del vehículo                           | Int           |
+| Vehiculo  | precioPorDia        | Precio por día del vehículo                | Float         |
+| Vehiculo  | estado              | Estado del vehículo                        | Enum          |
+| Reserva   | idReserva           | Identificador de la reserva                | Int           |
+| Reserva   | usuario             | Usuario que realizó la reserva             | Usuario       |
+| Reserva   | vehiculo            | Vehículo reservado                         | Vehiculo      |
+| Reserva   | fechaInicio         | Fecha de inicio de la reserva              | Datetime      |
+| Reserva   | fechaFin            | Fecha de fin de la reserva                 | Datetime      |
+| Reserva   | estado              | Estado de la reserva                       | Enum          |
+| Reseña    | idResena            | Identificador de la reseña                 | Int           |
+| Reseña    | autor               | Usuario que escribió la reseña             | Usuario       |
+| Reseña    | vehiculo            | Vehículo reseñado                          | Vehiculo      |
+| Reseña    | fechaInicio         | Fecha de inicio de la experiencia reseñada | Datetime      |
+| Reseña    | calificacion        | Calificación otorgada al vehículo          | Int           |
+| Reseña    | comentario          | Comentario del usuario                     | String        |
 
 ### 4.8. Database Design
 
