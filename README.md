@@ -15,6 +15,7 @@
   <ul style="list-style: none; padding: 0;">
       <li><h3>Josue Gonzalo Paiva Quispe</h3></li>
       <li><h3>Carlos Alejandro De La Cruz Villarreal</h3></li>
+      <li><h3>Josue Antonio Flores Apaico</h3></li>
   </ul>
   <br>
   <h4>Abril del 2025</h4>
