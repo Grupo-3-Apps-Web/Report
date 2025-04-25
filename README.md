@@ -25,13 +25,13 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|---------|-------|-------|-----------------------------|
-| 0.1     |       |       |                             |
+| Versión | Fecha      | Autor                 | Descripción de modificación |
+|---------|------------|-----------------------|-----------------------------|
+| 0.1     | 24/04/2025 | Todos los integrantes | Primer sprint TB1           |
 
-| URL de la organización del proyecto |                      URL del repositorio del reporte                       |
-|:-----------------------------------:|:--------------------------------------------------------------------------:|
-|             https://github.com/Grupo-4-Open-Source                        |               https://github.com/Grupo-4-Open-Source/Report                |
+| URL de la organización del proyecto |      URL del repositorio del reporte       |
+|:-----------------------------------:|:------------------------------------------:|
+| https://github.com/Grupo-3-Apps-Web | https://github.com/Grupo-3-Apps-Web/Report |
 
 - [Student Outcome](#student-outcome)
 
@@ -198,7 +198,7 @@ En esta sección presentaremos nuestra start-up, el sector que buscamos incursio
 demás información pertinente para poder entender la vision del equipo con respecto al proyecto
 #### 1.1.1. Descripción de la Startup
 NovaCode es una startup creada por estudiantes de la carrera de Ingeniería de Software.
-Para el presente ciclo desarrollaremos una aplicación web llamada EasyRent, con la cual buscamos crear una plataforma destinada al alquiler de vehículos, con la cual tanto
+Para el presente ciclo desarrollaremos una aplicación web llamada Automovil-Unite, con la cual buscamos crear una plataforma destinada al alquiler de vehículos, con la cual tanto
 los clientes que deseen alquilar, como los dueños de los vehículos puedan interactuar de una manera sencilla, rápida y segura.
 
 **Misión:** Nuestra misión es proporcionar una plataforma segura y confiable donde ofrecer tus vehículos como alquiler o buscar un vehículo para alquilar.
@@ -347,7 +347,7 @@ Previo al desarrollo de la aplicación, hicimos una búsqueda de las opciones qu
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr><td colspan="6">Análisis de competidores</td></tr>
-		<tr><td colspan="2"></td><td>EasyRent</td><td>Kayak</td><td>Peru Rent A Car</td><td>Budget Car Rental Peru</td></tr>
+		<tr><td colspan="2"></td><td>Automovil-Unite</td><td>Kayak</td><td>Peru Rent A Car</td><td>Budget Car Rental Peru</td></tr>
 		<tr><td rowspan="2">Perfil</td><td>Resumen</td>
 			<td>Una aplicación que busca ofrecer una plataforma rápida y ágil para el alquiler de autos, con un fuerte enfoque en la seguridad de ambas partes.</td>
 			<td>Kayak es una plataforma líder de búsqueda tanto de vuelos, como cuartos de hotel, alquiler de vehículos, etc.</td>
@@ -866,9 +866,9 @@ interacción con el usuario.
   facilita el mantenimiento y la escalabilidad del código.
 
 
-### 4.2. Information Architecture
+**### 4.2. Information Architecture**
 #### 4.2.1. Organization Systems
-El sistema de organización del contenido de EasyRent sigue una estructura jerárquica
+El sistema de organización del contenido de Automovil-Unite sigue una estructura jerárquica
 clara, permitiendo a los usuarios navegar fácilmente desde lo general hasta lo específico.
 Las secciones principales incluyen:
 - **Home**: Página principal con acceso a todas las funcionalidades.
@@ -890,11 +890,11 @@ Vehículos", "Alquilar Ahora", "Características", "Mis Reservas", etc.
 Se implementa una estrategia de SEO para asegurar una mayor visibilidad en los motores
 de búsqueda. Las etiquetas usadas son las siguientes:
 
-- **Title**: EasyRent - Plataforma de Alquiler de Vehículos
-- **Meta Description**: EasyRent es una plataforma fácil de usar y segura para alquilar
+- **Title**: Automovil-Unite - Plataforma de Alquiler de Vehículos
+- **Meta Description**: Automovil-Unite es una plataforma fácil de usar y segura para alquilar
   vehículos. Encuentra el coche ideal para tus necesidades de forma rápida y conveniente.
 - **Meta Keywords**: alquiler de vehículos, alquiler de autos, plataforma de alquiler
-  de vehículos, EasyRent, coches en alquiler.
+  de vehículos, Automovil-Unite, coches en alquiler.
 - **Meta Author**: NovaCode Team
 
 #### 4.2.4. Searching Systems
@@ -915,7 +915,7 @@ independientemente de su posición en la página.
 ### 4.3 Landing Page UI Design
 #### 4.3.1 Landing Page Wireframe
 
-La Landing Page de EasyRent se organiza en las siguientes secciones clave:
+La Landing Page de Automovil-Unite se organiza en las siguientes secciones clave:
 - **Encabezado**: Logotipo, barra de navegación y botones de "Iniciar sesión" y
   "Registrarse".
 - **Seccion Principal**: Una imagen grande de un vehículo, con un mensaje principal y un
@@ -1035,7 +1035,7 @@ El diseño orientado a objetos de nuestro software es un pilar fundamental para 
 
 #### 4.8.1. Database Diagram
 
-Antes de ver el diagrama de base de datos, es clave entender cómo las tablas de EasyRent se conectan. 
+Antes de ver el diagrama de base de datos, es clave entender cómo las tablas de Automovil-Unite se conectan. 
 El sistema gestiona Usuarios, Vehículos, Publicaciones, Reservas, Reseñas y Documentos de Garantía. 
 Cada tabla tiene relaciones, como un Usuario que puede tener varios Vehículos o hacer varias Reservas. 
 Ahora, veremos el diagrama que muestra estas conexiones gráficamente.
@@ -1178,3 +1178,52 @@ Como convención general, todo el código realizado por los miembros del equipo 
 | 20      | TS-20         | Solucionar Errores Reportados            | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto. | 8                                |
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
+Repositorio de github:
+
+<img src="assets/sprint1/repo.png" width=600 >
+
+Total de commits realizados: 103
+
+##### 5.2.1.5. Execution Evidence for Sprint Review.
+Despliegue de la landing page:
+
+<img src="assets/sprint1/landingDeploy.png" width=600 >
+
+Link de la landing page ya desplegada: https://automovilunite.netlify.app/
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Se utilizó Netlify para el despliegue de la landing page, para ello se enlazó el repositorio de la landing page con el sitio de netlify
+
+<img src="assets/sprint1/netlifyEvidence.png" width=600 >
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Todos las pestañas de navegacion estan operativas:
+
+<img src="assets/sprint1/howItWorks.png" width=600 >
+
+<img src="assets/sprint1/whyUs.png" width=600 >
+
+<img src="assets/sprint1/modelos.png" width=600 >
+
+<img src="assets/sprint1/testimonios.png" width=600 >
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Insights del repositorio de report:
+
+<img src="assets/sprint1/commits.png" width=600 >
+
+Reunion por discord:
+
+<img src="assets/sprint1/reu.png" width=600 >
+
+## Conclusiones:
+Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizo mediante
+reuniones por discord y asignacion de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
+
+## Anexos
+-Link de la organizacion de GitHub: https://github.com/Grupo-3-Apps-Web
+-Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
+-Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
+-Link de la landing page desplegada: https://automovilunite.netlify.app/
+
