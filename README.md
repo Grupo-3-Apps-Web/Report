@@ -479,7 +479,7 @@ Papel desempeñado: Arrendador de un auto<br>
 Distrito: San Juan de Lurigancho<br><br>
 **Detalles de la entrevista:** <br>
 
-<img src="assets/Interviews/Interviews-Jose.PNG" alt="Entrevista 1" width="500"></a><br>
+<img src="assets/Interviews/Interviews-Jose.png" alt="Entrevista 2" width="500"><a><br>
 [Url de la entrevista](https://cibertecedu-my.sharepoint.com/:v:/g/personal/x202410787_cibertec_edu_pe/Ed8WH4kM5r1NuKBbAIT-o7sBkQnUGxM9BAgtcJfWBJ2Kzw?e=50ILnu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) Duración de la entrevista: 5:33 <br>
 **Transcripción resumen de entrevistas:**<br>
 Me impresionó gratamente el producto presentado, ya que incorpora las medidas de seguridad que siempre buscamos al momento de arrendar un vehículo a un tercero. Además, me gustaría que también contara con funciones que permitan ver opiniones o comentarios de otros usuarios que ya han utilizado la plataforma para alquilar vehículos, lo cual aumentaría aún más la confianza. Anteriormente solía ofrecer mi vehículo en alquiler a través de Facebook, pero siempre quedaba esa duda e inseguridad al momento de entregarlo. Sin embargo, con los métodos de seguridad que me mostraron, ahora me siento mucho más tranquilo y confiado en el servicio, ya que cubre nuestras preocupaciones y brinda la tranquilidad que buscábamos.
