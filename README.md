@@ -221,8 +221,8 @@ puedan interactuar de una manera rápida y sencilla.
     <td>Soy Poly Gabriel Alcántara Baldeón, estudiante de Ingeniería de Software en la UPC. Tengo conocimientos básicos en C#, Java y Python, y estoy en constante búsqueda de mejorar mis habilidades técnicas. Me considero una persona responsable y comprometida, que valora el trabajo en equipo y el apoyo mutuo. Siempre estoy dispuesto a colaborar en lo que sea necesario para lograr los objetivos comunes y asegurar que cada tarea se complete de forma eficiente.</td>
   </tr>
 <tr><th colspan="2">Integrante 5</th></tr>
-  <tr><td>Foto</td>
-    <td>Descripción</td>
+  <tr><td><img src="assets/TeamMembers/CristhianHuanca.jpg" alt="Cristhian Huanca" style="width: 300px"></td>
+    <td>Me considero una persona proactiva, organizada y responsable al momento de desarrollar un nuevo proyecto en mi vida. En un grupo de trabajo siempre trato de respetar las opiniones de los demás, trato de entender los demás puntos de vista y animo a estar en unión frente a un problema.</td>
   </tr>
 </table>
 
