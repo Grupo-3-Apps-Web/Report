@@ -1036,6 +1036,14 @@ El diseño orientado a objetos de nuestro software es un pilar fundamental para 
 
 #### 4.8.1. Database Diagram
 
+Antes de ver el diagrama de base de datos, es clave entender cómo las tablas de EasyRent se conectan. 
+El sistema gestiona Usuarios, Vehículos, Publicaciones, Reservas, Reseñas y Documentos de Garantía. 
+Cada tabla tiene relaciones, como un Usuario que puede tener varios Vehículos o hacer varias Reservas. 
+Ahora, veremos el diagrama que muestra estas conexiones gráficamente.
+
+  <br><img src="assets/DatabaseDiagram/DatabaseDiagram.png" alt="Database Diagram" width="500" ><br>
+  <br>
+
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
