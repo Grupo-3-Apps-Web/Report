@@ -729,10 +729,42 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 #### 4.6.3. Software Architecture Components Diagrams
 
 ### 4.7. Software Object-Oriented Design
+El diseño orientado a objetos de nuestro software es un pilar fundamental para el proyecto. Hemos organizado el sistema siguiendo nuestras reglas de negocio, con el objetivo de construir componentes que sean comprensibles y que faciliten tanto su desarrollo en un entorno real como futuras modificaciones por parte de nuestro equipo.
 
 #### 4.7.1. Class Diagrams
 
+
 #### 4.7.2. Class Dictionary
+
+| Clase     | Nombre de Atributo  | Descripción                                | Tipo de Dato  |
+|:----------|:--------------------|:-------------------------------------------|:--------------|
+| Usuario   | idDocumento         | Identificador del documento del usuario    | String        |
+| Usuario   | nombre              | Nombre del usuario                         | String        |
+| Usuario   | email               | Correo electrónico del usuario             | String        |
+| Usuario   | contraseña          | Contraseña del usuario                     | String        |
+| Usuario   | tipoUsuario         | Tipo de usuario                            | Enum          |
+| Usuario   | documentos          | Documentos asociados al usuario            | Documento[]   |
+| Documento | idDocumento         | Identificador del documento                | String        |
+| Documento | tipo                | Tipo de documento                          | String        |
+| Documento | archivo             | Archivo digital del documento              | String        |
+| Vehiculo  | idVehiculo          | Identificador del vehículo                 | Int           |
+| Vehiculo  | marca               | Marca del vehículo                         | String        |
+| Vehiculo  | modelo              | Modelo del vehículo                        | String        |
+| Vehiculo  | anio                | Año del vehículo                           | Int           |
+| Vehiculo  | precioPorDia        | Precio por día del vehículo                | Float         |
+| Vehiculo  | estado              | Estado del vehículo                        | Enum          |
+| Reserva   | idReserva           | Identificador de la reserva                | Int           |
+| Reserva   | usuario             | Usuario que realizó la reserva             | Usuario       |
+| Reserva   | vehiculo            | Vehículo reservado                         | Vehiculo      |
+| Reserva   | fechaInicio         | Fecha de inicio de la reserva              | Datetime      |
+| Reserva   | fechaFin            | Fecha de fin de la reserva                 | Datetime      |
+| Reserva   | estado              | Estado de la reserva                       | Enum          |
+| Reseña    | idResena            | Identificador de la reseña                 | Int           |
+| Reseña    | autor               | Usuario que escribió la reseña             | Usuario       |
+| Reseña    | vehiculo            | Vehículo reseñado                          | Vehiculo      |
+| Reseña    | fechaInicio         | Fecha de inicio de la experiencia reseñada | Datetime      |
+| Reseña    | calificacion        | Calificación otorgada al vehículo          | Int           |
+| Reseña    | comentario          | Comentario del usuario                     | String        |
 
 ### 4.8. Database Design
 
