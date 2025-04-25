@@ -471,6 +471,20 @@ Distrito: Los Olivos<br><br>
 Durante la entrevista, el entrevistado, Jordan Darío, mostró interés en la plataforma, ya que considera que le brindaría un control más claro sobre el alquiler de sus vehículos. Apreció las medidas de seguridad que podrían proteger tanto a los arrendadores como a los arrendatarios. Además, destacó que contar con un sistema de reseñas de clientes anteriores sería una herramienta valiosa para identificar a inquilinos confiables y evitar problemas.
 Jordan también mencionó que sería útil tener una plataforma que permita registrar el estado de sus vehículos y gestionar el tiempo de alquiler de manera más eficiente. Aprecio especialmente la idea de contar con una plataforma que facilite la reserva anticipada, lo que le permitiría asegurar la disponibilidad de sus vehículos en fechas específicas. En general, mostró interés en un sistema que mejore la confianza y la transparencia entre arrendadores y arrendatarios.
 
+
+**Entrevista 2** <br> 
+Nombre completo: Jose Marchena <br>
+Edad: 23 años <br>
+Papel desempeñado: Arrendador de un auto<br>
+Distrito: San Juan de Lurigancho<br><br>
+**Detalles de la entrevista:** <br>
+
+<img src="assets/Interviews/Interviews-Jose.PNG" alt="Entrevista 1" width="500"></a><br>
+[Url de la entrevista](https://cibertecedu-my.sharepoint.com/:v:/g/personal/x202410787_cibertec_edu_pe/Ed8WH4kM5r1NuKBbAIT-o7sBkQnUGxM9BAgtcJfWBJ2Kzw?e=50ILnu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) Duración de la entrevista: 5:33 <br>
+**Transcripción resumen de entrevistas:**<br>
+Me impresionó gratamente el producto presentado, ya que incorpora las medidas de seguridad que siempre buscamos al momento de arrendar un vehículo a un tercero. Además, me gustaría que también contara con funciones que permitan ver opiniones o comentarios de otros usuarios que ya han utilizado la plataforma para alquilar vehículos, lo cual aumentaría aún más la confianza. Anteriormente solía ofrecer mi vehículo en alquiler a través de Facebook, pero siempre quedaba esa duda e inseguridad al momento de entregarlo. Sin embargo, con los métodos de seguridad que me mostraron, ahora me siento mucho más tranquilo y confiado en el servicio, ya que cubre nuestras preocupaciones y brinda la tranquilidad que buscábamos.
+
+
 **Entrevista 3** <br>
   Nombre completo: Juan Diaz Banda<br>
   Edad: 28 años<br>
@@ -532,7 +546,7 @@ También valoró positivamente la posibilidad de reservar vehículos con antelac
 * **Entrevista 3** <br>
 Nombre completo: Melina Orderique<br>
 Edad: 21 años<br>
-Papel desempeñado: Arrendador de un auto<br>
+Papel desempeñado: Arrendataria de un auto<br>
 Distrito: San Miguel<br><br>
 **Detalles de la entrevista:** <br>
 
