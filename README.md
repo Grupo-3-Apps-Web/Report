@@ -913,11 +913,34 @@ navegación fija para que los usuarios siempre tengan acceso al menú de seccion
 independientemente de su posición en la página.
 
 
-### 4.3. Landing Page UI Design
+### 4.3 Landing Page UI Design
+#### 4.3.1 Landing Page Wireframe
 
-#### 4.3.1. Landing Page Wireframe
+La Landing Page de EasyRent se organiza en las siguientes secciones clave:
+- **Encabezado**: Logotipo, barra de navegación y botones de "Iniciar sesión" y
+  "Registrarse".
+- **Seccion Principal**: Una imagen grande de un vehículo, con un mensaje principal y un
+  botón CTA destacado.
+- **Beneficios Clave**: Presenta las ventajas de usar la plataforma de forma concisa.
+- **Tabla de Precios**: Muestra los distintos planes de alquiler con sus características
+  relevantes.
+- **Pie de Pagina**: Incluye enlaces a redes sociales y contacto.
+  <br>
 
-#### 4.3.2. Landing Page Mock-up
+<img src="assets/LandingPageUiDesign/LandingPageWireframe.png" alt="landing page wireframe" width="400">
+
+### 4.3.2 Landing Page Mock-up
+En el mock-up final del diseño se incorporan los colores, tipografías e imágenes que
+fortalecen la identidad visual de la marca. Se utiliza el azul oscuro #003F70 para los
+encabezados y #52B6F2 para las llamadas a la acción (botones y enlaces). Las imágenes
+deben ser atractivas y enfocarse en vehículos disponibles para alquilar, sin sobrecargar
+visualmente la página.
+
+El diseño es completamente responsive, asegurando que la experiencia sea consistente en
+dispositivos móviles, tablets y escritorios.
+<br>
+
+<img src="assets/LandingPageUiDesign/Mockup.png" alt="landing page mock-up" width="400">
 
 **Home Landing Page**
 
