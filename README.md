@@ -743,8 +743,8 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 #### 5.1.1. Software Development Environment Configuration
 ### Project Management
 Desarrollo del reporte: Github
-Planificacion y reunion: Discord
-Comunicacion: Whatsapp
+Planificación y reunion: Discord
+Comunicación: WhatsApp
 
 ### Requirement Management
 Utilizamos UXPressia para poder desarrollar los mapas, los user personas y lean UX canvas
@@ -752,7 +752,7 @@ Utilizamos UXPressia para poder desarrollar los mapas, los user personas y lean 
 <img src="assets/sprint1/uxpressia.png" width=300 >
 
 ### Product UX/UI Design
-Utilizamos Figma para el desarrollo de mock ups tanto del landing page como de la web app
+Utilizamos Figma para el desarrollo de mock ups tanto de la landing page como de la web app
 
 <img src="assets/sprint1/figma.jpeg" width=300 >
 
@@ -768,7 +768,7 @@ Trabajamos con Netlify para el despliegue de la landing page
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 
-Como convención general , todo el codigo realizado por los miembros del equipo debe redactarse en completo inglés.
+Como convención general, todo el código realizado por los miembros del equipo debe redactarse en completo inglés.
 <br><br>*HTML*<br>
 - *Use Lowercase Element Name*<br>
   Se recomienda usar lowercase para los nombres de los elementos HTML:<br>
@@ -788,13 +788,13 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *ID and Class Naming*<br>
   Usar nombres de clases y ID significativos que expresen el propósito del elemento:<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-1.png" alt="class naming" /></p><br>
-- *Block Content Identation*<br>
+- *Block Content Indentation*<br>
   Sangrar todo el contenido del bloque, es decir, reglas dentro de reglas, así como declaraciones, para reflejar la jerarquía y Mejorar la comprensión<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-2.png" alt="content identation" /></p><br>
 - *Section Comments*<br>
   Agrupe las secciones de la hoja de estilo mediante comentarios. Separar secciones con nuevas líneas.<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-3.png" alt="Comments" /></p>
-  <br>Para mas informacion sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
+  <br>Para más información sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
 
 <br>*JavaScript*<br><br>
 - *Array initializers: can be "block-like"*<br>
@@ -806,7 +806,7 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *Method and constructor annotations*<br>
   Las reglas para las anotaciones en las declaraciones de método y constructor son las mismas que en la sección anterior. Ejemplo:<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-3.png" alt="method" /></p>
-  <br>Para mas informacion sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
+  <br>Para más información sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
 
 <br>*TypeScript*<br><br>
 - *Imports*<br>
@@ -819,7 +819,7 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *Constructors*<br>
   Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasa ningún argumento:<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-3.png" alt="constructor" /></p>
-  <br>Para mas informacion sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
+  <br>Para más información sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
 
 <br>*Gherkin*<br><br>
 - *Discernible Given-When-Then Blocks*<br>
@@ -832,15 +832,32 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *Reducing Noise*<br>
   Para reducir el ruido, se recomienda utilizar valores predeterminados para los campos que el sistema requiere, pero que no son relevantes para su escenario.<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-3.png" alt="noise" /></p><br>
-  Para mas informacion sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+  Para más información sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
 #### 5.1.4. Software Deployment Configuration
 **Pasos realizados para desplegar la Landing Page:**
-1) Crear un nuevo repositorio en la organizacion para la landing page
+1) Crear un nuevo repositorio en la organización para la landing page
 2) Cargar el proyecto en el repositorio
 3) Enlazar netlify con la cuenta de github
 4) Seleccionar el repositorio de la landing page
 5) Configurar el branch a desplegar (main)
 6) Configurar el directorio de salida (build)
 8) Configurar el dominio (automovilunite.com)
+
+#### 5.2.1. Sprint 1
+| Sprint #                               | Sprint 1                                       |
+|----------------------------------------|------------------------------------------------|
+| **Date**                               | 2025-04-22                                     |
+| **Time**                               | 07:00 PM                                       |
+| **Location**                           | Discord                                        |
+| **Prepared By**                        | Josue Paiva                                    |
+| **Attendees (to planning meeting)**    | Todos los integrantes                          |
+| **Sprint n - 1 Review Summary**        | -                                              |
+| **Sprint n - 1 Retrospective Summary** | -                                              |
+| **Sprint 1 Goal**                      | Completar el reporte y desplegar landing page. |
+| **Sprint 1 Velocity**                  | 21 story points                                |
+| **Sum of Story Points**                | 21 story points                                |
+
+##### 5.2.1.2. Sprint Backlog 1
+
 
