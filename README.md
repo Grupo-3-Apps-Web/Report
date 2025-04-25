@@ -174,13 +174,16 @@ del ABET – EAC - Student Outcome 3.
     <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivo. 
 <br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso segun el segmento. <br>Flores Apaico, Josue Antonio<br>
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
-<br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.</td>
+<br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.
+<br> Alcantara Baldeon Poly gabriel <br>TB1: Participación en reuniones grupales. Explicación del diseño orientado a objetos. 
+    </td>
 <td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br> Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.  </td>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
     <td>De la Cruz Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica. <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
-<br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories</td>
+<br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
+<br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
 <td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. <br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos. </td>
   </tr>
 </table>
