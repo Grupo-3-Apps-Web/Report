@@ -281,7 +281,7 @@ Los usuarios en Lima que necesitan alquilar vehículos tienen dificultades para 
 
 ###### **Supuestos del Cliente:**
 **¿Quién es el cliente?**
-Personas entre 20 y 50 años residentes en Lima Metropolitana.
+Personas entre 25 y 45 años residentes en Lima Metropolitana.
 
 **¿Dónde encaja nuestro producto en su vida?**
 Cuando necesiten independencia y comodidad para desplazarse y también para generar un ingreso adicional mediante un vehículo que normalmente estaría en desuso.
@@ -317,10 +317,10 @@ Debe ser intuitivo, confiable y rápido, para que así se vea visualmente limpio
 
 ### 1.3. Segmentos objetivos
 **Segmento 1 (Arrendador de vehículo):**
-Dueños de autos que no usan su vehículo con frecuencia y desean generar ingresos extras, estos serían personas de edad entre 25 a 55 años que residen en Lima Metropolitana.
+Dueños de autos que no usan su vehículo con frecuencia y desean generar ingresos extras, estos serían personas de edad entre 25 a 45 años que residen en Lima Metropolitana.
 
 **Segmento 2 (Arrendatario de vehículo):**
-Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 a 55 años con residencia en Lima Metropolitana y estos no tendrían un auto propio o profieran no usarlo todo el tiempo, así buscando una alternativa más económica y flexible frente a taxis o apps de transporte.
+Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 a 45 años con residencia en Lima Metropolitana y estos no tendrían un auto propio o profieran no usarlo todo el tiempo, así buscando una alternativa más económica y flexible frente a taxis o apps de transporte.
 
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 ### 2.1. Competidores
@@ -1175,7 +1175,6 @@ Como convención general, todo el código realizado por los miembros del equipo 
 | 15      | US-01         | Registro de Usuario                      | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler.            | 3                                |
 | 16      | US-05         | Cambiar el Idioma de la Aplicación       | Como usuario, quiero cambiar el idioma de la aplicación para poder utilizarla en mi idioma preferido.                              | 3                                |
 | 18      | US-04         | Personalizar Interfaz                    | Como usuario, quiero personalizar la interfaz de la aplicación para adaptarla a mis preferencias y necesidades.                    | 5                                |
-| 20      | TS-20         | Solucionar Errores Reportados            | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto. | 8                                |
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 Repositorio de github:
