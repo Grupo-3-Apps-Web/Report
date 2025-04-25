@@ -555,7 +555,7 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 <img src="assets/To-Be-ScenariO-Mapping/TBSM-Arrendador.jpg" width=600px>
 
 ###### Segmento Objetivo 2 (Arrendatario de vehículos)
-<img src="assets/To-Be-ScenariO-Mapping/TBSM-Arrendatario.jpg" width=600px>
+<img src="assets/To-Be-ScenariO-Mapping/TBSM-Paul.jpg" width=600px>
 
 
 ### 3.2. User Stories
