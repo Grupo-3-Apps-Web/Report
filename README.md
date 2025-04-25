@@ -537,7 +537,7 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 ### 2.4. Ubiquitous Language
 
 - **Customer**: Persona o entidad que alquila un vehículo a través de la plataforma.
-- **Vehicle**: El objeto que se alquila, que puede tener diferentes características (marca, modelo, estado de disponibilidad, etc.).
+- **Vehicle**: El objeto que se alquila, que puede tener diferentes características (marca, modelo, estado de disponibilidad, etc).
 - **Rental**: El proceso o transacción en el que un cliente toma un vehículo en renta.
 - **Reservation**: Acción de apartar un vehículo para su alquiler en una fecha específica.
 - **Owner**: Persona o empresa que pone a disposición un vehículo para alquiler en la plataforma.
