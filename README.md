@@ -171,12 +171,12 @@ del ABET – EAC - Student Outcome 3.
   </tr>
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br>Realización de entrevistas para ambos segmentos objetivo </td>
+    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivo. <br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso segun el segmento.</td>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica.</td>
-    
+    <td>De la Cruz Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica. <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.</td>
+
   </tr>
 </table>
 
