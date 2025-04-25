@@ -551,10 +551,10 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ### 3.1. To Be Scenario Mapping
 
-###### Segmento Objetivo 1 (Arrendador de vehículos)
+###### Segmento Objetivo 1 (Arrendador de vehículos.)
 <img src="assets/To-Be-ScenariO-Mapping/TBSM-Arrendador.jpg" width=600px>
 
-###### Segmento Objetivo 2 (Arrendatario de vehículos)
+###### Segmento Objetivo 2 (Arrendatario de vehículos.)
 <img src="assets/To-Be-ScenariO-Mapping/TBSM-Paul.jpg" width=600px>
 
 
