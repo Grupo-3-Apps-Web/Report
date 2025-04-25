@@ -719,10 +719,14 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 ### 4.5. Web Applications Prototyping
 
 ### 4.6. Domain-Driven Software Architecture
-
+A continuación presentamos el C4 Model de nuestro software. El cual nos guiara a la hora de desarrollar el software, ya que nos permite entender la arquitectura del sistema y como interactúan los diferentes componentes entre sí.
 #### 4.6.1. Software Architecture Context Diagram
 
+<img src="assets\Diagrams\ContextDiagram.png">
+
 #### 4.6.2. Software Architecture Container Diagrams
+
+<img src="assets\Diagrams\ContainerDiagram.png">
 
 #### 4.6.3. Software Architecture Components Diagrams
 
