@@ -629,28 +629,28 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ### 3.4. Product Backlog
 
-| # Orden | User Story Id | Título                                      | Descripción                                                                                                                                 | Story Points (1 / 2 / 3 / 5 / 8) |
-|---------|----------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 1       | TS-18          | Cambiar el Idioma de la Landing Page        | Como visitante, quiero cambiar el idioma de la landing page para poder entender mejor la información presentada.                           | 1                                |
-| 2       | TS-19          | Contactar al Equipo de Soporte              | Como visitante, quiero contactar al equipo de soporte para obtener ayuda o resolver dudas sobre la plataforma.                             | 1                                |
-| 3       | US-16          | Navegación por el Landing Page              | Como visitante, quiero navegar por la landing page del software para obtener la información que deseo del producto.                        | 2                                |
-| 4       | US-17          | Ver Información del Startup                 | Como visitante, quiero ver la información del equipo de desarrollo para conocer a las personas detrás del software.                        | 2                                |
-| 5       | US-02          | Inicio de Sesión                            | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y publicar o reservar vehículos.                             | 2                                |
-| 6       | US-03          | Recuperación de Contraseña                  | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                               | 2                                |
-| 7       | US-09          | Eliminar una publicación                    | Como usuario, quiero eliminar una publicación ya creada.                                                                                   | 2                                |
-| 8       | US-10          | Visualizar las publicaciones de alquiler    | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                                               | 3                                |
-| 9       | US-11          | Ordenar el precio de los alquileres         | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                                         | 3                                |
-| 10      | US-12          | Reseñar publicaciones de alquiler           | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños                                                 | 3                                |
-| 11      | US-13          | Cargar documentos de garantía               | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.                           | 3                                |
-| 12      | US-06          | Dashboard del usuario                       | Como usuario, quiero contar con un dashboard donde consultar mis vehículos publicados.                                                     | 3                                |
-| 13      | US-08          | Visualizar una publicación                  | Como usuario, quiero ver el estado e información de una publicación ya creada.                                                             | 3                                |
-| 14      | US-15          | Cancelar reserva de vehículo                | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                                                 | 3                                |
-| 15      | US-01          | Registro de Usuario                         | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler.                    | 3                                |
-| 16      | US-05          | Cambiar el Idioma de la Aplicación          | Como usuario, quiero cambiar el idioma de la aplicación para poder utilizarla en mi idioma preferido.                                      | 3                                |
-| 17      | US-07          | Creación de publicaciones                   | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                                           | 5                                |
-| 18      | US-04          | Personalizar Interfaz                       | Como usuario, quiero personalizar la interfaz de la aplicación para adaptarla a mis preferencias y necesidades.                            | 5                                |
-| 19      | US-14          | Reserva de vehículo                         | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                                                | 5                                |
-| 20      | TS-20          | Solucionar Errores Reportados               | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto.         | 8                                |
+| # Orden | User Story Id | Título                                   | Descripción                                                                                                                        | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-18         | Cambiar el Idioma de la Landing Page     | Como visitante, quiero cambiar el idioma de la landing page para poder entender mejor la información presentada.                   | 1                                |
+| 2       | TS-19         | Contactar al Equipo de Soporte           | Como visitante, quiero contactar al equipo de soporte para obtener ayuda o resolver dudas sobre la plataforma.                     | 1                                |
+| 3       | US-16         | Navegación por el Landing Page           | Como visitante, quiero navegar por la landing page del software para obtener la información que deseo del producto.                | 2                                |
+| 4       | US-17         | Ver Información del Startup              | Como visitante, quiero ver la información del equipo de desarrollo para conocer a las personas detrás del software.                | 2                                |
+| 5       | US-02         | Inicio de Sesión                         | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y publicar o reservar vehículos.                     | 2                                |
+| 6       | US-03         | Recuperación de Contraseña               | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                       | 2                                |
+| 7       | US-09         | Eliminar una publicación                 | Como usuario, quiero eliminar una publicación ya creada.                                                                           | 2                                |
+| 8       | US-10         | Visualizar las publicaciones de alquiler | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                                       | 3                                |
+| 9       | US-11         | Ordenar el precio de los alquileres      | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                                 | 3                                |
+| 10      | US-12         | Reseñar publicaciones de alquiler        | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños                                         | 3                                |
+| 11      | US-13         | Cargar documentos de garantía            | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.                   | 3                                |
+| 12      | US-06         | Dashboard del usuario                    | Como usuario, quiero contar con un dashboard donde consultar mis vehículos publicados.                                             | 3                                |
+| 13      | US-08         | Visualizar una publicación               | Como usuario, quiero ver el estado e información de una publicación ya creada.                                                     | 3                                |
+| 14      | US-15         | Cancelar reserva de vehículo             | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                                         | 3                                |
+| 15      | US-01         | Registro de Usuario                      | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler.            | 3                                |
+| 16      | US-05         | Cambiar el Idioma de la Aplicación       | Como usuario, quiero cambiar el idioma de la aplicación para poder utilizarla en mi idioma preferido.                              | 3                                |
+| 17      | US-07         | Creación de publicaciones                | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                                   | 5                                |
+| 18      | US-04         | Personalizar Interfaz                    | Como usuario, quiero personalizar la interfaz de la aplicación para adaptarla a mis preferencias y necesidades.                    | 5                                |
+| 19      | US-14         | Reserva de vehículo                      | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                                        | 5                                |
+| 20      | TS-20         | Solucionar Errores Reportados            | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto. | 8                                |
 
 
 
@@ -776,8 +776,8 @@ El diseño orientado a objetos de nuestro software es un pilar fundamental para 
 #### 5.1.1. Software Development Environment Configuration
 ### Project Management
 Desarrollo del reporte: Github
-Planificacion y reunion: Discord
-Comunicacion: Whatsapp
+Planificación y reunion: Discord
+Comunicación: WhatsApp
 
 ### Requirement Management
 Utilizamos UXPressia para poder desarrollar los mapas, los user personas y lean UX canvas
@@ -785,11 +785,11 @@ Utilizamos UXPressia para poder desarrollar los mapas, los user personas y lean 
 <img src="assets/sprint1/uxpressia.png" width=300 >
 
 ### Product UX/UI Design
-Utilizamos Figma para el desarrollo de mock ups tanto del landing page como de la web app
+Utilizamos Figma para el desarrollo de mock ups tanto de la landing page como de la web app
 
 <img src="assets/sprint1/figma.jpeg" width=300 >
 
-### Software Deployment
+_### Software Deployment
 Trabajamos con Netlify para el despliegue de la landing page
 
 #### 5.1.2. Source Code Management
@@ -801,7 +801,7 @@ Trabajamos con Netlify para el despliegue de la landing page
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 
-Como convención general , todo el codigo realizado por los miembros del equipo debe redactarse en completo inglés.
+Como convención general, todo el código realizado por los miembros del equipo debe redactarse en completo inglés.
 <br><br>*HTML*<br>
 - *Use Lowercase Element Name*<br>
   Se recomienda usar lowercase para los nombres de los elementos HTML:<br>
@@ -821,13 +821,13 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *ID and Class Naming*<br>
   Usar nombres de clases y ID significativos que expresen el propósito del elemento:<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-1.png" alt="class naming" /></p><br>
-- *Block Content Identation*<br>
+- *Block Content Indentation*<br>
   Sangrar todo el contenido del bloque, es decir, reglas dentro de reglas, así como declaraciones, para reflejar la jerarquía y Mejorar la comprensión<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-2.png" alt="content identation" /></p><br>
 - *Section Comments*<br>
   Agrupe las secciones de la hoja de estilo mediante comentarios. Separar secciones con nuevas líneas.<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-3.png" alt="Comments" /></p>
-  <br>Para mas informacion sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
+  <br>Para más información sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
 
 <br>*JavaScript*<br><br>
 - *Array initializers: can be "block-like"*<br>
@@ -839,7 +839,7 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *Method and constructor annotations*<br>
   Las reglas para las anotaciones en las declaraciones de método y constructor son las mismas que en la sección anterior. Ejemplo:<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-3.png" alt="method" /></p>
-  <br>Para mas informacion sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
+  <br>Para más información sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
 
 <br>*TypeScript*<br><br>
 - *Imports*<br>
@@ -852,7 +852,7 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *Constructors*<br>
   Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasa ningún argumento:<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-3.png" alt="constructor" /></p>
-  <br>Para mas informacion sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
+  <br>Para más información sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
 
 <br>*Gherkin*<br><br>
 - *Discernible Given-When-Then Blocks*<br>
@@ -865,11 +865,11 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 - *Reducing Noise*<br>
   Para reducir el ruido, se recomienda utilizar valores predeterminados para los campos que el sistema requiere, pero que no son relevantes para su escenario.<br>
   <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-3.png" alt="noise" /></p><br>
-  Para mas informacion sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+  Para más información sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
 #### 5.1.4. Software Deployment Configuration
 **Pasos realizados para desplegar la Landing Page:**
-1) Crear un nuevo repositorio en la organizacion para la landing page
+1) Crear un nuevo repositorio en la organización para la landing page
 2) Cargar el proyecto en el repositorio
 3) Enlazar netlify con la cuenta de github
 4) Seleccionar el repositorio de la landing page
@@ -877,3 +877,32 @@ Como convención general , todo el codigo realizado por los miembros del equipo 
 6) Configurar el directorio de salida (build)
 8) Configurar el dominio (automovilunite.com)
 
+#### 5.2.1. Sprint 1
+| Sprint #                               | Sprint 1                                       |
+|----------------------------------------|------------------------------------------------|
+| **Date**                               | 2025-04-22                                     |
+| **Time**                               | 07:00 PM                                       |
+| **Location**                           | Discord                                        |
+| **Prepared By**                        | Josue Paiva                                    |
+| **Attendees (to planning meeting)**    | Todos los integrantes                          |
+| **Sprint n - 1 Review Summary**        | -                                              |
+| **Sprint n - 1 Retrospective Summary** | -                                              |
+| **Sprint 1 Goal**                      | Completar el reporte y desplegar landing page. |
+| **Sprint 1 Velocity**                  | 21 story points                                |
+| **Sum of Story Points**                | 21 story points                                |
+
+##### 5.2.1.2. Sprint Backlog 1
+| # Orden | User Story Id | Título                                   | Descripción                                                                                                                        | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-18         | Cambiar el Idioma de la Landing Page     | Como visitante, quiero cambiar el idioma de la landing page para poder entender mejor la información presentada.                   | 1                                |
+| 2       | TS-19         | Contactar al Equipo de Soporte           | Como visitante, quiero contactar al equipo de soporte para obtener ayuda o resolver dudas sobre la plataforma.                     | 1                                |
+| 3       | US-16         | Navegación por el Landing Page           | Como visitante, quiero navegar por la landing page del software para obtener la información que deseo del producto.                | 2                                |
+| 4       | US-17         | Ver Información del Startup              | Como visitante, quiero ver la información del equipo de desarrollo para conocer a las personas detrás del software.                | 2                                |
+| 5       | US-02         | Inicio de Sesión                         | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y publicar o reservar vehículos.                     | 2                                |
+| 6       | US-03         | Recuperación de Contraseña               | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                       | 2                                |
+| 15      | US-01         | Registro de Usuario                      | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler.            | 3                                |
+| 16      | US-05         | Cambiar el Idioma de la Aplicación       | Como usuario, quiero cambiar el idioma de la aplicación para poder utilizarla en mi idioma preferido.                              | 3                                |
+| 18      | US-04         | Personalizar Interfaz                    | Como usuario, quiero personalizar la interfaz de la aplicación para adaptarla a mis preferencias y necesidades.                    | 5                                |
+| 20      | TS-20         | Solucionar Errores Reportados            | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto. | 8                                |
+
+##### 5.2.1.3. Development Evidence for Sprint Review
