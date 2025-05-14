@@ -173,21 +173,27 @@ del ABET – EAC - Student Outcome 3.
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivo. 
-<br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso segun el segmento. <br>Flores Apaico, Josue Antonio<br>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
+    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivos. 
+<br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento. <br>Flores Apaico, Josue Antonio<br>
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
 <br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.
+<br> TP1: Asignacion y explicacion de los bounded context a desarrollar, aplicacion de la retroalimentacion del entregable anterior
 <br> Alcantara Baldeon Poly gabriel <br>TB1: Participación en reuniones grupales. Explicación del diseño orientado a objetos. 
     </td>
-<td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br> Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
+<td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br>
+<br> Para este entregable colaboramos 3 de los 5 miembros originales, lo cual fue un reto; sin embargo, logramos cumplir con las metas asignadas a los aun presentes
+Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
   </tr>
   <tr>
-    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>De la Cruz Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica. <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
+<br>TP1: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
 <br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
-<td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. <br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos.<br>
+<td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. 
+<br> TP1: Concluyo con una entrega completa considerando los user stories que se propusieron trabajar, pues se completó la implementacion de todos
+<br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos.<br>
 Alcantara Baldeon Poly Gabriel<br>TB1:Documentar la Class Diagrams y realizar el diseño orientado a objetos me permitió desarrollar claridad técnica en la escritura, adecuada para audiencias académicas y técnicas.</td>
   </tr>
 </table>
@@ -665,67 +671,85 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 
 ### 3.2. User Stories
-| **Epic / Story ID** | **Título**                               | **Descripción**                                                                                                                    | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Relacionado con (Epic ID)** |
-|---------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| US-01               | Registro de Usuario                      | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler.            | Escenario 1: **Given** el visitante está en la página de registro, **when** completa los campos obligatorios y hace clic en "Registrarse", **then** el sistema debe crear una cuenta. Escenario 2: **Given** el visitante está en la página de registro, **when** completa los campos obligatorios con información incorrecta y hace clic en "Registrarse", **then** el sistema deberá rechazar la operación y pedirle que ingrese sus datos correctamente. | EP-01                         |
-| US-02               | Inicio de Sesión                         | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y publicar o reservar vehículos.                     | Escenario 1: **Given** el usuario está registrado, **when** ingresa sus credenciales correctas, **then** debe poder acceder a su cuenta. Escenario 2: **Given** el usuario está registrado, **when** ingresa sus credenciales de manera incorrecta, **then** se le indicará volver a ingresar sus datos correctamente.                                                                                                                                      | EP-01                         |
-| US-03               | Recuperación de Contraseña               | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                       | Escenario 1: **Given** el usuario ha olvidado su contraseña, **when** ingresa el correo de recuperación, **then** debe recibir un enlace para restablecerla. Escenario 2: **Given** el usuario ha olvidado su contraseña, **when**  ingresa incorrectamente el correo de recuperación, **then** se le pedirá ingresar el correo de recuperación correcto.                                                                                                   | EP-01                         |
-| US-04               | Personalizar Interfaz                    | Como usuario, quiero personalizar la interfaz de la aplicación para adaptarla a mis preferencias y necesidades.                    | Escenario 1:**Given** el usuario está en la sección de configuración, **when** selecciona la opción de personalizar la interfaz, **then** debe poder cambiar el el idioma de la aplicación. Escenario 2:**Given** el usuario está en la sección de configuración, **when** selecciona la opción de personalizar la interfaz, **then** debe poder cambiar el tema tanto claro como oscuro.                                                                   | EP-01                         |
-| US-05               | Cambiar el Idioma de la Aplicación       | Como usuario, quiero cambiar el idioma de la aplicación para poder utilizarla en mi idioma preferido.                              | Escenario 1: **Given** el usuario está en la sección de configuración, **when** selecciona la opción de cambiar el idioma, **then** debe poder seleccionar un idioma de la lista de opciones disponibles. Escenario 2: **Given** el usuario ya cambio el idioma por defecto de la aplicación, **when** selecciona la opción de cambiar el idioma, **then** debera poder regresar al idioma por defecto.                                                     | EP-01                         |
-| US-06               | Dashboard del usuario                    | Como usuario, quiero contar con un dashboard donde consultar mis vehículos publicados.                                             | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña Dashboard, **then** podrá visualizar las publicaciones realizadas. Escenario 2:**Given** el usuario está en la sección de Dashboard, **when** selecciona la pestaña publicaciones, **then** también podrá consultar de este modo sus publicaciones.                                                                                                                | EP-02                         |
-| US-07               | Creación de publicaciones                | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                                   | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona la opción de crear una nueva publicación, **then** debe podrá consultar la información registrada. Escenario 2:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación ya creada, **then** podrá modificar la información de dicha publicación.                                                                             | EP-02                         |
-| US-08               | Visualizar una publicación               | Como usuario, quiero ver el estado e información de una publicación ya creada.                                                     | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación, **then** debera poder consultar la información registrada. Escenario 2:**Given** el usuario esta consultando la información de una publicación, **when** selecciona en modificar, **then** podrá cambiar la información registrada.                                                                                                              | EP-02                         |
-| US-09               | Eliminar una publicación                 | Como usuario, quiero eliminar una publicación ya creada.                                                                           | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación, **then** podrá eliminar la publicación haciendo click en "Eliminar" . Escenario 2: **Given** el usuario está en la sección de publicaciones, **when** hace click en "Eliminar varios", **then** podrá seleccionar multiples publicaciones para eliminar.                                                                                         | EP-02                         |
-| US-10               | Visualizar las publicaciones de alquiler | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                                       | Escenario 1:**Given** el usuario está en la sección de dashboard, **when** accede a la pestaña de navegación, **then** se le mostrarán todos los alquileres ya creados.                                                                                                                                                                                                                                                                                     | EP-03                         |
-| US-11               | Ordenar el precio de los alquileres      | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                                 | Escenario 1:**Given** el usuario está en la sección de navegación, **when** hace click en el icono de flecha, **then** los precios se ordenaran de menor a mayor.  Escenario 1:**Given** el usuario ya ordeno los precios de menor a mayor, **when** hace click en el icono de flecha nuevamente, **then** los precios se ordenaran de mayor a menor.                                                                                                       | EP-03                         |
-| US-12               | Reseñar publicaciones de alquiler        | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños                                         | Escenario 1:**Given** el usuario está en la publicación de un alquiler, **when** elige la opción de dejar reseña, **then** podrá puntuar del 1 al 5 la publicación en cuestión Escenario 2:**Given** el usuario esta puntuando una publicación, **when** escribe un comentario, **then** podrá visualizarse en la publicación.                                                                                                                              | EP-03                         |
-| US-13               | Cargar documentos de garantía            | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.                   | Escenario 1:**Given** el usuario está en su perfil, **when** selecciona la opción cargar documentos, **then** podrá cargar los documentos necesarios para alquilar. Escenario 2:**Given** el usuario está en su perfil, **when** selecciona una imagen ya cargada, **then** podrá cambiar dicha imagen por una nueva.                                                                                                                                       | EP-04                         |
-| US-14               | Reserva de vehículo                      | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                                        | Escenario 1:**Given** el usuario se encuentra en una publicación, **when**  selecciona la opción "reservar", **then** podrá elegir las fecha en las que desea reservar.                                                                                                                                                                                                                                                                                     | EP-04                         |
-| US-15               | Cancelar reserva de vehículo             | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                                         | Escenario 1:**Given** el usuario se encuentra en su Dashboard , **when**  selecciona en una reserva, **then** podrá elegir la opción "eliminar". Escenario 2:**Given** el usuario está en su dashboard, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias reservas al mismo tiempo.                                                                                                                                     | EP-04                         |
-| US-16               | Navegación por el Landing Page           | Como visitante, quiero navegar por la landing page del software para obtener la información que deseo del producto.                | **Given** el visitante está en la landing page, **when** navega por las secciones y contenido, **then** debe encontrar información clara y relevante sobre las funcionalidades y beneficios del software.                                                                                                                                                                                                                                                   | EP-05                         |
-| US-17               | Ver Información del Startup              | Como visitante, quiero ver la información del equipo de desarrollo para conocer a las personas detrás del software.                | **Given** el visitante está en la landing page,, **when** navega por los perfiles de los miembros, **then** debería ver fotos, nombres y roles de cada miembro del equipo.                                                                                                                                                                                                                                                                                  | EP-05                         |
-| TS-18               | Cambiar el Idioma de la Landing Page     | Como visitante, quiero cambiar el idioma de la landing page para poder entender mejor la información presentada.                   | **Given** el visitante está en la landing page, **when** selecciona un idioma diferente en el menú de idiomas, **then** la página debe cambiar al idioma seleccionado.                                                                                                                                                                                                                                                                                      | EP-05                         |
-| TS-19               | Contactar al Equipo de Soporte           | Como visitante, quiero contactar al equipo de soporte para obtener ayuda o resolver dudas sobre la plataforma.                     | **Given** el visitante está en la landing page, **when** selecciona la opción de contacto, **then** debe poder enviar un mensaje al equipo de soporte con su consulta o solicitud.                                                                                                                                                                                                                                                                          | EP-05                         |
-| TS-20               | Solucionar Errores Reportados            | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto. | **Given** el desarrollador recibe un reporte de error, **when** identifica y soluciona el problema, **then** debe confirmar la corrección con el equipo de QA.                                                                                                                                                                                                                                                                                              | EP-05                         |
+| **Epic / Story ID** | **Título**                            | **Descripción**                                                                                                         |   | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                       | **Relacionado con (Epic ID)** |
+|---------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|:--|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| US-01               | Registro de Usuario                   | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler. |   | Escenario 1: **Given** el visitante accede a la lading page, **when** completa su información y selecciona "Registrar", **then** el sistema debe crear una cuenta. Escenario 2: **Given** el visitante desea registrarse, **when** completa su información de manera errónea, **then** el sistema le pedirá que ingrese sus datos correctamente.                                                                  | EP-01                         |
+| US-02               | Log In                                | Como usuario, quiero loguearme con mis credenciales y publicar o reservar vehículos.                                    |   | Escenario 1: **Given** el usuario ya se registro, **when** ingresa sus credenciales correctamente, **then** poder acceder a su cuenta. Escenario 2: **Given** el usuario ya se registro, **when** ingresa sus credenciales incorrectamente, **then** el sistema le pedirá volver a  ingresarlos de manera correcta.                                                                                               | EP-01                         |
+| US-03               | Recuperación de Contraseña            | Como usuario, quiero solicitar una nueva contraseña en caso de perder acceso a mi cuenta.                               |   | Escenario 1: **Given** el usuario perdió su contraseña, **when** ingresa la información solicitada, **then** se le enviara un link de recuperación. Escenario 2: **Given** el usuario perdió su contraseña, **when**  ingresa incorrectamente la información solicitada, **then** se le pedirá volver a intentarlo.                                                                                               | EP-01                         |
+| US-04               | Dashboard del usuario                 | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                         |   | Escenario 1:**Given** el usuario ingresa sus credenciales, **when** selecciona "Log-In", **then** se le cargara la pestaña "Dashboard" por defecto. Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Dashboard", **then** se le redirigirá a la pestaña de Dashboard.                                                                               | EP-02                         |
+| US-05               | Sección Destacados del Dashboard      | Como usuario, quiero contar con una sección Destacados en el Dashboard donde consultar vehículos publicados.            |   | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña Dashboard, **then** se le sugerirán vehículos en la zona de Destacados. Escenario 2:**Given** el usuario está en la sección de Destacados, **when** selecciona la opción "Ver Mas", **then** se le redirigirá a la pestaña de navegación.                                                                                | EP-02                         |
+| US-06               | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.        |   | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña Dashboard, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación.                                             | EP-02                         |
+| US-07               | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                              |   | Escenario 1:**Given** el usuario se encuentra en su Dashboard , **when**  selecciona en una reserva, **then** podrá elegir la opción "eliminar". Escenario 2:**Given** el usuario está en su dashboard, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias reservas al mismo tiempo.                                                                                           | EP-02                         |
+| US-08               | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados.  |   | Escenario 1:**Given** el usuario desea crear una publicación o revisar las existentes, **when** accede a la pestaña "Publicación", **then** tendrá la opción "Nueva Publicación" y debajo la sección "Mis Publicaciones". Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Publicaciones", **then** se le redirigirá a la pestaña de Publicaciones. | EP-02                         |
+| US-09               | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                        |   | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona la opción de crear una nueva publicación, **then** deberá ingresar la información de la nueva publicación. Escenario 2:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación ya creada, **then** podrá modificar la información de dicha publicación.                           | EP-03                         |
+| US-10               | Visualizar una publicación            | Como usuario, quiero ver el estado e información de una publicación ya creada.                                          |   | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación, **then** debera poder consultar la información registrada. Escenario 2:**Given** el usuario esta consultando la información de una publicación, **when** selecciona en modificar, **then** podrá cambiar la información registrada.                                                                    | EP-03                         |
+| US-11               | Eliminar una publicación              | Como usuario, quiero eliminar una publicación ya creada.                                                                |   | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación, **then** podrá eliminar la publicación haciendo click en "Eliminar" . Escenario 2: **Given** el usuario está en la sección de publicaciones, **when** hace click en "Eliminar varios", **then** podrá seleccionar multiples publicaciones para eliminar.                                               | EP-03                         |
+| US-12               | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                            |   | Escenario 1:**Given** el usuario desea navegar en las publicaciones ya creadas, **when** accede a la pestaña "Navegación", **then** se le mostrarán todos los alquileres ya publicados. Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Navegación", **then** se le redirigirá a la pestaña de Navegación.                                         | EP-03                         |
+| US-13               | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                      |   | Escenario 1:**Given** el usuario está en la sección de navegación, **when** hace click en el icono de flecha, **then** los precios se ordenaran de menor a mayor.  Escenario 1:**Given** el usuario ya ordeno los precios de menor a mayor, **when** hace click en el icono de flecha nuevamente, **then** los precios se ordenaran de mayor a menor.                                                             | EP-04                         |
+| US-14               | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                   |   | Escenario 1:**Given** el usuario está en la sección de navegación, **when** ingresa su marca de preferencia en el campo respectivo, **then** solo se mostraran publicaciones de la marca ingresada.  Escenario 2:**Given** el usuario desea restablecer el filtrado, **when** hace click en el botón "Borrar Filtros", **then** se mostraran nuevamente todas las publicaciones.                                  | EP-04                         |
+| US-15               | Reseñar publicaciones de alquiler     | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños                              |   | Escenario 1:**Given** el usuario está en la publicación de un alquiler, **when** elige la opción de dejar reseña, **then** podrá puntuar del 1 al 5 la publicación en cuestión Escenario 2:**Given** el usuario esta puntuando una publicación, **when** escribe un comentario, **then** podrá visualizarse en la publicación.                                                                                    | EP-04                         |
+| US-16               | Reserva de vehículo                   | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                             |   | Escenario 1:**Given** el usuario se encuentra en una publicación, **when**  selecciona la opción "reservar", **then** podrá elegir las fecha en las que desea reservar.                                                                                                                                                                                                                                           | EP-04                         |
+| US-17               | Pestaña de Perfil                     | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos de garantía.               |   | Escenario 1:**Given** el usuario desea consultar su perfil, **when** accede a la pestaña "Mi Perfil", **then** tendrá la opción "Crear Nuevo Perfil" o podrá modificarlo con "Modificar Perfil". Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Mi Perfil", **then** se le redirigirá a la pestaña de Publicaciones.                              | EP-04                         |
+| US-18               | Crear Perfil                          | Como usuario, quiero crear un perfil donde ingresar mi información personal.                                            |   | Escenario 1:**Given** el usuario desea crear un perfil, **when** accede a la opción "Nuevo Perfil", **then** deberá ingresar su información en el formulario. Escenario 2:**Given** el usuario esta creando su perfil, **when** hace click en finalizar cuando hay campos vacíos, **then** se le pedirá ingresar información válida en todos los campos.                                                          | EP-05                         |
+| US-19               | Modificar Perfil                      | Como usuario, quiero modificar la información ingresada en mi perfil.                                                   |   | Escenario 1:**Given** el usuario desea modificar su perfil, **when** accede a su perfil ya creado, **then** podrá modificar cada campo con "Modificar Perfil". Escenario 2:**Given** el usuario esta modificando un campo de su perfil, **when** ingresa información incorrecta, **then** se le pedirá ingresar información válida.                                                                               | EP-05                         |
+| US-20               | Cargar documentos de garantía         | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.        |   | Escenario 1:**Given** el usuario está en su perfil, **when** selecciona la opción cargar documentos, **then** podrá cargar los documentos necesarios para alquilar. Escenario 2:**Given** el usuario está en su perfil, **when** selecciona una imagen ya cargada, **then** podrá cambiar dicha imagen por una nueva.                                                                                             | EP-05                         |
+| US-21               | Acceso a la Landing Page              | Como visitante, quiero acceder a la landing page del producto para recibir información.                                 |   | **Given** el visitante accede a la landing page, **when** accede a todas las pestañas disponibles, **then** se informara sobre los beneficios y características de nuestro producto.                                                                                                                                                                                                                              | EP-05                         |
+| US-22               | Ver Información del Producto          | Como visitante, quiero ver de manera clara y precisa de que trata el producto.                                          |   | **Given** el visitante está en la landing page,, **when** accede a la pestaña "Why Choose Us", **then** podrá informarse sobre las características de nuestro producto.                                                                                                                                                                                                                                           | EP-06                         |
+| US-23               | Consultar los modelos disponibles     | Como visitante, quiero revisar parte del catálogo de opciones para alquilar.                                            |   | **Given** el visitante está en la landing page,, **when** accede a la pestaña "Popular Cars", **then** se le presentaran las opciones mas destacadas.                                                                                                                                                                                                                                                             | EP-06                         |
+| US-24               | Leer Testimonios de Clientes y Dueños | Como visitante, quiero consultar testimonios y reseñas de clientes y dueños.                                            |   | **Given** el visitante está en la landing page,, **when** accede a la pestaña "Testimonials", **then** se le presentaran testimonios y reseñas de usuarios.                                                                                                                                                                                                                                                       | EP-06                         |
+| TS-25               | Traducción de la Landing Page         | Como visitante, quiero cambiar el idioma de ingles a español en la Landing Page.                                        |   | **Given** el visitante está en la landing page, **when** hace click en el botón idioma, **then** la página se mostrara en español.                                                                                                                                                                                                                                                                                | EP-06                         |
+| TS-26               | Call To Action                        | Como visitante, quiero recibir información a mi correo electrónico llenando un formulario.                              |   | **Given** el visitante está en la landing page, **when** selecciona el botón "Know More", **then** deberá rellenar el formulario para empezar a recibir noticias del producto.                                                                                                                                                                                                                                    | EP-06                         |
+
 ### **Epic 01: Creación y Gestión de Cuenta**
 | **Story ID** | **Título**                         |
 |--------------|------------------------------------|
 | US-01        | Registro de Usuario                |
-| US-02        | Inicio de Sesión                   |
+| US-02        | Log In                             |
 | US-03        | Recuperación de Contraseña         |
-| US-04        | Personalizar Interfaz              |
-| US-05        | Cambiar el Idioma de la Aplicación |
 
-### **Epic 02: Creación y Visualización de Publicaciones**
+### **Epic 02: Dashboard del usuario**
+| **Story ID** | **Título**                       |
+|--------------|----------------------------------|
+| US-04        | Dashboard del usuario            |
+| US-05        | Sección Destacados del Dashboard |
+| US-06        | Sección Publicados del Dashboard |
+| US-07        | Cancelar reserva de vehículo     |
+
+### **Epic 03: Creación y Visualización de Publicaciones**
 | **Story ID** | **Título**                 |
 |--------------|----------------------------|
-| US-06        | Dashboard del usuario      |
-| US-07        | Creación de publicaciones  |
-| US-08        | Visualizar una publicación |
-| US-09        | Eliminar una publicación   |
+| US-08        | Pestaña de Publicación     |
+| US-09        | Creación de publicaciones  |
+| US-10        | Visualizar una publicación |
+| US-11        | Eliminar una publicación   |
 
-### **Epic 03: Navegación de Alquileres Disponibles**
-| **Story ID** | **Título**                               |
-|--------------|------------------------------------------|
-| US-10        | Visualizar las publicaciones de alquiler |
-| US-11        | Ordenar el precio de los alquileres      |
-| US-12        | Reseñar publicaciones de alquiler        |
+### **Epic 04: Navegación de Alquileres Disponibles**
+| **Story ID** | **Título**                          |
+|--------------|-------------------------------------|
+| US-12        | Pestaña de Navegación               |
+| US-13        | Ordenar el precio de los alquileres |
+| US-14        | Filtrado de marcas                  |
+| US-15        | Reseñar publicaciones de alquiler   |
+| US-16        | Reserva de vehículo                 |
 
-### **Epic 04: Reserva de vehículos**
-| **Story ID** | **Título**                               |
-|--------------|------------------------------------------|
-| US-13        | Visualizar las publicaciones de alquiler |
-| US-14        | Ordenar el precio de los alquileres      |
-| US-15        | Reseñar publicaciones de alquiler        |
+### **Epic 05: Perfil de Usuario**
+| **Story ID** | **Título**                    |
+|--------------|-------------------------------|
+| US-17        | Pestaña de Perfil             |
+| US-18        | Crear Perfil                  |
+| US-19        | Modificar Perfil              |
+| US-20        | Cargar documentos de garantía |
 
-### **Epic 05: Interacción con la Landing Page**
-| **Story ID** | **Título**                           |
-|--------------|--------------------------------------|
-| US-16        | Navegación por el Landing Page       |
-| US-17        | Ver Información del Startup          |
-| TS-18        | Cambiar el Idioma de la Landing Page |
-| TS-19        | Contactar al Equipo de Soporte       |
-| TS-20        | Solucionar Errores Reportados        |
+### **Epic 06: Interacción con la Landing Page**
+| **Story ID** | **Título**                            |
+|--------------|---------------------------------------|
+| US-21        | Acceso a la Landing Page              |
+| US-22        | Ver Información del Producto          |
+| TS-23        | Consultar los modelos disponibles     |
+| TS-24        | Leer Testimonios de Clientes y Dueños |
+| TS-25        | Traducción de la Landing Page         |
+| TS-26        | Call To Action                        |
+
 
 ### 3.3. Impact Mapping
 
@@ -737,28 +761,36 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ### 3.4. Product Backlog
 
-| # Orden | User Story Id | Título                                   | Descripción                                                                                                                        | Story Points (1 / 2 / 3 / 5 / 8) |
-|---------|---------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 1       | TS-18         | Cambiar el Idioma de la Landing Page     | Como visitante, quiero cambiar el idioma de la landing page para poder entender mejor la información presentada.                   | 1                                |
-| 2       | TS-19         | Contactar al Equipo de Soporte           | Como visitante, quiero contactar al equipo de soporte para obtener ayuda o resolver dudas sobre la plataforma.                     | 1                                |
-| 3       | US-16         | Navegación por el Landing Page           | Como visitante, quiero navegar por la landing page del software para obtener la información que deseo del producto.                | 2                                |
-| 4       | US-17         | Ver Información del Startup              | Como visitante, quiero ver la información del equipo de desarrollo para conocer a las personas detrás del software.                | 2                                |
-| 5       | US-02         | Inicio de Sesión                         | Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta y publicar o reservar vehículos.                     | 2                                |
-| 6       | US-03         | Recuperación de Contraseña               | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                       | 2                                |
-| 7       | US-09         | Eliminar una publicación                 | Como usuario, quiero eliminar una publicación ya creada.                                                                           | 2                                |
-| 8       | US-10         | Visualizar las publicaciones de alquiler | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                                       | 3                                |
-| 9       | US-11         | Ordenar el precio de los alquileres      | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                                 | 3                                |
-| 10      | US-12         | Reseñar publicaciones de alquiler        | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños                                         | 3                                |
-| 11      | US-13         | Cargar documentos de garantía            | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.                   | 3                                |
-| 12      | US-06         | Dashboard del usuario                    | Como usuario, quiero contar con un dashboard donde consultar mis vehículos publicados.                                             | 3                                |
-| 13      | US-08         | Visualizar una publicación               | Como usuario, quiero ver el estado e información de una publicación ya creada.                                                     | 3                                |
-| 14      | US-15         | Cancelar reserva de vehículo             | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                                         | 3                                |
-| 15      | US-01         | Registro de Usuario                      | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler.            | 3                                |
-| 16      | US-05         | Cambiar el Idioma de la Aplicación       | Como usuario, quiero cambiar el idioma de la aplicación para poder utilizarla en mi idioma preferido.                              | 3                                |
-| 17      | US-07         | Creación de publicaciones                | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                                   | 5                                |
-| 18      | US-04         | Personalizar Interfaz                    | Como usuario, quiero personalizar la interfaz de la aplicación para adaptarla a mis preferencias y necesidades.                    | 5                                |
-| 19      | US-14         | Reserva de vehículo                      | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                                        | 5                                |
-| 20      | TS-20         | Solucionar Errores Reportados            | Como desarrollador, quiero corregir los errores del software notificados por el equipo de QA para mejorar la calidad del producto. | 8                                |
+| **Orden** | **User Story Id** | **Título**                            | **Descripción**                                                                                                         | **Story Points** |
+|-----------|-------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------|
+| 1         | TS-25             | Traducción de la Landing Page         | Como visitante, quiero cambiar el idioma de inglés a español en la Landing Page.                                        | 1                |
+| 2         | TS-26             | Call To Action                        | Como visitante, quiero recibir información a mi correo electrónico llenando un formulario.                              | 1                |
+| 3         | US-01             | Registro de Usuario                   | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler. | 2                |
+| 4         | US-02             | Log In                                | Como usuario, quiero loguearme con mis credenciales y publicar o reservar vehículos.                                    | 2                |
+| 5         | US-03             | Recuperación de Contraseña            | Como usuario, quiero solicitar una nueva contraseña en caso de perder acceso a mi cuenta.                               | 3                |
+| 6         | US-04             | Dashboard del usuario                 | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                         | 3                |
+| 7         | US-05             | Sección Destacados del Dashboard      | Como usuario, quiero contar con una sección Destacados en el Dashboard donde consultar vehículos publicados.            | 3                |
+| 8         | US-06             | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.        | 3                |
+| 9         | US-07             | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                              | 3                |
+| 10        | US-08             | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados.  | 3                |
+| 11        | US-09             | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                        | 5                |
+| 12        | US-10             | Visualizar una publicación            | Como usuario, quiero ver el estado e información de una publicación ya creada.                                          | 5                |
+| 13        | US-11             | Eliminar una publicación              | Como usuario, quiero eliminar una publicación ya creada.                                                                | 5                |
+| 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                            | 5                |
+| 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                      | 5                |
+| 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                   | 5                |
+| 17        | US-15             | Reseñar publicaciones de alquiler     | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                             | 5                |
+| 18        | US-16             | Reserva de vehículo                   | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                             | 5                |
+| 19        | US-17             | Pestaña de Perfil                     | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos de garantía.               | 5                |
+| 20        | US-18             | Crear Perfil                          | Como usuario, quiero crear un perfil donde ingresar mi información personal.                                            | 5                |
+| 21        | US-19             | Modificar Perfil                      | Como usuario, quiero modificar la información ingresada en mi perfil.                                                   | 5                |
+| 22        | US-20             | Cargar documentos de garantía         | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.        | 5                |
+| 23        | US-21             | Acceso a la Landing Page              | Como visitante, quiero acceder a la landing page del producto para recibir información.                                 | 5                |
+| 24        | US-22             | Ver Información del Producto          | Como visitante, quiero ver de manera clara y precisa de qué trata el producto.                                          | 5                |
+| 25        | US-23             | Consultar los modelos disponibles     | Como visitante, quiero revisar parte del catálogo de opciones para alquilar.                                            | 8                |
+| 26        | US-24             | Leer Testimonios de Clientes y Dueños | Como visitante, quiero consultar testimonios y reseñas de clientes y dueños.                                            | 8                |
+
+
 
 
 
@@ -1061,84 +1093,140 @@ Utilizamos Figma para el desarrollo de mock ups tanto de la landing page como de
 
 <img src="assets/sprint1/figma.jpeg" width=300 >
 
-_### Software Deployment
+### Software Deployment
 Trabajamos con Netlify para el despliegue de la landing page
 
 #### 5.1.2. Source Code Management
 
-| Producto     | URL                                              |
-|--------------|--------------------------------------------------|
-| Landing Page | https://github.com/Grupo-3-Apps-Web/Landing-Page |
-| Report       | https://github.com/Grupo-3-Apps-Web/Report       |
+| Producto     | URL                                                   |
+|--------------|-------------------------------------------------------|
+| Landing Page | https://github.com/Grupo-3-Apps-Web/Landing-Page      |
+| Report       | https://github.com/Grupo-3-Apps-Web/Report            |
+| Frontend     | https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend |
+
+Para el desarrollo de todos los productos de NovaCode hemos empleado GitFlow con las siguientes restricciones:
+- **Main**: Rama principal del proyecto. Contiene la versión estable y lista para producción.
+- **Develop**: Rama de desarrollo. Aquí se integran las nuevas características y correcciones antes de ser fusionadas a la rama principal.
+- **Feature**: Rama para el desarrollo de nuevas características. Se crea a partir de la rama de desarrollo y se fusiona nuevamente en ella una vez se complete el mismo
+- **Fix**: Rama para correcciones de errores. Se crea a partir de la rama de desarrollo y se fusiona nuevamente en ella una vez completada la corrección.
+
+Además, para el registro de progreso y colaboración se emplearán los conventional commits con su respectivo formato:
+- feat: Nueva funcionalidad
+- fix: Corrección de errores
+- docs: Cambios en la documentación
+- style: Cambios de formato o estilo
+- refactor: Cambios en el código que no afectan la funcionalidad
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 
-Como convención general, todo el código realizado por los miembros del equipo debe redactarse en completo inglés.
-<br><br>*HTML*<br>
-- *Use Lowercase Element Name*<br>
-  Se recomienda usar lowercase para los nombres de los elementos HTML:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html.png" /></p><br>
-- *Close All HTML Elements*<br>
-  Se recomienda cerrar todos los elementos HTML:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-1.png" alt="Close all html" /></p><br>
-- *Use Lowercase Attribute Names*<br>
-  Se recomienda usar lowercase para los nombres de los atributos HTML:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-2.png" alt="attribute Names" /></p><br>
-- *Always Specify alt, width, and height for Images*<br>
-  Se recomienda seguir estas convenciones en caso de que la imagen no se puede mostrar y ayudar con la accesibilidad del contenido:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-3.png" alt="always images" /></p>
-  <br>Para mas información sobre las convenciones de HTML: https://www.w3schools.com/html/html5_syntax.asp
+#### HTML
+- **Use Lowercase Element Names**:  
+  Es recomendable utilizar minúsculas para los nombres de los elementos HTML.
+  ~~~
+  <body>
+      <p>This is a paragraph</p>
+  </body>
+  ~~~
+- **Use Lowercase Attribute Names**:  
+  Los nombres de los atributos HTML deben estar en minúsculas.
+  ~~~
+  <a href="https://www.example.com">Link</a>
+  ~~~
+- **Use Double Quotes for Attribute Values**:<br>
+  Se recomienda utilizar comillas dobles para los valores de los atributos.
+    ~~~
+    <img src="image.jpg" alt="Image">
+    ~~~
+- **Omit Type Attributes for Style Sheets and Scripts**:<br>
+  No es necesario incluir el atributo `type` para las hojas de estilo y los scripts.
+    ~~~
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    ~~~
+#### CSS
+- **Use Lowercase and Hyphens for Property Names**:<br>
+  Los nombres de las propiedades CSS deben estar en minúsculas y separados por guiones.
+    ~~~
+    .example-class {
+        background-color: red;
+        font-size: 16px;
+    }
+    ~~~
+- **ID and Class Name Style**:<br>
+  Utilice nombres descriptivos y significativos para las clases y los IDs.
+    ~~~
+    #nav{}
+    .header{}
+    ~~~
+- **Use Shorthand Properties**:<br>
+  Se recomienda utilizar propiedades abreviadas para reducir la redundancia en el código.
+  Por ejemplo CSS nos ofrece la propiedad `font` que nos permite definir en una sola línea el tamaño de la fuente, el tipo de fuente y el color.
+    ~~~
+    border-top: 0;
+    font: 100%/1.6 palatino, georgia, serif;
+    padding: 0 1em 2em;
+    ~~~
 
-<br>*CSS*<br><br>
-- *ID and Class Naming*<br>
-  Usar nombres de clases y ID significativos que expresen el propósito del elemento:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-1.png" alt="class naming" /></p><br>
-- *Block Content Indentation*<br>
-  Sangrar todo el contenido del bloque, es decir, reglas dentro de reglas, así como declaraciones, para reflejar la jerarquía y Mejorar la comprensión<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-2.png" alt="content identation" /></p><br>
-- *Section Comments*<br>
-  Agrupe las secciones de la hoja de estilo mediante comentarios. Separar secciones con nuevas líneas.<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-3.png" alt="Comments" /></p>
-  <br>Para más información sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
+#### JavaScript
 
-<br>*JavaScript*<br><br>
-- *Array initializers: can be "block-like"*<br>
-  Cualquier inicializador de matriz puede ser formateado opcionalmente como si fuera un "tipo bloque" construir". Por ejemplo, los siguientes son todos válidos (no es un análisis exhaustivo lista):<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-1.png" alt="block like" /></p><br>
-- *Type-use annotations*<br>
-  Las anotaciones de uso de tipo aparecen inmediatamente antes del tipo anotado. Una anotación es un uso de tipo anotación si está meta-anotado con . Ejemplo:@Target(ElementType.TYPE_USE)<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-2.png" alt="type-use annotations" /></p><br>
-- *Method and constructor annotations*<br>
-  Las reglas para las anotaciones en las declaraciones de método y constructor son las mismas que en la sección anterior. Ejemplo:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-3.png" alt="method" /></p>
-  <br>Para más información sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
-
-<br>*TypeScript*<br><br>
-- *Imports*<br>
-  Hay cuatro variantes de instrucciones de importación en ES6 y TypeScript:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-1.png" alt="imports" /></p><br>
-- *Class declarations*<br>
-  Las declaraciones de clase no deben terminar con punto y coma:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-2.png" alt="Class declarations" /></p><br>
-
-- *Constructors*<br>
-  Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasa ningún argumento:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-3.png" alt="constructor" /></p>
-  <br>Para más información sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
-
-<br>*Gherkin*<br><br>
-- *Discernible Given-When-Then Blocks*<br>
-  En teoría, sus escenarios pueden ser tan simples como un solo paso Given, When Then, cada uno. Sin embargo, en la vida real, tienden a crecer y tienen múltiples pasos para cada una de estas palabras clave. Para detectar rápidamente dónde termina un bloque y comienza otro, puede sangrar los pasos que comienzan con "Y". Entonces, el escenario sería algo así:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-1.png" alt="Discernible" /></p><br>
-  Una alternativa es hacer que cada paso comience con la misma sangría y agregar una nueva línea adicional antes del siguiente bloque de palabras clave.<br><br>
-- *Steps with Tables*<br>
-  A menudo usamos tablas en nuestros pasos. Para que sea inmediatamente reconocible que un paso necesita más información de una tabla, usamos dos puntos al final del paso. Esto ayuda cuando se usa IntelliSense, que no incluye vistas previas de tablas, pero mostrará los dos puntos:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-2.png" alt="tables" /></p><br>
-- *Reducing Noise*<br>
-  Para reducir el ruido, se recomienda utilizar valores predeterminados para los campos que el sistema requiere, pero que no son relevantes para su escenario.<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-3.png" alt="noise" /></p><br>
-  Para más información sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
-
+- **Use Semicolons**:  
+  Es recomendable utilizar punto y coma al final de cada instrucción en JavaScript.
+  ~~~
+  var x = 5;
+  ~~~
+- **Use `const` and `let`**:
+  Se recomienda utilizar `const` para variables que no cambiarán su valor y `let` para variables que sí lo harán.
+    ~~~
+    const PI = 3.14159;
+    let count = 0;
+    ~~~
+- **Declaring Variables**:  
+  Es recomendable declarar todas las variables al principio de la función o bloque de código.
+  ~~~
+    const myName = 'Chris';
+    console.log(myName);
+    let myAge = '40';
+    myAge++;
+    console.log('Happy birthday!');
+  ~~~
+#### C#
+- **Use PascalCase for Class Names**:  
+  Los nombres de las clases deben seguir la convención PascalCase.
+  ~~~
+  public class MyClass
+  {
+      // Class members
+  }
+  ~~~
+- **Use CamelCase for Method Names**:  
+  Los nombres de los métodos deben seguir la convención camelCase.
+  ~~~
+  public void myMethod()
+  {
+      // Method body
+  }
+  ~~~
+- **Use Explicit Access Modifiers**:
+  Es recomendable utilizar modificadores de acceso explícitos en lugar de depender de los valores predeterminados.
+    ~~~
+    public class MyClass
+    {
+        private int myField;
+        public void MyMethod()
+        {
+            // Method body
+        }
+    }
+    ~~~
+- **Comments and Documentation**:
+  Es recomendable incluir comentarios descriptivos en el código para explicar su funcionamiento y propósito.
+    ~~~
+    // This method calculates the sum of two numbers
+    public int CalculateSum(int a, int b)
+    {
+        return a + b;
+    }
+      ~~~
 #### 5.1.4. Software Deployment Configuration
 **Pasos realizados para desplegar la Landing Page:**
 1) Crear un nuevo repositorio en la organización para la landing page
@@ -1150,6 +1238,8 @@ Como convención general, todo el código realizado por los miembros del equipo 
 8) Configurar el dominio (automovilunite.com)
 
 #### 5.2.1. Sprint 1
+
+##### 5.2.1.1. Sprint Planning 1
 | Sprint #                               | Sprint 1                                       |
 |----------------------------------------|------------------------------------------------|
 | **Date**                               | 2025-04-22                                     |
@@ -1196,8 +1286,7 @@ Se utilizó Netlify para el despliegue de la landing page, para ello se enlazó 
 <img src="assets/sprint1/netlifyEvidence.png" width=600 >
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Todos las pestañas de navegacion estan operativas:
-
+Todos las pestañas de navegación están operativas:
 <img src="assets/sprint1/howItWorks.png" width=600 >
 
 <img src="assets/sprint1/whyUs.png" width=600 >
@@ -1216,13 +1305,130 @@ Reunion por discord:
 
 <img src="assets/sprint1/reu.png" width=600 >
 
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2
+
+| Sprint #                               | Sprint 2                                                                                                                         |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                               | 2025-05-8                                                                                                                        |
+| **Time**                               | 05:00 PM                                                                                                                         |
+| **Location**                           | Discord                                                                                                                          |
+| **Prepared By**                        | Josue Paiva                                                                                                                      |
+| **Attendees (to planning meeting)**    | Carlos De La Cruz, Christian Huanca, Josue Paiva.                                                                                |
+| **Sprint n - 2 Review Summary**        | El equipo se organizó para garantizar la mejora continua y los productos faltantes en la etapa de desarrollo.                    |
+| **Sprint n - 2 Retrospective Summary** | Se vio que hay que mejorar en los tiempos de entrega de las  actividades o tareas que se le asigna a cada integrante del equipo. |
+| **Sprint 2 Goal**                      | Completar el reporte y desplegar el front end.                                                                                   |
+| **Sprint 2 Velocity**                  | 25 story points                                                                                                                  |
+| **Sum of Story Points**                | 25 story points                                                                                                                  |
+
+
+##### 5.2.2.2. Sprint Backlog 2
+
+| # Orden | User Story Id | Título                              | Descripción                                                                                                            | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 8       | US-06         | Sección Publicados del Dashboard    | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.       | 2                                |
+| 9       | US-07         | Cancelar reserva de vehículo        | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                             | 2                                |
+| 10      | US-08         | Pestaña de Publicación              | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados. | 3                                |
+| 11      | US-09         | Creación de publicaciones           | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                       | 3                                |
+| 12      | US-10         | Visualizar una publicación          | Como usuario, quiero ver el estado e información de una publicación ya creada                                          | 3                                |
+| 13      | US-11         | Eliminar una publicación            | Como usuario, quiero eliminar una publicación ya creada.                                                               | 3                                |
+| 14      | US-12         | Pestaña de Navegación               | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                           | 3                                |
+| 15      | US-13         | Ordenar el precio de los alquileres | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                     | 3                                |
+| 16      | US-14         | Filtrado de marcas                  | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                  | 3                                |
+
+
+Además, creamos un board de trello con el registro de los sprints
+
+<img src="assets/sprint2/trello.png" width=600 >
+
+Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+
+#### 5.2.2.3 Development Evidence for Sprint Review
+
+Commits realizados en el repositorio del reporte:
+
+<img src="assets/sprint2/commitsReport1.png" width=600 >
+
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/sprint2/frontCommits.png" width=600 >
+
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+A continuación se listan los user stories junto con sus criterios de aceptación que se pusieron a prueba para el sprint 2
+
+| User Story Id | Título                              | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                       |
+|---------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US-06         | Sección Publicados del Dashboard    | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña Dashboard, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación.                                             |
+| US-07         | Cancelar reserva de vehículo        | Escenario 1:**Given** el usuario se encuentra en su Dashboard , **when**  selecciona en una reserva, **then** podrá elegir la opción "eliminar". Escenario 2:**Given** el usuario está en su dashboard, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias reservas al mismo tiempo.                                                                                           |
+| US-08         | Pestaña de Publicación              | Escenario 1:**Given** el usuario desea crear una publicación o revisar las existentes, **when** accede a la pestaña "Publicación", **then** tendrá la opción "Nueva Publicación" y debajo la sección "Mis Publicaciones". Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Publicaciones", **then** se le redirigirá a la pestaña de Publicaciones. |
+| US-09         | Creación de publicaciones           | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona la opción de crear una nueva publicación, **then** deberá ingresar la información de la nueva publicación. Escenario 2:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación ya creada, **then** podrá modificar la información de dicha publicación.                           |
+| US-10         | Visualizar una publicación          | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación, **then** podrá eliminar la publicación haciendo click en "Eliminar" . Escenario 2: **Given** el usuario está en la sección de publicaciones, **when** hace click en "Eliminar varios", **then** podrá seleccionar multiples publicaciones para eliminar.                                               | 
+| US-11         | Eliminar una publicación            | Escenario 1:**Given** el usuario desea navegar en las publicaciones ya creadas, **when** accede a la pestaña "Navegación", **then** se le mostrarán todos los alquileres ya publicados. Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Navegación", **then** se le redirigirá a la pestaña de Navegación.                                         |
+| US-12         | Pestaña de Navegación               | Escenario 1:**Given** el usuario desea navegar en las publicaciones ya creadas, **when** accede a la pestaña "Navegación", **then** se le mostrarán todos los alquileres ya publicados. Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Navegación", **then** se le redirigirá a la pestaña de Navegación.                                         |
+| US-13         | Ordenar el precio de los alquileres | Escenario 1:**Given** el usuario está en la sección de navegación, **when** hace click en el icono de flecha, **then** los precios se ordenaran de menor a mayor.  Escenario 1:**Given** el usuario ya ordeno los precios de menor a mayor, **when** hace click en el icono de flecha nuevamente, **then** los precios se ordenaran de mayor a menor.                                                             |
+| US-14         | Filtrado de marcas                  | Escenario 1:**Given** el usuario está en la sección de navegación, **when** ingresa su marca de preferencia en el campo respectivo, **then** solo se mostraran publicaciones de la marca ingresada.  Escenario 2:**Given** el usuario desea restablecer el filtrado, **when** hace click en el botón "Borrar Filtros", **then** se mostraran nuevamente todas las publicaciones.                                  | 
+
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+Se adjuntan evidencias del despliegue de la primera version del frontend, cubriendo las user stories previamente mencionadas
+
+<img src="assets/sprint2/navigation.png" width=600 >
+
+<img src="assets/sprint2/publication.png" width=600 >
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Nuestro frontend consumen diversos endpoints localizados en la carpeta server en la raíz de nuestro proyecto:
+
+<img src="assets/sprint2/dbjson.png" width=600 >
+
+Arrancamos dicho server de manera local con el siguiente comando:
+```bash
+npx json-server --watch server/db.json --port 3000
+```
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+El frontend fue desplegado en Netlify, el cual se enlaza con el repositorio de github del frontend. El proceso de despliegue es similar al de la landing page, pero en este caso se utilizó el branch main.
+
+<img src="assets/sprint2/netlify.png" width=600 >
+
+Como se puede apreciar en la dirección URL se encuentra netlify.app como parte de la misma
+
+<img src="assets/sprint2/publication.png" width=600 >
+
+**Link del front desplegado** https://novacode-frontend.netlify.app
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+Insights del repositorio del reporte de github:
+
+<img src="assets/sprint2/sprint2Report.png" width=600 >
+
+Insights del repositorio del frontend de github:
+
+<img src="assets/sprint2/sprint2Front.png" width=600 >
+
+
 ## Conclusiones:
-Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizo mediante
-reuniones por discord y asignacion de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
+
+**TB1**
+Este primer entregable nos permitió moldear la idea detrás de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizó mediante
+reuniones por discord y asignación de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
+
+**TP:**
+Finalizar este entregable nos permitió avanzar de manera concreta en las user stories definidas, destacando la relevancia de la planificación y organización en el desarrollo de software. 
+La construcción de los bounded contexts planteados en la documentación inicial refleja el progreso alcanzado en la aplicación. Logramos cumplir satisfactoriamente con todas las user stories previstas para esta etapa, por lo que consideramos que esta entrega fue exitosa.
+
 
 ## Anexos
--Link de la organizacion de GitHub: https://github.com/Grupo-3-Apps-Web
--Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
--Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
--Link de la landing page desplegada: https://automovilunite.netlify.app/
-
+- Link de la organización de GitHub: https://github.com/Grupo-3-Apps-Web
+- Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
+- Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
+- Link del repositorio del frontend: https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend
+- Link de la landing page desplegada: https://automovilunite.netlify.app/
+- Link del frontend desplegado: https://novacode-frontend.netlify.app
+- Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
