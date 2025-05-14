@@ -173,7 +173,7 @@ del ABET – EAC - Student Outcome 3.
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivo. 
 <br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso segun el segmento. <br>Flores Apaico, Josue Antonio<br>
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
@@ -183,7 +183,7 @@ TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes au
 <td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br> Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
   </tr>
   <tr>
-    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>De la Cruz Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica. <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
 <br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
@@ -1284,8 +1284,9 @@ Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, e
 reuniones por discord y asignacion de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
 
 ## Anexos
--Link de la organizacion de GitHub: https://github.com/Grupo-3-Apps-Web
--Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
--Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
--Link de la landing page desplegada: https://automovilunite.netlify.app/
+- Link de la organizacion de GitHub: https://github.com/Grupo-3-Apps-Web
+- Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
+- Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
+- Link del repositorio del frontend: https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend
+- Link de la landing page desplegada: https://automovilunite.netlify.app/
 
