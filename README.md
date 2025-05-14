@@ -1001,35 +1001,47 @@ El diseño orientado a objetos de nuestro software es un pilar fundamental para 
 
 #### 4.7.2. Class Dictionary
 
-| Clase     | Nombre de Atributo  | Descripción                                | Tipo de Dato  |
+|Clase			|Nombre de Atributo	|	Descripción					|Tipo de Dato	|
 |:----------|:--------------------|:-------------------------------------------|:--------------|
-| Usuario   | idDocumento         | Identificador del documento del usuario    | String        |
-| Usuario   | nombre              | Nombre del usuario                         | String        |
-| Usuario   | email               | Correo electrónico del usuario             | String        |
-| Usuario   | contraseña          | Contraseña del usuario                     | String        |
-| Usuario   | tipoUsuario         | Tipo de usuario                            | Enum          |
-| Usuario   | documentos          | Documentos asociados al usuario            | Documento[]   |
-| Documento | idDocumento         | Identificador del documento                | String        |
-| Documento | tipo                | Tipo de documento                          | String        |
-| Documento | archivo             | Archivo digital del documento              | String        |
-| Vehiculo  | idVehiculo          | Identificador del vehículo                 | Int           |
-| Vehiculo  | marca               | Marca del vehículo                         | String        |
-| Vehiculo  | modelo              | Modelo del vehículo                        | String        |
-| Vehiculo  | anio                | Año del vehículo                           | Int           |
-| Vehiculo  | precioPorDia        | Precio por día del vehículo                | Float         |
-| Vehiculo  | estado              | Estado del vehículo                        | Enum          |
-| Reserva   | idReserva           | Identificador de la reserva                | Int           |
-| Reserva   | usuario             | Usuario que realizó la reserva             | Usuario       |
-| Reserva   | vehiculo            | Vehículo reservado                         | Vehiculo      |
-| Reserva   | fechaInicio         | Fecha de inicio de la reserva              | Datetime      |
-| Reserva   | fechaFin            | Fecha de fin de la reserva                 | Datetime      |
-| Reserva   | estado              | Estado de la reserva                       | Enum          |
-| Reseña    | idResena            | Identificador de la reseña                 | Int           |
-| Reseña    | autor               | Usuario que escribió la reseña             | Usuario       |
-| Reseña    | vehiculo            | Vehículo reseñado                          | Vehiculo      |
-| Reseña    | fechaInicio         | Fecha de inicio de la experiencia reseñada | Datetime      |
-| Reseña    | calificacion        | Calificación otorgada al vehículo          | Int           |
-| Reseña    | comentario          | Comentario del usuario                     | String        |
+|Publicacion		|idPublicacion		|Identificador único de la publicación			|Int|
+|Publicacion		|titulo			|Título de la publicación				|String|
+|Publicacion	|descripcion		|Descripción detallada de la publicación		|String|
+|Publicacion	|fechaCreacion		|Fecha de creación de la publicación			|DateTime
+|Usuario		|idDocumento		|Identificador del documento principal del usuario	|String
+|Usuario		|nombre			|Nombre completo del usuario				|String
+|Usuario		|email			|Correo electrónico del usuario				|String
+|Usuario		|contraseña		|Contraseña cifrada del usuario				|String
+|Usuario		|tipoUsuario		|Rol del usuario (Arrendatario, Propietario)		|Int
+|Documento	|idDocumento		|Identificador único del documento			|String
+|Documento	|tipo			|Tipo de documento (licencia, DNI, seguro…)		|String
+|Documento	|archivo		|Ruta o URL al archivo digital				|String
+|Vehiculo	|idVehiculo		|Identificador único del vehículo			|Int
+|Vehiculo	|marca			|Marca del vehículo					|String
+|Vehiculo	|modelo			|Modelo del vehículo					|String
+|Vehiculo	|anio			|Año de fabricación del vehículo			|Int
+|Vehiculo	|precioPorDia		|Precio de alquiler por día				|Float
+|Vehiculo	|estado			|Estado actual (Disponible, Reservado, Mantenimiento…)	|String
+|Reserva		|idReserva		|Identificador único de la reserva			|Int
+|Reserva		|usuario		|Referencia al usuario (Arrendatario) que hizo la reserva	|Usuario
+|Reserva		|vehiculo		|Referencia al vehículo reservado	|Vehiculo
+|Reserva		|fechaInicio		|Fecha y hora de inicio de la reserva	|DateTime
+|Reserva		|fechaFin		|Fecha y hora de fin de la reserva	|DateTime
+|Reserva		|estado			|Estado de la reserva (Pendiente, Confirmada, Cancelada)	|Stringn
+|Resena			|idResena		|Identificador único de la reseña	|Int
+|Resena			|autor			|Referencia al usuario (Arrendatario) que escribió la reseña	|Usuario
+|Resena			|vehiculo		|Referencia al vehículo reseñado	|Vehiculo
+|Resena			|fechaInicio		|Fecha de la experiencia reseñada	|DateTime
+|Resena			|calificacion		|Puntuación otorgada al vehículo	|Int
+|Resena			|comentario		|Texto del comentario	|String
+|Soporte		|idSolicitud		|Identificador único de la solicitud de ayuda	|Int
+|Soporte		|usuario		|Referencia al usuario (Arrendatario) que envía la solicitud	|Usuario
+|Soporte		|calificacion		|Nivel de prioridad o satisfacción asignado en la solicitud	|Int
+|Soporte		|mensaje		|Contenido del mensaje de ayuda	|String
+|Soporte		|fecha			|Fecha y hora de envío de la solicitud	|DateTime
+
+
+
+
 
 ### 4.8. Database Design
 
