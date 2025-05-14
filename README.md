@@ -173,7 +173,7 @@ del ABET – EAC - Student Outcome 3.
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivo. 
 <br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso segun el segmento. <br>Flores Apaico, Josue Antonio<br>
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
@@ -183,7 +183,7 @@ TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes au
 <td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br> Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
   </tr>
   <tr>
-    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>De la Cruz Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica. <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
 <br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
@@ -1079,84 +1079,127 @@ Utilizamos Figma para el desarrollo de mock ups tanto de la landing page como de
 
 <img src="assets/sprint1/figma.jpeg" width=300 >
 
-_### Software Deployment
+### Software Deployment
 Trabajamos con Netlify para el despliegue de la landing page
 
 #### 5.1.2. Source Code Management
 
-| Producto     | URL                                              |
-|--------------|--------------------------------------------------|
-| Landing Page | https://github.com/Grupo-3-Apps-Web/Landing-Page |
-| Report       | https://github.com/Grupo-3-Apps-Web/Report       |
+| Producto     | URL                                                   |
+|--------------|-------------------------------------------------------|
+| Landing Page | https://github.com/Grupo-3-Apps-Web/Landing-Page      |
+| Report       | https://github.com/Grupo-3-Apps-Web/Report            |
+| Frontend     | https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend |
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 
-Como convención general, todo el código realizado por los miembros del equipo debe redactarse en completo inglés.
-<br><br>*HTML*<br>
-- *Use Lowercase Element Name*<br>
-  Se recomienda usar lowercase para los nombres de los elementos HTML:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html.png" /></p><br>
-- *Close All HTML Elements*<br>
-  Se recomienda cerrar todos los elementos HTML:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-1.png" alt="Close all html" /></p><br>
-- *Use Lowercase Attribute Names*<br>
-  Se recomienda usar lowercase para los nombres de los atributos HTML:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-2.png" alt="attribute Names" /></p><br>
-- *Always Specify alt, width, and height for Images*<br>
-  Se recomienda seguir estas convenciones en caso de que la imagen no se puede mostrar y ayudar con la accesibilidad del contenido:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/html-3.png" alt="always images" /></p>
-  <br>Para mas información sobre las convenciones de HTML: https://www.w3schools.com/html/html5_syntax.asp
+#### HTML
+- **Use Lowercase Element Names**:  
+  Es recomendable utilizar minúsculas para los nombres de los elementos HTML.
+  ~~~
+  <body>
+      <p>This is a paragraph</p>
+  </body>
+  ~~~
+- **Use Lowercase Attribute Names**:  
+  Los nombres de los atributos HTML deben estar en minúsculas.
+  ~~~
+  <a href="https://www.example.com">Link</a>
+  ~~~
+- **Use Double Quotes for Attribute Values**:<br>
+  Se recomienda utilizar comillas dobles para los valores de los atributos.
+    ~~~
+    <img src="image.jpg" alt="Image">
+    ~~~
+- **Omit Type Attributes for Style Sheets and Scripts**:<br>
+  No es necesario incluir el atributo `type` para las hojas de estilo y los scripts.
+    ~~~
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    ~~~
+#### CSS
+- **Use Lowercase and Hyphens for Property Names**:<br>
+  Los nombres de las propiedades CSS deben estar en minúsculas y separados por guiones.
+    ~~~
+    .example-class {
+        background-color: red;
+        font-size: 16px;
+    }
+    ~~~
+- **ID and Class Name Style**:<br>
+  Utilice nombres descriptivos y significativos para las clases y los IDs.
+    ~~~
+    #nav{}
+    .header{}
+    ~~~
+- **Use Shorthand Properties**:<br>
+  Se recomienda utilizar propiedades abreviadas para reducir la redundancia en el código.
+  Por ejemplo CSS nos ofrece la propiedad `font` que nos permite definir en una sola línea el tamaño de la fuente, el tipo de fuente y el color.
+    ~~~
+    border-top: 0;
+    font: 100%/1.6 palatino, georgia, serif;
+    padding: 0 1em 2em;
+    ~~~
 
-<br>*CSS*<br><br>
-- *ID and Class Naming*<br>
-  Usar nombres de clases y ID significativos que expresen el propósito del elemento:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-1.png" alt="class naming" /></p><br>
-- *Block Content Indentation*<br>
-  Sangrar todo el contenido del bloque, es decir, reglas dentro de reglas, así como declaraciones, para reflejar la jerarquía y Mejorar la comprensión<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-2.png" alt="content identation" /></p><br>
-- *Section Comments*<br>
-  Agrupe las secciones de la hoja de estilo mediante comentarios. Separar secciones con nuevas líneas.<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/css-3.png" alt="Comments" /></p>
-  <br>Para más información sobre las convenciones de CSS: https://google.github.io/styleguide/htmlcssguide.html
+#### JavaScript
 
-<br>*JavaScript*<br><br>
-- *Array initializers: can be "block-like"*<br>
-  Cualquier inicializador de matriz puede ser formateado opcionalmente como si fuera un "tipo bloque" construir". Por ejemplo, los siguientes son todos válidos (no es un análisis exhaustivo lista):<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-1.png" alt="block like" /></p><br>
-- *Type-use annotations*<br>
-  Las anotaciones de uso de tipo aparecen inmediatamente antes del tipo anotado. Una anotación es un uso de tipo anotación si está meta-anotado con . Ejemplo:@Target(ElementType.TYPE_USE)<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-2.png" alt="type-use annotations" /></p><br>
-- *Method and constructor annotations*<br>
-  Las reglas para las anotaciones en las declaraciones de método y constructor son las mismas que en la sección anterior. Ejemplo:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/java-3.png" alt="method" /></p>
-  <br>Para más información sobre las convenciones de JavaScript: https://google.github.io/styleguide/javaguide.html
-
-<br>*TypeScript*<br><br>
-- *Imports*<br>
-  Hay cuatro variantes de instrucciones de importación en ES6 y TypeScript:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-1.png" alt="imports" /></p><br>
-- *Class declarations*<br>
-  Las declaraciones de clase no deben terminar con punto y coma:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-2.png" alt="Class declarations" /></p><br>
-
-- *Constructors*<br>
-  Las llamadas al constructor deben usar paréntesis, incluso cuando no se pasa ningún argumento:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/type-3.png" alt="constructor" /></p>
-  <br>Para más información sobre las convenciones de TypeScript: https://google.github.io/styleguide/tsguide.html
-
-<br>*Gherkin*<br><br>
-- *Discernible Given-When-Then Blocks*<br>
-  En teoría, sus escenarios pueden ser tan simples como un solo paso Given, When Then, cada uno. Sin embargo, en la vida real, tienden a crecer y tienen múltiples pasos para cada una de estas palabras clave. Para detectar rápidamente dónde termina un bloque y comienza otro, puede sangrar los pasos que comienzan con "Y". Entonces, el escenario sería algo así:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-1.png" alt="Discernible" /></p><br>
-  Una alternativa es hacer que cada paso comience con la misma sangría y agregar una nueva línea adicional antes del siguiente bloque de palabras clave.<br><br>
-- *Steps with Tables*<br>
-  A menudo usamos tablas en nuestros pasos. Para que sea inmediatamente reconocible que un paso necesita más información de una tabla, usamos dos puntos al final del paso. Esto ayuda cuando se usa IntelliSense, que no incluye vistas previas de tablas, pero mostrará los dos puntos:<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-2.png" alt="tables" /></p><br>
-- *Reducing Noise*<br>
-  Para reducir el ruido, se recomienda utilizar valores predeterminados para los campos que el sistema requiere, pero que no son relevantes para su escenario.<br>
-  <br><p align="center"><img src="assets/source-code-style-guide-conventions/gerkin-3.png" alt="noise" /></p><br>
-  Para más información sobre las convenciones de Gherkin: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
-
+- **Use Semicolons**:  
+  Es recomendable utilizar punto y coma al final de cada instrucción en JavaScript.
+  ~~~
+  var x = 5;
+  ~~~
+- **Use `const` and `let`**:
+  Se recomienda utilizar `const` para variables que no cambiarán su valor y `let` para variables que sí lo harán.
+    ~~~
+    const PI = 3.14159;
+    let count = 0;
+    ~~~
+- **Declaring Variables**:  
+  Es recomendable declarar todas las variables al principio de la función o bloque de código.
+  ~~~
+    const myName = 'Chris';
+    console.log(myName);
+    let myAge = '40';
+    myAge++;
+    console.log('Happy birthday!');
+  ~~~
+#### C#
+- **Use PascalCase for Class Names**:  
+  Los nombres de las clases deben seguir la convención PascalCase.
+  ~~~
+  public class MyClass
+  {
+      // Class members
+  }
+  ~~~
+- **Use CamelCase for Method Names**:  
+  Los nombres de los métodos deben seguir la convención camelCase.
+  ~~~
+  public void myMethod()
+  {
+      // Method body
+  }
+  ~~~
+- **Use Explicit Access Modifiers**:
+  Es recomendable utilizar modificadores de acceso explícitos en lugar de depender de los valores predeterminados.
+    ~~~
+    public class MyClass
+    {
+        private int myField;
+        public void MyMethod()
+        {
+            // Method body
+        }
+    }
+    ~~~
+- **Comments and Documentation**:
+  Es recomendable incluir comentarios descriptivos en el código para explicar su funcionamiento y propósito.
+    ~~~
+    // This method calculates the sum of two numbers
+    public int CalculateSum(int a, int b)
+    {
+        return a + b;
+    }
+      ~~~
 #### 5.1.4. Software Deployment Configuration
 **Pasos realizados para desplegar la Landing Page:**
 1) Crear un nuevo repositorio en la organización para la landing page
@@ -1168,6 +1211,8 @@ Como convención general, todo el código realizado por los miembros del equipo 
 8) Configurar el dominio (automovilunite.com)
 
 #### 5.2.1. Sprint 1
+
+##### 5.2.1.1. Sprint Planning 1
 | Sprint #                               | Sprint 1                                       |
 |----------------------------------------|------------------------------------------------|
 | **Date**                               | 2025-04-22                                     |
@@ -1239,8 +1284,9 @@ Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, e
 reuniones por discord y asignacion de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
 
 ## Anexos
--Link de la organizacion de GitHub: https://github.com/Grupo-3-Apps-Web
--Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
--Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
--Link de la landing page desplegada: https://automovilunite.netlify.app/
+- Link de la organizacion de GitHub: https://github.com/Grupo-3-Apps-Web
+- Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
+- Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
+- Link del repositorio del frontend: https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend
+- Link de la landing page desplegada: https://automovilunite.netlify.app/
 
