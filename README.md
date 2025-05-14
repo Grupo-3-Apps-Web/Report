@@ -755,34 +755,34 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ### 3.4. Product Backlog
 
-| **Orden** | **User Story Id** | **Título**                            | **Descripción**                                                                                                    | **Story Points** |
-|-----------|-------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------|
-| 1         | TS-25             | Traducción de la Landing Page         | Como visitante, quiero cambiar el idioma de inglés a español en la Landing Page.                                 | 1                |
-| 2         | TS-26             | Call To Action                        | Como visitante, quiero recibir información a mi correo electrónico llenando un formulario.                       | 1                |
-| 3         | US-01             | Registro de Usuario                  | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler. | 2                |
-| 4         | US-02             | Log In                                | Como usuario, quiero loguearme con mis credenciales y publicar o reservar vehículos.                               | 2                |
-| 5         | US-03             | Recuperación de Contraseña            | Como usuario, quiero solicitar una nueva contraseña en caso de perder acceso a mi cuenta.                          | 3                |
-| 6         | US-04             | Dashboard del usuario                 | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                     | 3                |
-| 7         | US-05             | Sección Destacados del Dashboard      | Como usuario, quiero contar con una sección Destacados en el Dashboard donde consultar vehículos publicados.       | 3                |
-| 8         | US-06             | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.    | 3                |
-| 9         | US-07             | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                         | 3                |
-| 10        | US-08             | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados. | 3                |
-| 11        | US-09             | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                  | 5                |
-| 12        | US-10             | Visualizar una publicación            | Como usuario, quiero ver el estado e información de una publicación ya creada.                                    | 5                |
-| 13        | US-11             | Eliminar una publicación              | Como usuario, quiero eliminar una publicación ya creada.                                                         | 5                |
-| 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                      | 5                |
-| 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                | 5                |
-| 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                             | 5                |
-| 17        | US-15             | Reseñar publicaciones de alquiler     | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                       | 5                |
-| 18        | US-16             | Reserva de vehículo                   | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                      | 5                |
-| 19        | US-17             | Pestaña de Perfil                     | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos de garantía.        | 5                |
-| 20        | US-18             | Crear Perfil                          | Como usuario, quiero crear un perfil donde ingresar mi información personal.                                     | 5                |
-| 21        | US-19             | Modificar Perfil                      | Como usuario, quiero modificar la información ingresada en mi perfil.                                           | 5                |
-| 22        | US-20             | Cargar documentos de garantía         | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.  | 5                |
-| 23        | US-21             | Acceso a la Landing Page              | Como visitante, quiero acceder a la landing page del producto para recibir información.                          | 5                |
-| 24        | US-22             | Ver Información del Producto          | Como visitante, quiero ver de manera clara y precisa de qué trata el producto.                                   | 5                |
-| 25        | US-23             | Consultar los modelos disponibles     | Como visitante, quiero revisar parte del catálogo de opciones para alquilar.                                    | 8                |
-| 26        | US-24             | Leer Testimonios de Clientes y Dueños | Como visitante, quiero consultar testimonios y reseñas de clientes y dueños.                                      | 8                |
+| **Orden** | **User Story Id** | **Título**                            | **Descripción**                                                                                                    | **Story Points**  |
+|-----------|-------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------|
+| 1         | TS-25             | Traducción de la Landing Page         | Como visitante, quiero cambiar el idioma de inglés a español en la Landing Page.                                 | 1                 |
+| 2         | TS-26             | Call To Action                        | Como visitante, quiero recibir información a mi correo electrónico llenando un formulario.                       | 1                 |
+| 3         | US-01             | Registro de Usuario                  | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler. | 2                 |
+| 4         | US-02             | Log In                                | Como usuario, quiero loguearme con mis credenciales y publicar o reservar vehículos.                               | 2                 |
+| 5         | US-03             | Recuperación de Contraseña            | Como usuario, quiero solicitar una nueva contraseña en caso de perder acceso a mi cuenta.                          | 3                 |
+| 6         | US-04             | Dashboard del usuario                 | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                     | 3                 |
+| 7         | US-05             | Sección Destacados del Dashboard      | Como usuario, quiero contar con una sección Destacados en el Dashboard donde consultar vehículos publicados.       | 3                 |
+| 8         | US-06             | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.    | 3                 |
+| 9         | US-07             | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                         | 3                 |
+| 10        | US-08             | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados. | 3                 |
+| 11        | US-09             | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                  | 5                 |
+| 12        | US-10             | Visualizar una publicación            | Como usuario, quiero ver el estado e información de una publicación ya creada.                                    | 5                 |
+| 13        | US-11             | Eliminar una publicación              | Como usuario, quiero eliminar una publicación ya creada.                                                         | 5                 |
+| 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                      | 5                 |
+| 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                | 5                 |
+| 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                             | 5                 |
+| 17        | US-15             | Reseñar publicaciones de alquiler     | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                       | 5                 |
+| 18        | US-16             | Reserva de vehículo                   | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                      | 5                 |
+| 19        | US-17             | Pestaña de Perfil                     | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos de garantía.        | 5                 |
+| 20        | US-18             | Crear Perfil                          | Como usuario, quiero crear un perfil donde ingresar mi información personal.                                     | 5                 |
+| 21        | US-19             | Modificar Perfil                      | Como usuario, quiero modificar la información ingresada en mi perfil.                                           | 5                 |
+| 22        | US-20             | Cargar documentos de garantía         | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.  | 5                 |
+| 23        | US-21             | Acceso a la Landing Page              | Como visitante, quiero acceder a la landing page del producto para recibir información.                          | 5                 |
+| 24        | US-22             | Ver Información del Producto          | Como visitante, quiero ver de manera clara y precisa de qué trata el producto.                                   | 5                 |
+| 25        | US-23             | Consultar los modelos disponibles     | Como visitante, quiero revisar parte del catálogo de opciones para alquilar.                                    | 8                 |
+| 26        | US-24             | Leer Testimonios de Clientes y Dueños | Como visitante, quiero consultar testimonios y reseñas de clientes y dueños.                                      | 8                 |
 
 
 
