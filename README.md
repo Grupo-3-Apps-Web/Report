@@ -174,20 +174,26 @@ del ABET – EAC - Student Outcome 3.
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivo. 
-<br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso segun el segmento. <br>Flores Apaico, Josue Antonio<br>
+    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivos. 
+<br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento. <br>Flores Apaico, Josue Antonio<br>
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
 <br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.
+<br> TP1: Asignacion y explicacion de los bounded context a desarrollar, aplicacion de la retroalimentacion del entregable anterior
 <br> Alcantara Baldeon Poly gabriel <br>TB1: Participación en reuniones grupales. Explicación del diseño orientado a objetos. 
     </td>
-<td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br> Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
+<td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br>
+<br> Para este entregable colaboramos 3 de los 5 miembros originales, lo cual fue un reto; sin embargo, logramos cumplir con las metas asignadas a los aun presentes
+Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>De la Cruz Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica. <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
+<br>TP1: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
 <br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
-<td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. <br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos.<br>
+<td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. 
+<br> TP1: Concluyo con una entrega completa considerando los user stories que se propusieron trabajar, pues se completó la implementacion de todos
+<br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos.<br>
 Alcantara Baldeon Poly Gabriel<br>TB1:Documentar la Class Diagrams y realizar el diseño orientado a objetos me permitió desarrollar claridad técnica en la escritura, adecuada para audiencias académicas y técnicas.</td>
   </tr>
 </table>
@@ -755,34 +761,34 @@ Por su lado Paul se siente frustrado por la falta de opciones y la poca segurida
 
 ### 3.4. Product Backlog
 
-| **Orden** | **User Story Id** | **Título**                            | **Descripción**                                                                                                    | **Story Points**  |
-|-----------|-------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------|
-| 1         | TS-25             | Traducción de la Landing Page         | Como visitante, quiero cambiar el idioma de inglés a español en la Landing Page.                                 | 1                 |
-| 2         | TS-26             | Call To Action                        | Como visitante, quiero recibir información a mi correo electrónico llenando un formulario.                       | 1                 |
-| 3         | US-01             | Registro de Usuario                  | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler. | 2                 |
-| 4         | US-02             | Log In                                | Como usuario, quiero loguearme con mis credenciales y publicar o reservar vehículos.                               | 2                 |
-| 5         | US-03             | Recuperación de Contraseña            | Como usuario, quiero solicitar una nueva contraseña en caso de perder acceso a mi cuenta.                          | 3                 |
-| 6         | US-04             | Dashboard del usuario                 | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                     | 3                 |
-| 7         | US-05             | Sección Destacados del Dashboard      | Como usuario, quiero contar con una sección Destacados en el Dashboard donde consultar vehículos publicados.       | 3                 |
-| 8         | US-06             | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.    | 3                 |
-| 9         | US-07             | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                         | 3                 |
-| 10        | US-08             | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados. | 3                 |
-| 11        | US-09             | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                  | 5                 |
-| 12        | US-10             | Visualizar una publicación            | Como usuario, quiero ver el estado e información de una publicación ya creada.                                    | 5                 |
-| 13        | US-11             | Eliminar una publicación              | Como usuario, quiero eliminar una publicación ya creada.                                                         | 5                 |
-| 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                      | 5                 |
-| 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                | 5                 |
-| 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                             | 5                 |
-| 17        | US-15             | Reseñar publicaciones de alquiler     | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                       | 5                 |
-| 18        | US-16             | Reserva de vehículo                   | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                      | 5                 |
-| 19        | US-17             | Pestaña de Perfil                     | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos de garantía.        | 5                 |
-| 20        | US-18             | Crear Perfil                          | Como usuario, quiero crear un perfil donde ingresar mi información personal.                                     | 5                 |
-| 21        | US-19             | Modificar Perfil                      | Como usuario, quiero modificar la información ingresada en mi perfil.                                           | 5                 |
-| 22        | US-20             | Cargar documentos de garantía         | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.  | 5                 |
-| 23        | US-21             | Acceso a la Landing Page              | Como visitante, quiero acceder a la landing page del producto para recibir información.                          | 5                 |
-| 24        | US-22             | Ver Información del Producto          | Como visitante, quiero ver de manera clara y precisa de qué trata el producto.                                   | 5                 |
-| 25        | US-23             | Consultar los modelos disponibles     | Como visitante, quiero revisar parte del catálogo de opciones para alquilar.                                    | 8                 |
-| 26        | US-24             | Leer Testimonios de Clientes y Dueños | Como visitante, quiero consultar testimonios y reseñas de clientes y dueños.                                      | 8                 |
+| **Orden** | **User Story Id** | **Título**                            | **Descripción**                                                                                                         | **Story Points** |
+|-----------|-------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------|
+| 1         | TS-25             | Traducción de la Landing Page         | Como visitante, quiero cambiar el idioma de inglés a español en la Landing Page.                                        | 1                |
+| 2         | TS-26             | Call To Action                        | Como visitante, quiero recibir información a mi correo electrónico llenando un formulario.                              | 1                |
+| 3         | US-01             | Registro de Usuario                   | Como visitante, quiero registrarme en la aplicación para poder publicar mis vehículos o consultar opciones de alquiler. | 2                |
+| 4         | US-02             | Log In                                | Como usuario, quiero loguearme con mis credenciales y publicar o reservar vehículos.                                    | 2                |
+| 5         | US-03             | Recuperación de Contraseña            | Como usuario, quiero solicitar una nueva contraseña en caso de perder acceso a mi cuenta.                               | 3                |
+| 6         | US-04             | Dashboard del usuario                 | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                         | 3                |
+| 7         | US-05             | Sección Destacados del Dashboard      | Como usuario, quiero contar con una sección Destacados en el Dashboard donde consultar vehículos publicados.            | 3                |
+| 8         | US-06             | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.        | 3                |
+| 9         | US-07             | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                              | 3                |
+| 10        | US-08             | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados.  | 3                |
+| 11        | US-09             | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                        | 5                |
+| 12        | US-10             | Visualizar una publicación            | Como usuario, quiero ver el estado e información de una publicación ya creada.                                          | 5                |
+| 13        | US-11             | Eliminar una publicación              | Como usuario, quiero eliminar una publicación ya creada.                                                                | 5                |
+| 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                            | 5                |
+| 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                      | 5                |
+| 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                   | 5                |
+| 17        | US-15             | Reseñar publicaciones de alquiler     | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                             | 5                |
+| 18        | US-16             | Reserva de vehículo                   | Como usuario, quiero tener la opción de reservar un vehículo para alquilar.                                             | 5                |
+| 19        | US-17             | Pestaña de Perfil                     | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos de garantía.               | 5                |
+| 20        | US-18             | Crear Perfil                          | Como usuario, quiero crear un perfil donde ingresar mi información personal.                                            | 5                |
+| 21        | US-19             | Modificar Perfil                      | Como usuario, quiero modificar la información ingresada en mi perfil.                                                   | 5                |
+| 22        | US-20             | Cargar documentos de garantía         | Como usuario, quiero poder cargar mis documentos personales en mi perfil para poder optar a alquilar o publicar.        | 5                |
+| 23        | US-21             | Acceso a la Landing Page              | Como visitante, quiero acceder a la landing page del producto para recibir información.                                 | 5                |
+| 24        | US-22             | Ver Información del Producto          | Como visitante, quiero ver de manera clara y precisa de qué trata el producto.                                          | 5                |
+| 25        | US-23             | Consultar los modelos disponibles     | Como visitante, quiero revisar parte del catálogo de opciones para alquilar.                                            | 8                |
+| 26        | US-24             | Leer Testimonios de Clientes y Dueños | Como visitante, quiero consultar testimonios y reseñas de clientes y dueños.                                            | 8                |
 
 
 
@@ -1098,6 +1104,19 @@ Trabajamos con Netlify para el despliegue de la landing page
 | Report       | https://github.com/Grupo-3-Apps-Web/Report            |
 | Frontend     | https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend |
 
+Para el desarrollo de todos los productos de NovaCode hemos empleado GitFlow con las siguientes restricciones:
+- **Main**: Rama principal del proyecto. Contiene la versión estable y lista para producción.
+- **Develop**: Rama de desarrollo. Aquí se integran las nuevas características y correcciones antes de ser fusionadas a la rama principal.
+- **Feature**: Rama para el desarrollo de nuevas características. Se crea a partir de la rama de desarrollo y se fusiona nuevamente en ella una vez se complete el mismo
+- **Fix**: Rama para correcciones de errores. Se crea a partir de la rama de desarrollo y se fusiona nuevamente en ella una vez completada la corrección.
+
+Además, para el registro de progreso y colaboración se emplearán los conventional commits con su respectivo formato:
+- feat: Nueva funcionalidad
+- fix: Corrección de errores
+- docs: Cambios en la documentación
+- style: Cambios de formato o estilo
+- refactor: Cambios en el código que no afectan la funcionalidad
+
 #### 5.1.3. Source Code Style Guide & Conventions.
 
 #### HTML
@@ -1267,8 +1286,7 @@ Se utilizó Netlify para el despliegue de la landing page, para ello se enlazó 
 <img src="assets/sprint1/netlifyEvidence.png" width=600 >
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Todos las pestañas de navegacion estan operativas:
-
+Todos las pestañas de navegación están operativas:
 <img src="assets/sprint1/howItWorks.png" width=600 >
 
 <img src="assets/sprint1/whyUs.png" width=600 >
@@ -1287,9 +1305,9 @@ Reunion por discord:
 
 <img src="assets/sprint1/reu.png" width=600 >
 
-#### 5.3.1. Sprint 2
+#### 5.2.2. Sprint 2
 
-##### 5.3.1.1. Sprint Planning 2
+##### 5.2.2.1. Sprint Planning 2
 
 | Sprint #                               | Sprint 2                                                                                                                         |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -1301,30 +1319,108 @@ Reunion por discord:
 | **Sprint n - 2 Review Summary**        | El equipo se organizó para garantizar la mejora continua y los productos faltantes en la etapa de desarrollo.                    |
 | **Sprint n - 2 Retrospective Summary** | Se vio que hay que mejorar en los tiempos de entrega de las  actividades o tareas que se le asigna a cada integrante del equipo. |
 | **Sprint 2 Goal**                      | Completar el reporte y desplegar el front end.                                                                                   |
-| **Sprint 2 Velocity**                  | 19 story points                                                                                                                  |
-| **Sum of Story Points**                | 19 story points                                                                                                                   |
+| **Sprint 2 Velocity**                  | 25 story points                                                                                                                  |
+| **Sum of Story Points**                | 25 story points                                                                                                                  |
 
-=======
-##### 5.3.1.2. Sprint Backlog 2
 
-| # Orden | User Story Id | Título                                   | Descripción                                                                                                             | Story Points (1 / 2 / 3 / 5 / 8) |
-|---------|---------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 8         | US-06             | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.        | 2                |
-| 9         | US-07             | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                              | 2                |
-| 10        | US-08             | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados.  | 3                |
-| 11        | US-09             | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                        | 3                |
-| 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                            | 3                |
-| 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                      | 3                |
-| 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                   | 3                |
+##### 5.2.2.2. Sprint Backlog 2
+
+| # Orden | User Story Id | Título                              | Descripción                                                                                                            | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 8       | US-06         | Sección Publicados del Dashboard    | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.       | 2                                |
+| 9       | US-07         | Cancelar reserva de vehículo        | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                             | 2                                |
+| 10      | US-08         | Pestaña de Publicación              | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados. | 3                                |
+| 11      | US-09         | Creación de publicaciones           | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                       | 3                                |
+| 12      | US-10         | Visualizar una publicación          | Como usuario, quiero ver el estado e información de una publicación ya creada                                          | 3                                |
+| 13      | US-11         | Eliminar una publicación            | Como usuario, quiero eliminar una publicación ya creada.                                                               | 3                                |
+| 14      | US-12         | Pestaña de Navegación               | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                           | 3                                |
+| 15      | US-13         | Ordenar el precio de los alquileres | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                     | 3                                |
+| 16      | US-14         | Filtrado de marcas                  | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                  | 3                                |
+
+#### 5.2.2.3 Development Evidence for Sprint Review
+
+Commits realizados en el repositorio del reporte:
+
+<img src="assets/sprint2/commitsReport1.png" width=600 >
+
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/sprint2/frontCommits.png" width=600 >
+
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+A continuación se listan los user stories junto con sus criterios de aceptación que se pusieron a prueba para el sprint 2
+
+| User Story Id | Título                              | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                       |
+|---------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US-06         | Sección Publicados del Dashboard    | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña Dashboard, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación.                                             |
+| US-07         | Cancelar reserva de vehículo        | Escenario 1:**Given** el usuario se encuentra en su Dashboard , **when**  selecciona en una reserva, **then** podrá elegir la opción "eliminar". Escenario 2:**Given** el usuario está en su dashboard, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias reservas al mismo tiempo.                                                                                           |
+| US-08         | Pestaña de Publicación              | Escenario 1:**Given** el usuario desea crear una publicación o revisar las existentes, **when** accede a la pestaña "Publicación", **then** tendrá la opción "Nueva Publicación" y debajo la sección "Mis Publicaciones". Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Publicaciones", **then** se le redirigirá a la pestaña de Publicaciones. |
+| US-09         | Creación de publicaciones           | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona la opción de crear una nueva publicación, **then** deberá ingresar la información de la nueva publicación. Escenario 2:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación ya creada, **then** podrá modificar la información de dicha publicación.                           |
+| US-10         | Visualizar una publicación          | Escenario 1:**Given** el usuario está en la sección de publicaciones, **when** selecciona una publicación, **then** podrá eliminar la publicación haciendo click en "Eliminar" . Escenario 2: **Given** el usuario está en la sección de publicaciones, **when** hace click en "Eliminar varios", **then** podrá seleccionar multiples publicaciones para eliminar.                                               | 
+| US-11         | Eliminar una publicación            | Escenario 1:**Given** el usuario desea navegar en las publicaciones ya creadas, **when** accede a la pestaña "Navegación", **then** se le mostrarán todos los alquileres ya publicados. Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Navegación", **then** se le redirigirá a la pestaña de Navegación.                                         |
+| US-12         | Pestaña de Navegación               | Escenario 1:**Given** el usuario desea navegar en las publicaciones ya creadas, **when** accede a la pestaña "Navegación", **then** se le mostrarán todos los alquileres ya publicados. Escenario 2:**Given** el usuario se encuentra en otra pestaña, **when** selecciona desde el toolbar el Button "Navegación", **then** se le redirigirá a la pestaña de Navegación.                                         |
+| US-13         | Ordenar el precio de los alquileres | Escenario 1:**Given** el usuario está en la sección de navegación, **when** hace click en el icono de flecha, **then** los precios se ordenaran de menor a mayor.  Escenario 1:**Given** el usuario ya ordeno los precios de menor a mayor, **when** hace click en el icono de flecha nuevamente, **then** los precios se ordenaran de mayor a menor.                                                             |
+| US-14         | Filtrado de marcas                  | Escenario 1:**Given** el usuario está en la sección de navegación, **when** ingresa su marca de preferencia en el campo respectivo, **then** solo se mostraran publicaciones de la marca ingresada.  Escenario 2:**Given** el usuario desea restablecer el filtrado, **when** hace click en el botón "Borrar Filtros", **then** se mostraran nuevamente todas las publicaciones.                                  | 
+
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+Se adjuntan evidencias del despliegue de la primera version del frontend, cubriendo las user stories previamente mencionadas
+
+<img src="assets/sprint2/navigation.png" width=600 >
+
+<img src="assets/sprint2/publication.png" width=600 >
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Nuestro frontend consumen diversos endpoints localizados en la carpeta server en la raíz de nuestro proyecto:
+
+<img src="assets/sprint2/dbjson.png" width=600 >
+
+Arrancamos dicho server de manera local con el siguiente comando:
+```bash
+npx json-server --watch server/db.json --port 3000
+```
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+El frontend fue desplegado en Netlify, el cual se enlaza con el repositorio de github del frontend. El proceso de despliegue es similar al de la landing page, pero en este caso se utilizó el branch main.
+
+<img src="assets/sprint2/netlify.png" width=600 >
+
+Como se puede apreciar en la dirección URL se encuentra netlify.app como parte de la misma
+
+<img src="assets/sprint2/publication.png" width=600 >
+
+**Link del front desplegado** https://novacode-frontend.netlify.app
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+Insights del repositorio del reporte de github:
+
+<img src="assets/sprint2/sprint2Report.png" width=600 >
+
+Insights del repositorio del frontend de github:
+
+<img src="assets/sprint2/sprint2Front.png" width=600 >
+
 
 ## Conclusiones:
-Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizo mediante
-reuniones por discord y asignacion de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
+
+**TB1**
+Este primer entregable nos permitió moldear la idea detrás de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizó mediante
+reuniones por discord y asignación de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
+
+**TP:**
+Finalizar este entregable nos permitió avanzar de manera concreta en las user stories definidas, destacando la relevancia de la planificación y organización en el desarrollo de software. 
+La construcción de los bounded contexts planteados en la documentación inicial refleja el progreso alcanzado en la aplicación. Logramos cumplir satisfactoriamente con todas las user stories previstas para esta etapa, por lo que consideramos que esta entrega fue exitosa.
+
 
 ## Anexos
-- Link de la organizacion de GitHub: https://github.com/Grupo-3-Apps-Web
+- Link de la organización de GitHub: https://github.com/Grupo-3-Apps-Web
 - Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
 - Link del repositorio de landing page: https://github.com/Grupo-3-Apps-Web/Landing-Page
 - Link del repositorio del frontend: https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend
 - Link de la landing page desplegada: https://automovilunite.netlify.app/
-
+- Link del frontend desplegado: https://novacode-frontend.netlify.app
