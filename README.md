@@ -1287,6 +1287,17 @@ Reunion por discord:
 
 <img src="assets/sprint1/reu.png" width=600 >
 
+##### 5.3.1.2. Sprint Backlog 2
+
+| # Orden | User Story Id | Título                                   | Descripción                                                                                                             | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 8         | US-06             | Sección Publicados del Dashboard      | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.        | 2                |
+| 9         | US-07             | Cancelar reserva de vehículo          | Como usuario, quiero tener la opción de cancelar una reserva de un vehículo para alquilar.                              | 2                |
+| 10        | US-08             | Pestaña de Publicación                | Como usuario, quiero contar con una pestaña que me permita publicar vehículos y consultar los que ya están publicados.  | 3                |
+| 11        | US-09             | Creación de publicaciones             | Como usuario, quiero crear publicaciones para ofrecer mis vehículos en alquiler.                                        | 3                |
+| 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                            | 3                |
+| 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                      | 3                |
+| 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                   | 3                |
 ## Conclusiones:
 Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizo mediante
 reuniones por discord y asignacion de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
