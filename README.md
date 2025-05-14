@@ -1287,6 +1287,24 @@ Reunion por discord:
 
 <img src="assets/sprint1/reu.png" width=600 >
 
+#### 5.3.1. Sprint 2
+
+##### 5.3.1.1. Sprint Planning 2
+
+| Sprint #                               | Sprint 2                                                                                                                         |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                               | 2025-05-8                                                                                                                        |
+| **Time**                               | 05:00 PM                                                                                                                         |
+| **Location**                           | Discord                                                                                                                          |
+| **Prepared By**                        | Josue Paiva                                                                                                                      |
+| **Attendees (to planning meeting)**    | Carlos De La Cruz, Christian Huanca, Josue Paiva.                                                                                |
+| **Sprint n - 2 Review Summary**        | El equipo se organizó para garantizar la mejora continua y los productos faltantes en la etapa de desarrollo.                    |
+| **Sprint n - 2 Retrospective Summary** | Se vio que hay que mejorar en los tiempos de entrega de las  actividades o tareas que se le asigna a cada integrante del equipo. |
+| **Sprint 2 Goal**                      | Completar el reporte y desplegar el front end.                                                                                   |
+| **Sprint 2 Velocity**                  | 19 story points                                                                                                                  |
+| **Sum of Story Points**                | 19 story points                                                                                                                   |
+
+=======
 ##### 5.3.1.2. Sprint Backlog 2
 
 | # Orden | User Story Id | Título                                   | Descripción                                                                                                             | Story Points (1 / 2 / 3 / 5 / 8) |
@@ -1298,6 +1316,7 @@ Reunion por discord:
 | 14        | US-12             | Pestaña de Navegación                 | Como usuario, quiero navegar en las publicaciones ya existentes de alquiler.                                            | 3                |
 | 15        | US-13             | Ordenar el precio de los alquileres   | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                      | 3                |
 | 16        | US-14             | Filtrado de marcas                    | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                   | 3                |
+
 ## Conclusiones:
 Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizo mediante
 reuniones por discord y asignacion de tareas, finalmente el despliegue de la landing page fue exitoso y se logró cumplir con los objetivos planteados al inicio del sprint.
