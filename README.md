@@ -1293,8 +1293,8 @@ Reunion por discord:
 | **Sprint n - 2 Review Summary**        | El equipo se organizó para garantizar la mejora continua y los productos faltantes en la etapa de desarrollo.                    |
 | **Sprint n - 2 Retrospective Summary** | Se vio que hay que mejorar en los tiempos de entrega de las  actividades o tareas que se le asigna a cada integrante del equipo. |
 | **Sprint 2 Goal**                      | Completar el reporte y desplegar el front end.                                                                                   |
-| **Sprint 2 Velocity**                  | 22 story points                                                                                                                  |
-| **Sum of Story Points**                | 22 story points                                                                                                                  |
+| **Sprint 2 Velocity**                  | 19 story points                                                                                                                  |
+| **Sum of Story Points**                | 19 story points                                                                                                                   |
 
 ## Conclusiones:
 Este primer entregable nos permitio moldear la idea detras de Automovil-Unite, estudiar nuestro mercado objetivo asi como entender sus necesidades para poder ofrecerles una experiencia con base en las mismas. El flujo de trabajo se realizo mediante
