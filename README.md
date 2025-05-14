@@ -1337,6 +1337,13 @@ Reunion por discord:
 | 15      | US-13         | Ordenar el precio de los alquileres | Como usuario, quiero poder ordenar los alquileres disponibles en base a su precio.                                     | 3                                |
 | 16      | US-14         | Filtrado de marcas                  | Como usuario, quiero poder filtrar los alquileres en base a su marca.                                                  | 3                                |
 
+
+Además, creamos un board de trello con el registro de los sprints
+
+<img src="assets/sprint2/trello.png" width=600 >
+
+Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+
 #### 5.2.2.3 Development Evidence for Sprint Review
 
 Commits realizados en el repositorio del reporte:
@@ -1424,3 +1431,4 @@ La construcción de los bounded contexts planteados en la documentación inicial
 - Link del repositorio del frontend: https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend
 - Link de la landing page desplegada: https://automovilunite.netlify.app/
 - Link del frontend desplegado: https://novacode-frontend.netlify.app
+- Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
