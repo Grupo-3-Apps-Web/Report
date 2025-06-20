@@ -25,14 +25,21 @@
 
 ## Registro de Versiones del Informe
 
-| Versión  | Fecha      | Autor                                            | Descripción de modificación   |
-|----------|------------|--------------------------------------------------|-------------------------------|
-| 0.1      | 24/04/2025 | Todos los integrantes                            | Primer sprint TB1             |
-| 0.2      | 10/05/20205| Christian Huanca, Carlos De La Cruz, Josue Paiva | Segundo sprint TP1            |
+| Versión | Fecha       | Autor                                            | Descripción de modificación |
+|---------|-------------|--------------------------------------------------|-----------------------------|
+| 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
+| 0.2     | 10/05/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Segundo sprint TP1          |
+| 0.3     | 18/06/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Tercer sprint TB2           |
 
 | URL de la organización del proyecto |      URL del repositorio del reporte       |
 |:-----------------------------------:|:------------------------------------------:|
 | https://github.com/Grupo-3-Apps-Web | https://github.com/Grupo-3-Apps-Web/Report |
+
+
+|           URL del repositorio del frontend            |             URL del repositorio del backend              |
+|:-----------------------------------------------------:|:--------------------------------------------------------:|
+| https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend | https://github.com/Grupo-3-Apps-Web/NovaCode-WebServices |
+
 
 - [Student Outcome](#student-outcome)
 
@@ -176,26 +183,29 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivos. <br> TP1: Asignación del bounded contextcorrespondiente y mejora con respecto al feedback de la entrega anterior. 
-<br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento.<br> TP1: Desarrollo del bounded context asignado, así como también corregí las revisiones de la anterior entrega <br>Flores Apaico, Josue Antonio<br>
+<br> TB2: Participación en reuniones grupales. Realización de entrevistas para los 2 segmentos objetivos, about the team,product y realización parcial de US <br>Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento.<br> TP1: Desarrollo del bounded context asignado, así como también corregí las revisiones de la anterior entrega <br> TB2: :Participación en las reuniones grupales.
+Realización de entrevistas para ambos segmentos objetivos, realización completa de US asignadas.<br>Flores Apaico, Josue Antonio<br>
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
 <br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.
 <br> TP1: Asignacion y explicacion de los bounded context a desarrollar, aplicacion de la retroalimentacion del entregable anterior
+<br> TB2: Organizacion con el fin de completar el desarrollo del frontend y al mismo tiempo empezar el desarrollo del backend, asignacion de tareas y verificacion del progreso del equipo.
 <br> Alcantara Baldeon Poly gabriel <br>TB1: Participación en reuniones grupales. Explicación del diseño orientado a objetos. 
     </td>
 <td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br>
 <br> Para este entregable colaboramos 3 de los 5 miembros originales, lo cual fue un reto; sin embargo, logramos cumplir con las metas asignadas a los aun presentes<br> De La Cruz Villarreal Carlos Alejandro <br> TB1: Hacer el trabajo en equipo fue un reto pues todos teníamos diferentes opiniones;sin embargo, con una buena comunicación asertiva logramos finalizar bien la entrega del proyecto<br>
-TP1: Lograr realizar el proyecto de 3 integrantes fue muy difícil pero a la vez fue más organizado todo<br>
-Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br> TP1: Fue un reto lograr hacer el proyecto de 3 personas pero a pesar de todo logramos cumplir con los bounded context asignados.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
+TP1: Lograr realizar el proyecto de 3 integrantes fue muy difícil pero a la vez fue más organizado todo<br> TB2: Lograr cumplir con los pendientes para el TB2 fue un reto amplio pero que sin embargo creo pudimos cumplir los objetivos del Sprint 3<br>
+Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br> TP1: Fue un reto lograr hacer el proyecto de 3 personas pero a pesar de todo logramos cumplir con los bounded context asignados.<br> TB2: Fue un gran desafío afrontar el trabajo con solo 3 integrantes pero se realizó con éxito los deberes del entregable.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>De la Cruz Villarreal Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica.<br> TP1: Elaboración del bounded context Navigation y traducción del idioma  <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.<br> TP1: Elaboración del bounded context de Navigation y footer <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
+    <td>De la Cruz Villarreal Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica.<br> TP1: Elaboración del bounded context Navigation y traducción del idioma <br> TB2:Creación de ideas, elaboración de documentación técnica y ayuda en el landing page y front-end  <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.<br> TP1: Elaboración del bounded context de Navigation y footer<br> TB2: Elaboración del bounded context de Dashboard y documentación. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
 <br>TP1: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
+<br>TP1: Implementacion del web service de publicacion y sus 4 operaciones CRUD, implementacion de la conexion landing-frontend, documentacion del entregable
 <br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
 <td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. 
-<br> TP1: Concluyo con una entrega completa considerando los user stories que se propusieron trabajar, pues se completó la implementacion de todos<br>De la Cruz Villarreal Carlos Alejandro<br> TB1: Esta primera entrega me permitió plasmar mis conocimientos de cursos de ciclos anteriores <br> TP1: La parte del bounded context asignada no logré terminarla al 100% pero pude apoyar haciendo el header y traducción
-<br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos.<br>TP1: Logré terminar la parte del bounded context que se me asignó satisfactoriamente.<br>
+<br> TP1: Concluyo con una entrega completa considerando los user stories que se propusieron trabajar, pues se completó la implementacion de todos<br>De la Cruz Villarreal Carlos Alejandro<br> TB1: Esta primera entrega me permitió plasmar mis conocimientos de cursos de ciclos anteriores <br> TP1: La parte del bounded context asignada no logré terminarla al 100% pero pude apoyar haciendo el header y traducción.<br> TB2:Logré imponerme ante casi el 100% de las dificultades que se me plantearon.
+<br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos.<br>TP1: Logré terminar la parte del bounded context que se me asignó satisfactoriamente.<br> TB2:Logré completar el bounded context de Dashboard en la aplicación a pesar de las adversidades presentadas.<br>
 Alcantara Baldeon Poly Gabriel<br>TB1:Documentar la Class Diagrams y realizar el diseño orientado a objetos me permitió desarrollar claridad técnica en la escritura, adecuada para audiencias académicas y técnicas.</td>
   </tr>
 </table>
@@ -1414,6 +1424,424 @@ Insights del repositorio del frontend de github:
 
 <img src="assets/sprint2/sprint2Front.png" width=600 >
 
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+
+| Sprint #                               | Sprint 3                                                                             |
+|----------------------------------------|--------------------------------------------------------------------------------------|
+| **Date**                               | 19/06/2025                                                                           |
+| **Time**                               | 10:00 PM                                                                             |
+| **Location**                           | Discord                                                                              |
+| **Prepared By**                        | Josue Paiva                                                                          |
+| **Attendees (to planning meeting)**    | Josue Paiva, Carlos de la Cruz, Christian Huanca                                     |
+| **No Participo**                       | Gabriel Alcántara, Josue Flores                                                      |
+| **Sprint n - 2 Review Summary**        | Implementación de las user stories pendientes del sprint 2                           |
+| **Sprint n - 2 Retrospective Summary** | Se logro culminar en su totalidad todo el frontend de la aplicación                  |
+| **Sprint 3 Goal**                      | Finalización de la documentación del entregable y producción del video de exposición |
+| **Sprint 3 Velocity**                  | 45 points                                                                            |
+| **Sum of Story Points**                | 45 points                                                                            |
+
+##### 5.2.3.2. Sprint Backlog 3
+A continuación se presenta el trello actualizado considerando los bounded context de Dashboard, Publicaciones y Navegación, con sus respectivas technical stories y user stories tanto de backend como de frontend.
+
+Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+
+Y el nuevo repositorio de web services: https://github.com/Grupo-3-Apps-Web/NovaCode-WebServices
+
+Web Services Technical Stories:
+
+| # Orden | User Story Id | Título                                                                                  | Descripción                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-01         | Implementación del servicio GET de vehículos publicados                                 | Operación de lectura de entradas registradas en el endpoint /myPublishedVehicles, tanto de todos los registros como de un ID especifico. | 5                                |
+| 2       | TS-02         | Implementación del servicio DELETE de vehículos publicados                              | Operación de eliminación de un registro existente del endpoint /myPublishedVehicles.                                                     | 5                                |
+| 3       | TS-03         | Implementación del servicio POST de vehículos publicados                                | Operación de creación de un nuevo registro del endpoint /myPublishedVehicles.                                                            | 5                                |
+| 4       | US-15         | Reseñar publicaciones de alquiler                                                       | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                                              | 5                                |
+| 5       | US-04         | Dashboard del usuario                                                                   | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                                          | 5                                |
+| 6       | US-06         | Seccion Publicados del Dashboard                                                        | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.                         | 5                                |
+| 7       | TS-04         | Implementación del servicio GET de datos del usuario y libro de vehículos               | Operacion de lectura de entradas registradas en los endpoint /userProfiles and /myBookVehicles.                                          | 5                                |
+| 8       | TS-05         | Implementación del servicio PUT para actualizar datos del usuario  y libro de vehículos | Operación de actualizar de un registro en los endpoint /userProfiles and /myBookVehicles.                                                | 5                                |
+| 9       | TS-06         | Implementación de servicio DELETE del libro de vehículos del usuario                    | Operación de eliminación de un registro existente del endpoint /myBookVehicles.                                                          | 5                                |
+
+#### 5.2.3.3. Development Evidence for Sprint Review 3
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/sprint3/front.png" width=600 >
+
+Commits realizados en el repositorio de web services:
+
+<img src="assets/sprint3/webServices.png" width=600 >
+
+Commits realizados en el repositorio de landing page:
+
+<img src="assets/sprint3/landingCommits.png" width=600 >
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review 3
+
+| User Story Id | Título                                                     | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                             |
+|---------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TS-01         | Implementación del servicio GET de vehículos publicados    | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña publicación, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación. |
+| TS-02         | Implementación del servicio DELETE de vehículos publicados | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona eliminar publicación, **then** podrá eliminar el registro del vehículo publicado. Escenario 2:**Given** el usuario está en la pestaña publicación, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias publicaciones al mismo tiempo.             |
+| TS-03         | Implementación del servicio POST de vehículos publicados   | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona crear nueva publicación, **then** debera rellenar los campos para realizar el registro.                                                                                                                                                                                             |
+| US-04         | Dashboard del usuario                                      | Escenario 1:Given el usuario ingresa sus credenciales, when selecciona "Log-In", then se le cargara la pestaña "Dashboard" por defecto. Escenario 2:Given el usuario se encuentra en otra pestaña, when selecciona desde el toolbar el Button "Dashboard", then se le redirigirá a la pestaña de Dashboard.                                                             |
+| US-06         | Seccion Publicados del Dashboard                           | Escenario 1:Given el usuario accede a la aplicación, when se sitúa en la pestaña Dashboard, then se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:Given el usuario está en la sección de "Mis Publicaciones", when selecciona la opción "Nueva Publicación", then se le redirigirá a la pestaña de publicación.                            |
+
+#### 5.2.3.5 Execution Evidence for Sprint Review 3
+Se adjuntan evidencias del despliegue de la segunda version del frontend, cubriendo las user stories previamente mencionadas:
+
+- Desarrollo del bounded context "Dashboard del usuario" el cual consume 2 endpoint /userProfiles para mostrar datos del usuario y /myBookVehicles la cual lista los vehiculos que estan en la libreria del usuario.
+<img src="assets/sprint3/frontBCDashboard.png" width=600 >
+
+A continuación se presenta la primera version de los webs services que cubre el bounded context de Publicaciones, con las siguientes funcionalidades:
+
+<img src="assets/sprint3/publicationsSwagger.png" width=600 >
+
+Nueva version desplegada de la landing page:
+
+<img src="assets/sprint3/landingNew.jpg" width=600 >
+
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review 3
+A continuación se presentan los endpoints implementados en el backend para el bounded context de Publicaciones, los cuales se encuentran documentados en Swagger:
+
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax**                                                                                        | **Parameters Specification**                                                                      | **Call Example**                                       | **Response Explanation**                                    |
+|-------------------|-------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|
+| Publications      | POST, GET, DELETE       | POST: `/api/v1/myPublishedVehicles`, GET/DELETE: `/api/v1/myPublishedVehicles/{myPublishedVehiclesId}` | POST: `id, Model, Brand, Year, Description, Image, Price, PublishedDate`, GET/DELETE: `vehicleId` | GET `http://localhost:3000/api/v1/myPublishedVehicles` | Devuelve un objeto con la orden correspondiente al ID.      |
+
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+Nueva version del frontend desplegada:
+
+<img src="assets/sprint3/frontnew.jpg" width=600 >
+
+Nueva version de la landing page desplegada:
+
+<img src="assets/sprint3/landingDeploy.png" width=600 >
+
+Backend desplegado en Swagger:
+
+<img src="assets/sprint3/publicationsSwagger.png" width=600 >
+
+
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint.
+
+Repo del frontend:
+
+<img src="assets/sprint3/frontInsights.png" width=600 >
+
+Repo de web services:
+
+<img src="assets/sprint3/web.png" width=600 >
+
+
+Repo de landing page:
+
+<img src="assets/sprint3/landingInsights.png" width=600 >
+
+
+### 5.3 Validation Interviews
+#### 5.3.1 Diseño de entrevistas
+#### Objetivo de la Entrevista
+Buscamos validar la facilidad de uso y la eficiencia de la landing page y los procesos de Automovil-United, garantizando flujos de usuario claros, intuitivos y completamente funcionales.
+
+
+#### Elementos de Validación
+- **Landing Page**: Analizaremos cómo los usuarios perciben el diseño, los llamados a la acción (CTA) y la estructura general de la página. El objetivo es confirmar que estos elementos motivan eficazmente a los visitantes a registrarse y explorar más a fondo lo que Automovil-united ofrece.
+- **AplicaciónWeb**: Guiaremos a los usuarios a través de las funcionalidades principales de la aplicación. Esto incluye probar flujos esenciales como la de Publicaciones, Navegacion y Dashboard.
+
+
+
+#### User Flows a Validar
+
+1. **Landing Page**:
+    - Buscamos entender cómo la interfaz de la página de inicio impacta a los usuarios y si es efectiva para engancharlos desde el primer momento.
+
+2. **Publicaciones**:
+    - Evaluación del flujo de vehiculos publicos.
+
+3. **Navegacion**:
+    - Evaluación del flujo de busqueda de vehiculos por modelo, precio y imput de marca.
+
+4. **Visualización del Dashboard**:
+    - Evaluación de la presentación de datos del usuario y su respectivo libro de vehiculos.
+
+#### Formato de Registro de la Entrevista
+**Datos del Entrevistado**:
+- Nombre y apellidos
+- Edad
+- Ciudad de residencia
+- Trabajo actualmente
+
+#### Preguntas para el Segmento Arrendador de vehículo
+
+#### Landing Page
+- ¿Cómo percibes el diseño y la estética general de nuestra página?
+- Después de ver la página de presentación, ¿qué entendiste sobre nuestro producto?
+- Para hacer la página de inicio más atractiva o informativa, ¿qué modificaciones o adiciones propondrías?
+
+#### Visualización de BC Publication
+- Al ver cómo se presentan tus vehículos, ¿la información es clara y te permite entender rápidamente su estado y disponibilidad?
+- ¿Qué tan fácil o difícil fue indicar cuándo un vehículo está disponible para alquiler o cuándo no lo está?
+- ¿Crees que esta sección te ayudaría a gestionar mejor la disponibilidad de tu flota y evitar reservas dobles o pérdidas de oportunidad?
+
+#### Visualización de BC Navigation
+- ¿La forma en que se muestran las reservas actuales y futuras es intuitiva? ¿Te permite ver rápidamente los detalles importantes?
+- ¿Consideras que la información de los clientes (nombre, contacto, historial) es fácil de acceder y entender en esta sección?
+- ¿Esta funcionalidad te sería útil para optimizar la comunicación y el seguimiento con tus clientes y sus reservas?
+
+#### Visualización de BC Dashboard
+- ¿El panel principal te proporciona una vista general útil y rápida del rendimiento de tu negocio de alquiler?
+- ¿Hubo algún momento en que la información te pareció confusa o te costó encontrar lo que buscabas en el dashboard?
+- ¿Consideras que los datos presentados aquí son relevantes y accionables para tomar decisiones sobre tu negocio?
+
+
+  #### Preguntas para el Segmento Arrendatario de vehículos
+
+#### Landing Page
+- ¿Cuál es tu primera impresión del diseño y la apariencia general de nuestra página web al visitarla?
+- Después de explorar la página de inicio, ¿qué entendiste claramente sobre cómo puedes alquilar un vehículo a través de nuestra plataforma?
+- Para hacer la página de inicio más útil o atractiva para ti, ¿qué sugerencias tienes para mejorar su presentación o contenido?
+
+#### Visualización de BC Publication
+- ¿Qué tan fácil o difícil te resultó encontrar el tipo de vehículo que estabas buscando en nuestra plataforma?
+- ¿La información y las fotos de los vehículos te parecieron suficientes y claras para tomar una decisión informada?
+- ¿Hay algo que te gustaría ver o saber adicionalmente al momento de buscar y seleccionar un vehículo?
+
+#### Visualización de BC Navigation
+- ¿Cómo describirías la facilidad o complejidad del proceso para reservar un vehículo una vez que lo seleccionaste?
+- ¿La información sobre precios, marca y modelo te resultó transparente y fácil de entender?
+- ¿Hubo algún paso en el proceso de navegacion que te causara confusión o frustración?
+
+#### Visualización de BC Dashboard
+- ¿El panel principal (dashboard) te proporciona una vista general clara y útil del estado actual de tu negocio de alquiler de vehículos?
+- ¿Hay algún indicador o dato que consideres esencial para la gestión de tu flota que no encuentras en el dashboard, o que te gustaría que se presentara de otra manera?
+
+
+### 5.3.2 Registro de Entrevistas
+Presentamos los conocimientos obtenidos de las entrevistas de validación que realizamos con los segmentos presentados en el proyecto, nuestros públicos objetivo.
+
+## Segmento Obejtivo: Arrendador de vehículo
+| Entrevista 1                             | Arrendador de vehículo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Juan Diaz Banda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Edad                                     | 26 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Distrito                                 | Bellavista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ERL7e0L-jeVNh3Al5ZxE5s4BairSzzoh50dkWERkMoTkXA?e=gAgJHb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Foto captura                             | ![Entrevista con Juan Diaz](assets/ValidationInterview/ValidationSebastian.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Empleo Actual                            | Profesor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                        
+| Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Resumen de la entrevista                 | El entrevista destaca que se muestra familiarizado con el sistema de manejo de navegacion ya que anteriormente ya ah utilizado otras otras aplicaciones similares y resalta la simplicidad del front con respecto a su efectiva funcionalidad. Por otro lado destada que todos los bounded context estan bien desarrollados y son faciles de entender su funcionalidad sobretodo el apartado de card de publicacion donde le gusta la idea que se pueda modificar los datos del vehiculo ya que en otras aplicacione sno se puede y una de las recomendaciones es poner mas datos en las cards como por ejemplo la de la placa. |
+
+| Entrevista 2                             | Arrendador de vehículo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Jordan Cruz Chura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Edad                                     | 27 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Distrito                                 | Los Olivos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EZtvQueYaVZDiHkjYCvd-f8BL7m2nPHO-3dmEq8zZJwBmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KPTcXc)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto Captura                             | ![Entrevista Jordan](assets/ValidationInterview/EntrevistaJordan.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Empleo Actual                            | Administrador                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                        
+| Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Resumen de la entrevista                 | El entrevistado respondió las preguntas sobre el diseño y funcionalidades de la plataforma considera que el diseño de la landing page es moderno y atractivo, con una imagen de auto de lujo que genera un buen impacto visual. La tipografía y el esquema de colores están bien equilibrados, y la información clave se presenta de manera clara. En cuanto al problema que resuelve la plataforma, opina que conecta eficientemente a arrendadores y arrendatarios, permitiendo a los arrendadores publicar sus vehículos fácilmente y a los arrendatarios acceder rápidamente a la información disponible. Lo que más le llamó la atención fue la simplicidad del diseño para encontrar vehículos, con información clara sobre cada auto, como año, marca, descripción, calificación, y opciones para hacer una reserva o dejar una reseña. Respecto al dashboard, sugiere que faltaría información adicional, como la disponibilidad actual de los autos y la opción de filtrar por características como precio o tipo de vehículo. Finalmente, en cuanto al navigation, le gustaría que se mostrara la ubicación geográfica del vehículo y su disponibilidad en tiempo real, además de incluir más filtros de búsqueda, como el precio por día, el tipo de coche o la cercanía a la ubicación del arrendatario. |
+
+| Entrevista 3                             | Arrendador de vehículo                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Aron Coveñas                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Edad                                     | 28 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Distrito                                 | Los Olivos                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/ETFSusZlw4xGqrOIoY2kpSgBoVAbWDHWmGUULiQU7hL0fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4U3hCS)                                                                                                                                              |
+| Foto Captura                             | ![Entrevista Aron](assets/ValidationInterview/Entrevista-Aronn.png)                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Empleo Actual                            | Ingeniero Industrial                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                        
+| Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                  |
+| Resumen de la entrevista                 | Aron considera que la landing page es atractiva, con una imagen impactante y un diseño equilibrado. La plataforma resuelve eficientemente la conexión con los arrendatarios, facilitando la publicación de vehículos y el acceso a la información. Destaca la simplicidad y claridad del diseño. Sugiere agregar estadísticas en el dashboard sobre la rentabilidad y disponibilidad de los autos, y propone un mapa interactivo y más filtros de búsqueda en el navigation. |
+
+## Segmento Objetivo: Arrendatario de vehículos
+
+| Entrevista 1                             | Arrendatario de vehículos                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Antony Quito Penadillo                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Edad                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Distrito                                 | Ventanilla                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Inicio de la entrevista                  | [00:02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EfZ_w3hAMA5Ft1NIZJXITJAB0zXNLYpeIPchW1EIVmFZ-g?e=acCK76)                                                                                                                                                                                                                                                                                                                                                        |
+| Foto captura                             | ![Entrevista con Antony Quito](assets/ValidationInterview/ValidationAntony.png)                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Empleo Actual                            | Psicologo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                        
+| Información de presentación del producto | Gracias a la lista de funcionalidades bien mostrada y demostracion de la landig page el entrevistado se mostro atento y dio bastantes conclusiones y mejoras al proyecto.                                                                                                                                                                                                                                                                                                                       |
+| Resumen de la entrevista                 | En esta entrevista, Antony respondio a las preguntas de manera positiva ya que le gusto que el producto sea facil de utilizar y va directamente a atender las necesidades del segmento a cual respresenta. Por otro lado tambien dio varias recomendaciones sobre el landing page ya que le parecio muy moderno y eso no iva con sus espectativas. Tambien, destaco que falta implementar algunos servicios mas de CRUD ya que como el maneja SQL en su empresa recalco que es muy importante.. |
+
+| Entrevista 2                             | Arrendatario de vehículos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Paul Gamero Lizana                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Edad                                     | 22 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Distrito                                 | San martín de Porres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EZ75LUHV55JMhgL8UORlnjABhISsij5n7V30fZsSpHP6pg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OsEuVf )                                                                                                                                                                                                                        |
+| Foto captura                             | ![Entrevista con Paul Gamero](assets/ValidationInterview/Entrevista-Paul.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Empleo Actual                            | Estudiante de Diseño Grafico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                        
+| Información de presentación del producto | Luego de mostrar la lista de funcionalidades bien mostrada y demostracion de la landig page el entrevistado se mostro atento y dio bastantes conclusiones y mejoras al proyecto.                                                                                                                                                                                                                                                                                                                                                                        |
+| Resumen de la entrevista                 | Paul considera que la landing page es atractiva y genera confianza, pero sugiere agregar elementos visuales como testimonios y características diferenciadoras. Opina que la plataforma resuelve la falta de transparencia entre arrendadores y arrendatarios, mejorando la comunicación. Destaca la facilidad de uso y las imágenes de alta calidad. En el dashboard, sugiere agregar estadísticas de alquiler y gráficos en tiempo real. También recomienda incluir un mapa interactivo y opciones de filtrado por precio o reseñas en el navigation. |
+
+| Entrevista 3                             | Arrendatario de vehículos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Hans Cabanillas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Edad                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Distrito                                 | Jesús María                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/Ea59J9iRFCRPiMwT1dYoIJ4BoYI2kEaewSib65ogYGTEaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Rgrq1z )                                                                                                                                                                                                                        |
+| Foto captura                             | ![Entrevista con Hans](assets/ValidationInterview/Entrevista-Hans.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Empleo Actual                            | Estudia y trabaja                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                        
+| Información de presentación del producto | Luego de mostrar la lista de funcionalidades bien mostrada y demostracion de la landig page el entrevistado se mostro atento y dio bastantes conclusiones y mejoras al proyecto.                                                                                                                                                                                                                                                                                                                                                                        |
+| Resumen de la entrevista                 | Paul considera que la landing page es atractiva y genera confianza, pero sugiere agregar elementos visuales como testimonios y características diferenciadoras. Opina que la plataforma resuelve la falta de transparencia entre arrendadores y arrendatarios, mejorando la comunicación. Destaca la facilidad de uso y las imágenes de alta calidad. En el dashboard, sugiere agregar estadísticas de alquiler y gráficos en tiempo real. También recomienda incluir un mapa interactivo y opciones de filtrado por precio o reseñas en el navigation. |
+
+
+
+### 5.3.3 Evaluación según Heurísticas
+
+**UX Heuristics & Principles Evaluation**
+
+**Carrera: Ingeniería de Software**
+**Curso: Aplicaciones Web**
+**Sección: WS53**
+**Profesores: Todos**
+**Auditor: NovaCode**
+**Clientes: Todos**
+
+**SITE o APP  A EVALUAR:** AutomovilUnited
+
+**TAREAS A EVALUAR:**
+El alcance que tendrá esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+
+**Desktop landing page**
+
+-Información y descripción de la aplicación y sus funcionalidades
+
+-Información y breve descripción sobre el equipo de trabajo
+
+-Header y footer funcionales
+
+-Funcionalidad del call to action
+
+**Desktop Web Applications**
+
+-Agregar items al inventario
+
+-Header y footer funcionales
+
+-Visualización del dashboard
+
+-Agregar una nueva asistencia
+
+-Visualización de horarios de empleados
+
+
+**No incluidas en esta versión de la evaluación:**
+
+**Desktop landing page**
+
+-Acceso a términos y condiciones
+
+-Política de privacidad y condiciones de uso
+
+**Desktop Web Applications**
+
+-Visualización de Perfil de usuario
+
+-Descripción detallada de creación de asistencias
+
+-Manejo del inventario
+
+-Registro de nuevo usuario
+
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con poca frecuencia.|
+|2|Problema menor: ocurre un poco más frecuentemente o es un poco más difícil de superar.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo.|
+|4|Problema muy grave: error de gran impacto que impide al usuario continuar con el uso de la plataforma.|
+
+
+**TABLA RESUMEN AMBOS SEGMENTOS:**
+
+**Web Application**
+
+| # |Problema| Escala de severidad |Heurística/Principio violado|
+|:--| :- |:--------------------| :- |
+| 1 |Los filtros de búsqueda son limitados y no permiten una búsqueda eficiente por características del vehículo.| 2                   |Usability - Flexibility and efficiency of use|
+| 2 |La visualización de la disponibilidad de los vehículos no es clara ni en tiempo real.| 3                   |Usability - Feedback and system status|
+| 3 |Los arrendadores tienen dificultades para modificar los detalles de sus vehículos en la plataforma.| 2                   |Usability - Consistency and standards|
+| 4 |Falta un mapa interactivo que permita visualizar la ubicación y disponibilidad de los vehículos.| 3                   |IA - Is it findable?|
+
+**Landing Page**
+
+| # | Problema                                                                                               | Escala de severidad |Heurística/Principio violado|
+|:--|:-------------------------------------------------------------------------------------------------------|:--------------------| :- |
+| 1 | El texto descriptivo sobre la plataforma no tiene suficiente claridad, dificultando la comprensión.    | 1                   |IA - Is it clear?|
+| 2 | Los botones de call to action no comunican claramente la acción esperada, lo que afecta la interacción.| 2                   |IA - Is it usable?|
+| 3 | Falta información visual más detallada en las cards de publicación                                     | 2                   |Usability - Consistency and standards|
+| 4 | El diseño visual no tiene una jerarquía clara para las secciones, lo que dificulta la navegación.      | 3                   |IA - Is it findable?|
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**1. Landing Page**
+
+**Problema 1**
+- **Severidad:** 1
+- **Heurística violada:** IA - Is it clear?
+- **Problema:** El texto descriptivo sobre la plataforma es ambiguo, lo que dificulta que los usuarios comprendan de manera rápida la propuesta de valor.
+- **Recomendación:** Simplificar y estructurar el contenido de la página de manera más clara, usando listas, títulos, y descripciones concisas.
+
+
+**Problema 2**
+- **Severidad:** 2
+- **Heurística violada:** IA - Is it usable?
+- **Problema:** El call to action (ej. "Reservar ahora") no es intuitivo ni atractivo. No comunica adecuadamente lo que sucederá al hacer clic.
+- **Recomendación:** Mejorar el diseño y el texto del call to action para hacerlo más claro y directo. Ejemplo: “Reserva tu vehículo fácilmente”.
+
+**Problema 3**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency and standards
+- **Problema:** Las cards de los vehículos no incluyen información completa y consistente, como el número de placa, lo que puede generar dudas.
+- **Recomendación:** Incluir información adicional como la placa y otros detalles relevantes para garantizar que todos los vehículos estén descritos de manera consistente.
+
+**Problema 4**
+- **Severidad:** 3
+- **Heurística violada:** IA - Is it findable?
+- **Problema:** El diseño no tiene una jerarquía visual clara, lo que dificulta que los usuarios encuentren rápidamente lo que buscan (vehículos, call to action, etc.).
+- **Recomendación:** Rediseñar la página para establecer una jerarquía visual más clara, asegurando que las secciones más importantes sean fácilmente accesibles.
+
+---
+
+#### **2. Web Application**
+
+**Problema 1**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Flexibility and efficiency of use
+- **Problema:** Los filtros de búsqueda no son suficientes. Los arrendatarios no pueden realizar búsquedas avanzadas por tipo de vehículo, precio o características específicas.
+- **Recomendación:** Añadir filtros más detallados como tipo de coche, rango de precios, y opción para ordenar por calificación o cercanía.
+
+**Problema 2**
+- **Severidad:** 3
+- **Heurística violada:** Usability - Feedback and system status
+- **Problema:** La plataforma no muestra la disponibilidad de los vehículos en tiempo real, lo que genera incertidumbre en los arrendatarios.
+- **Recomendación:** Implementar un sistema de actualización en tiempo real sobre la disponibilidad de los vehículos y mostrar mensajes claros si un vehículo está ocupado o no disponible.
+
+**Problema 3**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency and standards
+- **Problema:** Los arrendadores enfrentan dificultades para editar los detalles de sus vehículos, ya que el proceso no sigue un flujo consistente con el resto de la plataforma.
+- **Recomendación:** Estandarizar el proceso de edición de vehículos y asegurarse de que todos los formularios sigan una estructura coherente.
+
+**Problema 4**
+- **Severidad:** 3
+- **Heurística violada:** IA - Is it findable?
+- **Problema:** La falta de un mapa interactivo impide a los arrendatarios encontrar la ubicación exacta de los vehículos disponibles.
+- **Recomendación:** Incluir un mapa interactivo que permita a los arrendatarios ver los vehículos disponibles en su zona y su disponibilidad en tiempo real.
+
 
 ## Conclusiones:
 
@@ -1425,6 +1853,9 @@ reuniones por discord y asignación de tareas, finalmente el despliegue de la la
 Finalizar este entregable nos permitió avanzar de manera concreta en las user stories definidas, destacando la relevancia de la planificación y organización en el desarrollo de software. 
 La construcción de los bounded contexts planteados en la documentación inicial refleja el progreso alcanzado en la aplicación. Logramos cumplir satisfactoriamente con todas las user stories previstas para esta etapa, por lo que consideramos que esta entrega fue exitosa.
 
+**TB2** 
+Este entregable nos permitió avanzar significativamente en el desarrollo de la aplicación enfocándonos en la implementación del backend a través de las technical stories, lo que permitió optimizar la estructura de la base de datos y los servicios del sistema. Además, finalizamos el 
+desarrollo del frontend con las user stories definidas, logrando una integración funcional de ambas partes. Durante este sprint, se completaron las tareas asignadas de acuerdo al plan establecido, y se realizaron pruebas para asegurar la correcta funcionalidad del producto.
 
 ## Anexos
 - Link de la organización de GitHub: https://github.com/Grupo-3-Apps-Web
@@ -1434,3 +1865,4 @@ La construcción de los bounded contexts planteados en la documentación inicial
 - Link de la landing page desplegada: https://automovilunite.netlify.app/
 - Link del frontend desplegado: https://novacode-frontend.netlify.app
 - Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+- Link del repositorio de web services: https://github.com/Grupo-3-Apps-Web/NovaCode-WebServices
