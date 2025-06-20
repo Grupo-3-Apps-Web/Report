@@ -1454,6 +1454,10 @@ Commits realizados en el repositorio de web services:
 
 <img src="assets/sprint3/webServices.png" width=600 >
 
+Commits realizados en el repositorio de landing page:
+
+<img src="assets/sprint3/landingCommits.png" width=600 >
+
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review 3
 
 | User Story Id | Título                                                     | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                             |
