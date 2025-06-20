@@ -188,6 +188,7 @@ Realización de entrevistas para ambos segmentos objetivos, realización complet
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
 <br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.
 <br> TP1: Asignacion y explicacion de los bounded context a desarrollar, aplicacion de la retroalimentacion del entregable anterior
+<br> TB2: Organizacion con el fin de completar el desarrollo del frontend y al mismo tiempo empezar el desarrollo del backend, asignacion de tareas y verificacion del progreso del equipo.
 <br> Alcantara Baldeon Poly gabriel <br>TB1: Participación en reuniones grupales. Explicación del diseño orientado a objetos. 
     </td>
 <td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br>
@@ -200,6 +201,7 @@ Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicaci�
     <td>De la Cruz Villarreal Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica.<br> TP1: Elaboración del bounded context Navigation y traducción del idioma <br> TB2:Creación de ideas, elaboración de documentación técnica y ayuda en el landing page y front-end  <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.<br> TP1: Elaboración del bounded context de Navigation y footer<br> TB2: Elaboración del bounded context de Dashboard y documentación. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
 <br>TP1: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
+<br>TP1: Implementacion del web service de publicacion y sus 4 operaciones CRUD, implementacion de la conexion landing-frontend, documentacion del entregable
 <br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
 <td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. 
 <br> TP1: Concluyo con una entrega completa considerando los user stories que se propusieron trabajar, pues se completó la implementacion de todos<br>De la Cruz Villarreal Carlos Alejandro<br> TB1: Esta primera entrega me permitió plasmar mis conocimientos de cursos de ciclos anteriores <br> TP1: La parte del bounded context asignada no logré terminarla al 100% pero pude apoyar haciendo el header y traducción.<br> TB2:Logré imponerme ante casi el 100% de las dificultades que se me plantearon.
