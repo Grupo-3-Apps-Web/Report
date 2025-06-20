@@ -1415,6 +1415,118 @@ Insights del repositorio del frontend de github:
 <img src="assets/sprint2/sprint2Front.png" width=600 >
 
 
+### 5.3 Validation Interviews
+#### 5.3.1 Diseño de entrevistas
+#### Objetivo de la Entrevista
+Buscamos validar la facilidad de uso y la eficiencia de la landing page y los procesos de Automovil-United, garantizando flujos de usuario claros, intuitivos y completamente funcionales.
+
+
+#### Elementos de Validación
+- **Landing Page**: Analizaremos cómo los usuarios perciben el diseño, los llamados a la acción (CTA) y la estructura general de la página. El objetivo es confirmar que estos elementos motivan eficazmente a los visitantes a registrarse y explorar más a fondo lo que Automovil-united ofrece.
+- **AplicaciónWeb**: Guiaremos a los usuarios a través de las funcionalidades principales de la aplicación. Esto incluye probar flujos esenciales como la de Publicaciones, Navegacion y Dashboard.
+
+
+
+#### User Flows a Validar
+
+1. **Landing Page**:
+    - Buscamos entender cómo la interfaz de la página de inicio impacta a los usuarios y si es efectiva para engancharlos desde el primer momento.
+
+2. **Publicaciones**:
+    - Evaluación del flujo de vehiculos publicos.
+
+3. **Navegacion**:
+    - Evaluación del flujo de busqueda de vehiculos por modelo, precio y imput de marca.
+
+4. **Visualización del Dashboard**:
+    - Evaluación de la presentación de datos del usuario y su respectivo libro de vehiculos.
+
+#### Formato de Registro de la Entrevista
+**Datos del Entrevistado**:
+- Nombre y apellidos
+- Edad
+- Ciudad de residencia
+- Trabajo actualmente
+
+#### Preguntas para el Segmento Arrendador de vehículo
+
+#### Landing Page
+- ¿Cómo percibes el diseño y la estética general de nuestra página?
+- Después de ver la página de presentación, ¿qué entendiste sobre nuestro producto?
+- Para hacer la página de inicio más atractiva o informativa, ¿qué modificaciones o adiciones propondrías?
+
+#### Visualización de BC Publication
+- Al ver cómo se presentan tus vehículos, ¿la información es clara y te permite entender rápidamente su estado y disponibilidad?
+- ¿Qué tan fácil o difícil fue indicar cuándo un vehículo está disponible para alquiler o cuándo no lo está?
+- ¿Crees que esta sección te ayudaría a gestionar mejor la disponibilidad de tu flota y evitar reservas dobles o pérdidas de oportunidad?
+
+#### Visualización de BC Navigation
+- ¿La forma en que se muestran las reservas actuales y futuras es intuitiva? ¿Te permite ver rápidamente los detalles importantes?
+- ¿Consideras que la información de los clientes (nombre, contacto, historial) es fácil de acceder y entender en esta sección?
+- ¿Esta funcionalidad te sería útil para optimizar la comunicación y el seguimiento con tus clientes y sus reservas?
+
+#### Visualización de BC Dashboard
+- ¿El panel principal te proporciona una vista general útil y rápida del rendimiento de tu negocio de alquiler?
+- ¿Hubo algún momento en que la información te pareció confusa o te costó encontrar lo que buscabas en el dashboard?
+- ¿Consideras que los datos presentados aquí son relevantes y accionables para tomar decisiones sobre tu negocio?
+
+
+  #### Preguntas para el Segmento Arrendatario de vehículos
+
+#### Landing Page
+- ¿Cuál es tu primera impresión del diseño y la apariencia general de nuestra página web al visitarla?
+- Después de explorar la página de inicio, ¿qué entendiste claramente sobre cómo puedes alquilar un vehículo a través de nuestra plataforma?
+- Para hacer la página de inicio más útil o atractiva para ti, ¿qué sugerencias tienes para mejorar su presentación o contenido?
+
+#### Visualización de BC Publication
+- ¿Qué tan fácil o difícil te resultó encontrar el tipo de vehículo que estabas buscando en nuestra plataforma?
+- ¿La información y las fotos de los vehículos te parecieron suficientes y claras para tomar una decisión informada?
+- ¿Hay algo que te gustaría ver o saber adicionalmente al momento de buscar y seleccionar un vehículo?
+
+#### Visualización de BC Navigation
+- ¿Cómo describirías la facilidad o complejidad del proceso para reservar un vehículo una vez que lo seleccionaste?
+- ¿La información sobre precios, marca y modelo te resultó transparente y fácil de entender?
+- ¿Hubo algún paso en el proceso de navegacion que te causara confusión o frustración?
+
+#### Visualización de BC Dashboard
+- ¿El panel principal (dashboard) te proporciona una vista general clara y útil del estado actual de tu negocio de alquiler de vehículos?
+- ¿Hay algún indicador o dato que consideres esencial para la gestión de tu flota que no encuentras en el dashboard, o que te gustaría que se presentara de otra manera?
+
+
+### 5.3.2 Registro de Entrevistas
+Presentamos los conocimientos obtenidos de las entrevistas de validación que realizamos con los segmentos presentados en el proyecto, nuestros públicos objetivo.
+
+## Segmento Obejtivo: Arrendador de vehículo
+| Entrevista 1                             | Arrendador de vehículo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Juan Diaz Banda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Edad                                     | 26 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Distrito                                 | Bellavista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ERL7e0L-jeVNh3Al5ZxE5s4BairSzzoh50dkWERkMoTkXA?e=gAgJHb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Foto captura                             | ![Entrevista con Juan Diaz](assets/ValidationInterview/ValidationSebastian.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Empleo Actual                            | Profesor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                        
+| Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Resumen de la entrevista                 | El entrevista destaca que se muestra familiarizado con el sistema de manejo de navegacion ya que anteriormente ya ah utilizado otras otras aplicaciones similares y resalta la simplicidad del front con respecto a su efectiva funcionalidad. Por otro lado destada que todos los bounded context estan bien desarrollados y son faciles de entender su funcionalidad sobretodo el apartado de card de publicacion donde le gusta la idea que se pueda modificar los datos del vehiculo ya que en otras aplicacione sno se puede y una de las recomendaciones es poner mas datos en las cards como por ejemplo la de la placa. |
+
+
+## Segmento Objetivo: Arrendatario de vehículos
+
+| Entrevista 1                             | Arrendatario de vehículos                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Antony Quito Penadillo                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Edad                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Distrito                                 | Ventanilla                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Inicio de la entrevista                  | [00:02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EfZ_w3hAMA5Ft1NIZJXITJAB0zXNLYpeIPchW1EIVmFZ-g?e=acCK76)                                                                                                                                                                                                                                                                                                                                                        |
+| Foto captura                             | ![Entrevista con Antony Quito](assets/ValidationInterview/ValidationAntony.png)                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Empleo Actual                            | Psicologo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                        
+| Información de presentación del producto | Gracias a la lista de funcionalidades bien mostrada y demostracion de la landig page el entrevistado se mostro atento y dio bastantes conclusiones y mejoras al proyecto.                                                                                                                                                                                                                                                                                                                       |
+| Resumen de la entrevista                 | En esta entrevista, Antony respondio a las preguntas de manera positiva ya que le gusto que el producto sea facil de utilizar y va directamente a atender las necesidades del segmento a cual respresenta. Por otro lado tambien dio varias recomendaciones sobre el landing page ya que le parecio muy moderno y eso no iva con sus espectativas. Tambien, destaco que falta implementar algunos servicios mas de CRUD ya que como el maneja SQL en su empresa recalco que es muy importante.. |
+
+
+
+### 5.3.3 Evaluación según Heurísticas
+
+
 ## Conclusiones:
 
 **TB1**
