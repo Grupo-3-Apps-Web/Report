@@ -1414,6 +1414,63 @@ Insights del repositorio del frontend de github:
 
 <img src="assets/sprint2/sprint2Front.png" width=600 >
 
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+
+| Sprint #                               | Sprint 3                                         |
+|----------------------------------------|--------------------------------------------------|
+| **Date**                               |                                                  |
+| **Time**                               |                                                  |
+| **Location**                           | Discord                                          |
+| **Prepared By**                        | Josue Paiva                                      |
+| **Attendees (to planning meeting)**    | Josue Paiva, Carlos de la Cruz, Christian Huanca |
+| **No Participo**                       | Gabriel Alcántara, Josue Flores                  |
+| **Sprint n - 1 Review Summary**        |                                                  |
+| **Sprint n - 1 Retrospective Summary** |                                                  |
+| **Sprint 2 Goal**                      |                                                  |
+| **Sprint 2 Velocity**                  |                                                  |
+| **Sum of Story Points**                |                                                  |
+
+##### 5.2.3.2. Sprint Backlog 3
+A continuación se presenta el trello actualizado considerando los bounded context de Dashboard, Publicaciones y Navegación, con sus respectivas technical stories y user stories tanto de backend como de frontend.
+
+Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+
+Web Services Technical Stories:
+
+| # Orden | User Story Id | Título                                                     | Descripción                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-01         | Implementación del servicio GET de vehículos publicados    | Operación de lectura de entradas registradas en el endpoint /myPublishedVehicles, tanto de todos los registros como de un ID especifico. | 5                                |
+| 2       | TS-02         | Implementación del servicio DELETE de vehículos publicados | Operación de eliminación de un registro existente del endpoint /myPublishedVehicles.                                                     | 5                                |
+| 3       | TS-03         | Implementación del servicio POST de vehículos publicados   | Operación de creación de un nuevo registro del endpoint /myPublishedVehicles.                                                            | 5                                |
+
+#### 5.2.3.3. Development Evidence for Sprint Review 3
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/sprint3/front.png" width=600 >
+
+Commits realizados en el repositorio de web services:
+
+<img src="assets/sprint3/webServices.png" width=600 >
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review 3
+
+| User Story Id | Título                                                     | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                             |
+|---------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TS-01         | Implementación del servicio GET de vehículos publicados    | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña publicación, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación. |
+| TS-02         | Implementación del servicio DELETE de vehículos publicados | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona eliminar publicación, **then** podrá eliminar el registro del vehículo publicado. Escenario 2:**Given** el usuario está en la pestaña publicación, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias publicaciones al mismo tiempo.             |
+| TS-02         | Implementación del servicio POST de vehículos publicados   | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona crear nueva publicación, **then** debera rellenar los campos para realizar el registro.                                                                                                                                                                                             |
+
+#### 5.2.3.5 Execution Evidence for Sprint Review 3
+Se adjuntan evidencias del despliegue de la segunda version del frontend, cubriendo las user stories previamente mencionadas:
+
+
+A continuación se presenta la primera version de los webs services que cubre el bounded context de Publicaciones, con las siguientes funcionalidades:
+
+<img src="assets/sprint3/publicationsSwagger.png" width=600 >
+
+
 
 ## Conclusiones:
 
