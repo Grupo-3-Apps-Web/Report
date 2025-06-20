@@ -25,10 +25,11 @@
 
 ## Registro de Versiones del Informe
 
-| Versión  | Fecha      | Autor                                            | Descripción de modificación   |
-|----------|------------|--------------------------------------------------|-------------------------------|
-| 0.1      | 24/04/2025 | Todos los integrantes                            | Primer sprint TB1             |
-| 0.2      | 10/05/20205| Christian Huanca, Carlos De La Cruz, Josue Paiva | Segundo sprint TP1            |
+| Versión | Fecha       | Autor                                            | Descripción de modificación |
+|---------|-------------|--------------------------------------------------|-----------------------------|
+| 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
+| 0.2     | 10/05/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Segundo sprint TP1          |
+| 0.3     | 18/06/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Tercer sprint TB2           |
 
 | URL de la organización del proyecto |      URL del repositorio del reporte       |
 |:-----------------------------------:|:------------------------------------------:|
@@ -1438,12 +1439,12 @@ Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
 
 Web Services Technical Stories:
 
-| # Orden | User Story Id | Título                                                     | Descripción                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
-|---------|---------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 1       | TS-01         | Implementación del servicio GET de vehículos publicados    | Operación de lectura de entradas registradas en el endpoint /myPublishedVehicles, tanto de todos los registros como de un ID especifico. | 5                                |
-| 2       | TS-02         | Implementación del servicio DELETE de vehículos publicados | Operación de eliminación de un registro existente del endpoint /myPublishedVehicles.                                                     | 5                                |
-| 3       | TS-03         | Implementación del servicio POST de vehículos publicados   | Operación de creación de un nuevo registro del endpoint /myPublishedVehicles.                                                            | 5                                |
-
+| # Orden  | User Story Id | Título                                                         | Descripción                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
+|----------|---------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1        | TS-01         | Implementación del servicio GET de vehículos publicados        | Operación de lectura de entradas registradas en el endpoint /myPublishedVehicles, tanto de todos los registros como de un ID especifico. | 5                                |
+| 2        | TS-02         | Implementación del servicio DELETE de vehículos publicados     | Operación de eliminación de un registro existente del endpoint /myPublishedVehicles.                                                     | 5                                |
+| 3        | TS-03         | Implementación del servicio POST de vehículos publicados       | Operación de creación de un nuevo registro del endpoint /myPublishedVehicles.                                                            | 5                                |
+| 4        | US-15         | Reseñar publicaciones de alquiler                              | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                                              | 5                                |
 #### 5.2.3.3. Development Evidence for Sprint Review 3
 
 Commits realizados en el repositorio del frontend:
@@ -1465,6 +1466,7 @@ Commits realizados en el repositorio de landing page:
 | TS-01         | Implementación del servicio GET de vehículos publicados    | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña publicación, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación. |
 | TS-02         | Implementación del servicio DELETE de vehículos publicados | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona eliminar publicación, **then** podrá eliminar el registro del vehículo publicado. Escenario 2:**Given** el usuario está en la pestaña publicación, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias publicaciones al mismo tiempo.             |
 | TS-02         | Implementación del servicio POST de vehículos publicados   | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona crear nueva publicación, **then** debera rellenar los campos para realizar el registro.                                                                                                                                                                                             |
+
 
 #### 5.2.3.5 Execution Evidence for Sprint Review 3
 Se adjuntan evidencias del despliegue de la segunda version del frontend, cubriendo las user stories previamente mencionadas:
