@@ -1569,6 +1569,153 @@ Presentamos los conocimientos obtenidos de las entrevistas de validación que re
 
 ### 5.3.3 Evaluación según Heurísticas
 
+**UX Heuristics & Principles Evaluation**
+
+**Carrera: Ingeniería de Software**
+**Curso: Aplicaciones Web**
+**Sección: WS53**
+**Profesores: Todos**
+**Auditor: NovaCode**
+**Clientes: Todos**
+
+**SITE o APP  A EVALUAR:** AutomovilUnited
+
+**TAREAS A EVALUAR:**
+El alcance que tendrá esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+
+**Desktop landing page**
+
+-Información y descripción de la aplicación y sus funcionalidades
+
+-Información y breve descripción sobre el equipo de trabajo
+
+-Header y footer funcionales
+
+-Funcionalidad del call to action
+
+**Desktop Web Applications**
+
+-Agregar items al inventario
+
+-Header y footer funcionales
+
+-Visualización del dashboard
+
+-Agregar una nueva asistencia
+
+-Visualización de horarios de empleados
+
+
+**No incluidas en esta versión de la evaluación:**
+
+**Desktop landing page**
+
+-Acceso a términos y condiciones
+
+-Política de privacidad y condiciones de uso
+
+**Desktop Web Applications**
+
+-Visualización de Perfil de usuario
+
+-Descripción detallada de creación de asistencias
+
+-Manejo del inventario
+
+-Registro de nuevo usuario
+
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con poca frecuencia.|
+|2|Problema menor: ocurre un poco más frecuentemente o es un poco más difícil de superar.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo.|
+|4|Problema muy grave: error de gran impacto que impide al usuario continuar con el uso de la plataforma.|
+
+
+**TABLA RESUMEN AMBOS SEGMENTOS:**
+
+**Web Application**
+
+| # |Problema| Escala de severidad |Heurística/Principio violado|
+|:--| :- |:--------------------| :- |
+| 1 |Los filtros de búsqueda son limitados y no permiten una búsqueda eficiente por características del vehículo.| 2                   |Usability - Flexibility and efficiency of use|
+| 2 |La visualización de la disponibilidad de los vehículos no es clara ni en tiempo real.| 3                   |Usability - Feedback and system status|
+| 3 |Los arrendadores tienen dificultades para modificar los detalles de sus vehículos en la plataforma.| 2                   |Usability - Consistency and standards|
+| 4 |Falta un mapa interactivo que permita visualizar la ubicación y disponibilidad de los vehículos.| 3                   |IA - Is it findable?|
+
+**Landing Page**
+
+| # | Problema                                                                                               | Escala de severidad |Heurística/Principio violado|
+|:--|:-------------------------------------------------------------------------------------------------------|:--------------------| :- |
+| 1 | El texto descriptivo sobre la plataforma no tiene suficiente claridad, dificultando la comprensión.    | 1                   |IA - Is it clear?|
+| 2 | Los botones de call to action no comunican claramente la acción esperada, lo que afecta la interacción.| 2                   |IA - Is it usable?|
+| 3 | Falta información visual más detallada en las cards de publicación                                     | 2                   |Usability - Consistency and standards|
+| 4 | El diseño visual no tiene una jerarquía clara para las secciones, lo que dificulta la navegación.      | 3                   |IA - Is it findable?|
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**1. Landing Page**
+
+**Problema 1**
+- **Severidad:** 1
+- **Heurística violada:** IA - Is it clear?
+- **Problema:** El texto descriptivo sobre la plataforma es ambiguo, lo que dificulta que los usuarios comprendan de manera rápida la propuesta de valor.
+- **Recomendación:** Simplificar y estructurar el contenido de la página de manera más clara, usando listas, títulos, y descripciones concisas.
+
+
+**Problema 2**
+- **Severidad:** 2
+- **Heurística violada:** IA - Is it usable?
+- **Problema:** El call to action (ej. "Reservar ahora") no es intuitivo ni atractivo. No comunica adecuadamente lo que sucederá al hacer clic.
+- **Recomendación:** Mejorar el diseño y el texto del call to action para hacerlo más claro y directo. Ejemplo: “Reserva tu vehículo fácilmente”.
+
+**Problema 3**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency and standards
+- **Problema:** Las cards de los vehículos no incluyen información completa y consistente, como el número de placa, lo que puede generar dudas.
+- **Recomendación:** Incluir información adicional como la placa y otros detalles relevantes para garantizar que todos los vehículos estén descritos de manera consistente.
+
+**Problema 4**
+- **Severidad:** 3
+- **Heurística violada:** IA - Is it findable?
+- **Problema:** El diseño no tiene una jerarquía visual clara, lo que dificulta que los usuarios encuentren rápidamente lo que buscan (vehículos, call to action, etc.).
+- **Recomendación:** Rediseñar la página para establecer una jerarquía visual más clara, asegurando que las secciones más importantes sean fácilmente accesibles.
+
+---
+
+#### **2. Web Application**
+
+**Problema 1**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Flexibility and efficiency of use
+- **Problema:** Los filtros de búsqueda no son suficientes. Los arrendatarios no pueden realizar búsquedas avanzadas por tipo de vehículo, precio o características específicas.
+- **Recomendación:** Añadir filtros más detallados como tipo de coche, rango de precios, y opción para ordenar por calificación o cercanía.
+
+**Problema 2**
+- **Severidad:** 3
+- **Heurística violada:** Usability - Feedback and system status
+- **Problema:** La plataforma no muestra la disponibilidad de los vehículos en tiempo real, lo que genera incertidumbre en los arrendatarios.
+- **Recomendación:** Implementar un sistema de actualización en tiempo real sobre la disponibilidad de los vehículos y mostrar mensajes claros si un vehículo está ocupado o no disponible.
+
+**Problema 3**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency and standards
+- **Problema:** Los arrendadores enfrentan dificultades para editar los detalles de sus vehículos, ya que el proceso no sigue un flujo consistente con el resto de la plataforma.
+- **Recomendación:** Estandarizar el proceso de edición de vehículos y asegurarse de que todos los formularios sigan una estructura coherente.
+
+**Problema 4**
+- **Severidad:** 3
+- **Heurística violada:** IA - Is it findable?
+- **Problema:** La falta de un mapa interactivo impide a los arrendatarios encontrar la ubicación exacta de los vehículos disponibles.
+- **Recomendación:** Incluir un mapa interactivo que permita a los arrendatarios ver los vehículos disponibles en su zona y su disponibilidad en tiempo real.
+
 
 ## Conclusiones:
 
