@@ -176,7 +176,8 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivos. <br> TP1: Asignación del bounded contextcorrespondiente y mejora con respecto al feedback de la entrega anterior. 
-<br> Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento.<br> TP1: Desarrollo del bounded context asignado, así como también corregí las revisiones de la anterior entrega <br>Flores Apaico, Josue Antonio<br>
+<br> TB2: Participación en reuniones grupales. Realización de entrevistas para los 2 segmentos objetivos, about the team,product y realización parcial de US <br>Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento.<br> TP1: Desarrollo del bounded context asignado, así como también corregí las revisiones de la anterior entrega <br> TB2: :Participación en las reuniones grupales.
+Realización de entrevistas para ambos segmentos objetivos, realización completa de US asignadas.<br>Flores Apaico, Josue Antonio<br>
 TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
 <br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.
 <br> TP1: Asignacion y explicacion de los bounded context a desarrollar, aplicacion de la retroalimentacion del entregable anterior
@@ -189,7 +190,7 @@ Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicaci�
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>De la Cruz Villarreal Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica.<br> TP1: Elaboración del bounded context Navigation y traducción del idioma  <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.<br> TP1: Elaboración del bounded context de Navigation y footer <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
+    <td>De la Cruz Villarreal Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica.<br> TP1: Elaboración del bounded context Navigation y traducción del idioma <br> TB2:Creación de ideas, elaboración de documentación técnica y ayuda en el landing page y front-end  <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.<br> TP1: Elaboración del bounded context de Navigation y footer<br> TB2: Elaboración del bounded context de Dashboard y documentación. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
 <br>TP1: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
 <br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
