@@ -1439,12 +1439,18 @@ Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
 
 Web Services Technical Stories:
 
-| # Orden  | User Story Id | Título                                                         | Descripción                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
-|----------|---------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 1        | TS-01         | Implementación del servicio GET de vehículos publicados        | Operación de lectura de entradas registradas en el endpoint /myPublishedVehicles, tanto de todos los registros como de un ID especifico. | 5                                |
-| 2        | TS-02         | Implementación del servicio DELETE de vehículos publicados     | Operación de eliminación de un registro existente del endpoint /myPublishedVehicles.                                                     | 5                                |
-| 3        | TS-03         | Implementación del servicio POST de vehículos publicados       | Operación de creación de un nuevo registro del endpoint /myPublishedVehicles.                                                            | 5                                |
-| 4        | US-15         | Reseñar publicaciones de alquiler                              | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                                              | 5                                |
+| # Orden | User Story Id | Título                                                     | Descripción                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-01         | Implementación del servicio GET de vehículos publicados    | Operación de lectura de entradas registradas en el endpoint /myPublishedVehicles, tanto de todos los registros como de un ID especifico. | 5                                |
+| 2       | TS-02         | Implementación del servicio DELETE de vehículos publicados | Operación de eliminación de un registro existente del endpoint /myPublishedVehicles.                                                     | 5                                |
+| 3       | TS-03         | Implementación del servicio POST de vehículos publicados   | Operación de creación de un nuevo registro del endpoint /myPublishedVehicles.                                                            | 5                                |
+| 4       | US-15         | Reseñar publicaciones de alquiler                          | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                                              | 5                                |
+| 5       | US-04         | Dashboard del usuario                                      | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                                          | 5                                |
+| 6       | US-06         | Seccion Publicados del Dashboard                           | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.                         | 5                                |
+| 7       | TS-04         | Implementación del servicio GET de datos del usuario y libro de vehículos | Operacion de lectura de entradas registradas en los endpoint /userProfiles and /myBookVehicles.                           | 5                                |
+| 8       | TS-05         | Implementación del servicio PUT para actualizar datos del usuario  y libro de vehículos | Operación de actualizar de un registro en los endpoint /userProfiles and /myBookVehicles.                   | 5                                |
+| 9       | TS-06         | Implementación de servicio DELETE del libro de vehículos del usuario   | Operación de eliminación de un registro existente del endpoint /myBookVehicles.                                              | 5                                |
+
 #### 5.2.3.3. Development Evidence for Sprint Review 3
 
 Commits realizados en el repositorio del frontend:
@@ -1465,12 +1471,15 @@ Commits realizados en el repositorio de landing page:
 |---------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TS-01         | Implementación del servicio GET de vehículos publicados    | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña publicación, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación. |
 | TS-02         | Implementación del servicio DELETE de vehículos publicados | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona eliminar publicación, **then** podrá eliminar el registro del vehículo publicado. Escenario 2:**Given** el usuario está en la pestaña publicación, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias publicaciones al mismo tiempo.             |
-| TS-02         | Implementación del servicio POST de vehículos publicados   | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona crear nueva publicación, **then** debera rellenar los campos para realizar el registro.                                                                                                                                                                                             |
-
+| TS-03         | Implementación del servicio POST de vehículos publicados   | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona crear nueva publicación, **then** debera rellenar los campos para realizar el registro.                                                                                                                                                                                             |
+| US-04         | Dashboard del usuario                                      | Escenario 1:Given el usuario ingresa sus credenciales, when selecciona "Log-In", then se le cargara la pestaña "Dashboard" por defecto. Escenario 2:Given el usuario se encuentra en otra pestaña, when selecciona desde el toolbar el Button "Dashboard", then se le redirigirá a la pestaña de Dashboard.                                                             |
+| US-06         | Seccion Publicados del Dashboard                           | Escenario 1:Given el usuario accede a la aplicación, when se sitúa en la pestaña Dashboard, then se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:Given el usuario está en la sección de "Mis Publicaciones", when selecciona la opción "Nueva Publicación", then se le redirigirá a la pestaña de publicación.                            |
 
 #### 5.2.3.5 Execution Evidence for Sprint Review 3
 Se adjuntan evidencias del despliegue de la segunda version del frontend, cubriendo las user stories previamente mencionadas:
 
+- Desarrollo del bounded context "Dashboard del usuario" el cual consume 2 endpoint /userProfiles para mostrar datos del usuario y /myBookVehicles la cual lista los vehiculos que estan en la libreria del usuario.
+<img src="assets/sprint3/frontBCDashboard.png" width=600 >
 
 A continuación se presenta la primera version de los webs services que cubre el bounded context de Publicaciones, con las siguientes funcionalidades:
 
