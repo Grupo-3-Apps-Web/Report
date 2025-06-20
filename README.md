@@ -1415,6 +1415,308 @@ Insights del repositorio del frontend de github:
 <img src="assets/sprint2/sprint2Front.png" width=600 >
 
 
+### 5.3 Validation Interviews
+#### 5.3.1 Diseño de entrevistas
+#### Objetivo de la Entrevista
+Buscamos validar la facilidad de uso y la eficiencia de la landing page y los procesos de Automovil-United, garantizando flujos de usuario claros, intuitivos y completamente funcionales.
+
+
+#### Elementos de Validación
+- **Landing Page**: Analizaremos cómo los usuarios perciben el diseño, los llamados a la acción (CTA) y la estructura general de la página. El objetivo es confirmar que estos elementos motivan eficazmente a los visitantes a registrarse y explorar más a fondo lo que Automovil-united ofrece.
+- **AplicaciónWeb**: Guiaremos a los usuarios a través de las funcionalidades principales de la aplicación. Esto incluye probar flujos esenciales como la de Publicaciones, Navegacion y Dashboard.
+
+
+
+#### User Flows a Validar
+
+1. **Landing Page**:
+    - Buscamos entender cómo la interfaz de la página de inicio impacta a los usuarios y si es efectiva para engancharlos desde el primer momento.
+
+2. **Publicaciones**:
+    - Evaluación del flujo de vehiculos publicos.
+
+3. **Navegacion**:
+    - Evaluación del flujo de busqueda de vehiculos por modelo, precio y imput de marca.
+
+4. **Visualización del Dashboard**:
+    - Evaluación de la presentación de datos del usuario y su respectivo libro de vehiculos.
+
+#### Formato de Registro de la Entrevista
+**Datos del Entrevistado**:
+- Nombre y apellidos
+- Edad
+- Ciudad de residencia
+- Trabajo actualmente
+
+#### Preguntas para el Segmento Arrendador de vehículo
+
+#### Landing Page
+- ¿Cómo percibes el diseño y la estética general de nuestra página?
+- Después de ver la página de presentación, ¿qué entendiste sobre nuestro producto?
+- Para hacer la página de inicio más atractiva o informativa, ¿qué modificaciones o adiciones propondrías?
+
+#### Visualización de BC Publication
+- Al ver cómo se presentan tus vehículos, ¿la información es clara y te permite entender rápidamente su estado y disponibilidad?
+- ¿Qué tan fácil o difícil fue indicar cuándo un vehículo está disponible para alquiler o cuándo no lo está?
+- ¿Crees que esta sección te ayudaría a gestionar mejor la disponibilidad de tu flota y evitar reservas dobles o pérdidas de oportunidad?
+
+#### Visualización de BC Navigation
+- ¿La forma en que se muestran las reservas actuales y futuras es intuitiva? ¿Te permite ver rápidamente los detalles importantes?
+- ¿Consideras que la información de los clientes (nombre, contacto, historial) es fácil de acceder y entender en esta sección?
+- ¿Esta funcionalidad te sería útil para optimizar la comunicación y el seguimiento con tus clientes y sus reservas?
+
+#### Visualización de BC Dashboard
+- ¿El panel principal te proporciona una vista general útil y rápida del rendimiento de tu negocio de alquiler?
+- ¿Hubo algún momento en que la información te pareció confusa o te costó encontrar lo que buscabas en el dashboard?
+- ¿Consideras que los datos presentados aquí son relevantes y accionables para tomar decisiones sobre tu negocio?
+
+
+  #### Preguntas para el Segmento Arrendatario de vehículos
+
+#### Landing Page
+- ¿Cuál es tu primera impresión del diseño y la apariencia general de nuestra página web al visitarla?
+- Después de explorar la página de inicio, ¿qué entendiste claramente sobre cómo puedes alquilar un vehículo a través de nuestra plataforma?
+- Para hacer la página de inicio más útil o atractiva para ti, ¿qué sugerencias tienes para mejorar su presentación o contenido?
+
+#### Visualización de BC Publication
+- ¿Qué tan fácil o difícil te resultó encontrar el tipo de vehículo que estabas buscando en nuestra plataforma?
+- ¿La información y las fotos de los vehículos te parecieron suficientes y claras para tomar una decisión informada?
+- ¿Hay algo que te gustaría ver o saber adicionalmente al momento de buscar y seleccionar un vehículo?
+
+#### Visualización de BC Navigation
+- ¿Cómo describirías la facilidad o complejidad del proceso para reservar un vehículo una vez que lo seleccionaste?
+- ¿La información sobre precios, marca y modelo te resultó transparente y fácil de entender?
+- ¿Hubo algún paso en el proceso de navegacion que te causara confusión o frustración?
+
+#### Visualización de BC Dashboard
+- ¿El panel principal (dashboard) te proporciona una vista general clara y útil del estado actual de tu negocio de alquiler de vehículos?
+- ¿Hay algún indicador o dato que consideres esencial para la gestión de tu flota que no encuentras en el dashboard, o que te gustaría que se presentara de otra manera?
+
+
+### 5.3.2 Registro de Entrevistas
+Presentamos los conocimientos obtenidos de las entrevistas de validación que realizamos con los segmentos presentados en el proyecto, nuestros públicos objetivo.
+
+## Segmento Obejtivo: Arrendador de vehículo
+| Entrevista 1                             | Arrendador de vehículo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Juan Diaz Banda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Edad                                     | 26 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Distrito                                 | Bellavista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ERL7e0L-jeVNh3Al5ZxE5s4BairSzzoh50dkWERkMoTkXA?e=gAgJHb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Foto captura                             | ![Entrevista con Juan Diaz](assets/ValidationInterview/ValidationSebastian.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Empleo Actual                            | Profesor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                        
+| Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Resumen de la entrevista                 | El entrevista destaca que se muestra familiarizado con el sistema de manejo de navegacion ya que anteriormente ya ah utilizado otras otras aplicaciones similares y resalta la simplicidad del front con respecto a su efectiva funcionalidad. Por otro lado destada que todos los bounded context estan bien desarrollados y son faciles de entender su funcionalidad sobretodo el apartado de card de publicacion donde le gusta la idea que se pueda modificar los datos del vehiculo ya que en otras aplicacione sno se puede y una de las recomendaciones es poner mas datos en las cards como por ejemplo la de la placa. |
+
+| Entrevista 2                             | Arrendador de vehículo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Jordan Cruz Chura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Edad                                     | 27 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Distrito                                 | Los Olivos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EZtvQueYaVZDiHkjYCvd-f8BL7m2nPHO-3dmEq8zZJwBmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KPTcXc)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto Captura                             | ![Entrevista Jordan](assets/ValidationInterview/EntrevistaJordan.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Empleo Actual                            | Administrador                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                        
+| Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Resumen de la entrevista                 | El entrevistado respondió las preguntas sobre el diseño y funcionalidades de la plataforma considera que el diseño de la landing page es moderno y atractivo, con una imagen de auto de lujo que genera un buen impacto visual. La tipografía y el esquema de colores están bien equilibrados, y la información clave se presenta de manera clara. En cuanto al problema que resuelve la plataforma, opina que conecta eficientemente a arrendadores y arrendatarios, permitiendo a los arrendadores publicar sus vehículos fácilmente y a los arrendatarios acceder rápidamente a la información disponible. Lo que más le llamó la atención fue la simplicidad del diseño para encontrar vehículos, con información clara sobre cada auto, como año, marca, descripción, calificación, y opciones para hacer una reserva o dejar una reseña. Respecto al dashboard, sugiere que faltaría información adicional, como la disponibilidad actual de los autos y la opción de filtrar por características como precio o tipo de vehículo. Finalmente, en cuanto al navigation, le gustaría que se mostrara la ubicación geográfica del vehículo y su disponibilidad en tiempo real, además de incluir más filtros de búsqueda, como el precio por día, el tipo de coche o la cercanía a la ubicación del arrendatario. |
+
+| Entrevista 3                             | Arrendador de vehículo                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Aron Coveñas                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Edad                                     | 28 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Distrito                                 | Los Olivos                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/ETFSusZlw4xGqrOIoY2kpSgBoVAbWDHWmGUULiQU7hL0fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4U3hCS)                                                                                                                                              |
+| Foto Captura                             | ![Entrevista Aron](assets/ValidationInterview/Entrevista-Aronn.png)                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Empleo Actual                            | Ingeniero Industrial                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                        
+| Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                  |
+| Resumen de la entrevista                 | Aron considera que la landing page es atractiva, con una imagen impactante y un diseño equilibrado. La plataforma resuelve eficientemente la conexión con los arrendatarios, facilitando la publicación de vehículos y el acceso a la información. Destaca la simplicidad y claridad del diseño. Sugiere agregar estadísticas en el dashboard sobre la rentabilidad y disponibilidad de los autos, y propone un mapa interactivo y más filtros de búsqueda en el navigation. |
+
+## Segmento Objetivo: Arrendatario de vehículos
+
+| Entrevista 1                             | Arrendatario de vehículos                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Antony Quito Penadillo                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Edad                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Distrito                                 | Ventanilla                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Inicio de la entrevista                  | [00:02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EfZ_w3hAMA5Ft1NIZJXITJAB0zXNLYpeIPchW1EIVmFZ-g?e=acCK76)                                                                                                                                                                                                                                                                                                                                                        |
+| Foto captura                             | ![Entrevista con Antony Quito](assets/ValidationInterview/ValidationAntony.png)                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Empleo Actual                            | Psicologo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                        
+| Información de presentación del producto | Gracias a la lista de funcionalidades bien mostrada y demostracion de la landig page el entrevistado se mostro atento y dio bastantes conclusiones y mejoras al proyecto.                                                                                                                                                                                                                                                                                                                       |
+| Resumen de la entrevista                 | En esta entrevista, Antony respondio a las preguntas de manera positiva ya que le gusto que el producto sea facil de utilizar y va directamente a atender las necesidades del segmento a cual respresenta. Por otro lado tambien dio varias recomendaciones sobre el landing page ya que le parecio muy moderno y eso no iva con sus espectativas. Tambien, destaco que falta implementar algunos servicios mas de CRUD ya que como el maneja SQL en su empresa recalco que es muy importante.. |
+
+| Entrevista 2                             | Arrendatario de vehículos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Paul Gamero Lizana                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Edad                                     | 22 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Distrito                                 | San martín de Porres                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EZ75LUHV55JMhgL8UORlnjABhISsij5n7V30fZsSpHP6pg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OsEuVf )                                                                                                                                                                                                                        |
+| Foto captura                             | ![Entrevista con Paul Gamero](assets/ValidationInterview/Entrevista-Paul.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Empleo Actual                            | Estudiante de Diseño Grafico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                        
+| Información de presentación del producto | Luego de mostrar la lista de funcionalidades bien mostrada y demostracion de la landig page el entrevistado se mostro atento y dio bastantes conclusiones y mejoras al proyecto.                                                                                                                                                                                                                                                                                                                                                                        |
+| Resumen de la entrevista                 | Paul considera que la landing page es atractiva y genera confianza, pero sugiere agregar elementos visuales como testimonios y características diferenciadoras. Opina que la plataforma resuelve la falta de transparencia entre arrendadores y arrendatarios, mejorando la comunicación. Destaca la facilidad de uso y las imágenes de alta calidad. En el dashboard, sugiere agregar estadísticas de alquiler y gráficos en tiempo real. También recomienda incluir un mapa interactivo y opciones de filtrado por precio o reseñas en el navigation. |
+
+| Entrevista 3                             | Arrendatario de vehículos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevistado                             | Hans Cabanillas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Edad                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Distrito                                 | Jesús María                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/Ea59J9iRFCRPiMwT1dYoIJ4BoYI2kEaewSib65ogYGTEaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Rgrq1z )                                                                                                                                                                                                                        |
+| Foto captura                             | ![Entrevista con Hans](assets/ValidationInterview/Entrevista-Hans.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Empleo Actual                            | Estudia y trabaja                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                        
+| Información de presentación del producto | Luego de mostrar la lista de funcionalidades bien mostrada y demostracion de la landig page el entrevistado se mostro atento y dio bastantes conclusiones y mejoras al proyecto.                                                                                                                                                                                                                                                                                                                                                                        |
+| Resumen de la entrevista                 | Paul considera que la landing page es atractiva y genera confianza, pero sugiere agregar elementos visuales como testimonios y características diferenciadoras. Opina que la plataforma resuelve la falta de transparencia entre arrendadores y arrendatarios, mejorando la comunicación. Destaca la facilidad de uso y las imágenes de alta calidad. En el dashboard, sugiere agregar estadísticas de alquiler y gráficos en tiempo real. También recomienda incluir un mapa interactivo y opciones de filtrado por precio o reseñas en el navigation. |
+
+
+
+### 5.3.3 Evaluación según Heurísticas
+
+**UX Heuristics & Principles Evaluation**
+
+**Carrera: Ingeniería de Software**
+**Curso: Aplicaciones Web**
+**Sección: WS53**
+**Profesores: Todos**
+**Auditor: NovaCode**
+**Clientes: Todos**
+
+**SITE o APP  A EVALUAR:** AutomovilUnited
+
+**TAREAS A EVALUAR:**
+El alcance que tendrá esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+
+**Desktop landing page**
+
+-Información y descripción de la aplicación y sus funcionalidades
+
+-Información y breve descripción sobre el equipo de trabajo
+
+-Header y footer funcionales
+
+-Funcionalidad del call to action
+
+**Desktop Web Applications**
+
+-Agregar items al inventario
+
+-Header y footer funcionales
+
+-Visualización del dashboard
+
+-Agregar una nueva asistencia
+
+-Visualización de horarios de empleados
+
+
+**No incluidas en esta versión de la evaluación:**
+
+**Desktop landing page**
+
+-Acceso a términos y condiciones
+
+-Política de privacidad y condiciones de uso
+
+**Desktop Web Applications**
+
+-Visualización de Perfil de usuario
+
+-Descripción detallada de creación de asistencias
+
+-Manejo del inventario
+
+-Registro de nuevo usuario
+
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con poca frecuencia.|
+|2|Problema menor: ocurre un poco más frecuentemente o es un poco más difícil de superar.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo.|
+|4|Problema muy grave: error de gran impacto que impide al usuario continuar con el uso de la plataforma.|
+
+
+**TABLA RESUMEN AMBOS SEGMENTOS:**
+
+**Web Application**
+
+| # |Problema| Escala de severidad |Heurística/Principio violado|
+|:--| :- |:--------------------| :- |
+| 1 |Los filtros de búsqueda son limitados y no permiten una búsqueda eficiente por características del vehículo.| 2                   |Usability - Flexibility and efficiency of use|
+| 2 |La visualización de la disponibilidad de los vehículos no es clara ni en tiempo real.| 3                   |Usability - Feedback and system status|
+| 3 |Los arrendadores tienen dificultades para modificar los detalles de sus vehículos en la plataforma.| 2                   |Usability - Consistency and standards|
+| 4 |Falta un mapa interactivo que permita visualizar la ubicación y disponibilidad de los vehículos.| 3                   |IA - Is it findable?|
+
+**Landing Page**
+
+| # | Problema                                                                                               | Escala de severidad |Heurística/Principio violado|
+|:--|:-------------------------------------------------------------------------------------------------------|:--------------------| :- |
+| 1 | El texto descriptivo sobre la plataforma no tiene suficiente claridad, dificultando la comprensión.    | 1                   |IA - Is it clear?|
+| 2 | Los botones de call to action no comunican claramente la acción esperada, lo que afecta la interacción.| 2                   |IA - Is it usable?|
+| 3 | Falta información visual más detallada en las cards de publicación                                     | 2                   |Usability - Consistency and standards|
+| 4 | El diseño visual no tiene una jerarquía clara para las secciones, lo que dificulta la navegación.      | 3                   |IA - Is it findable?|
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**1. Landing Page**
+
+**Problema 1**
+- **Severidad:** 1
+- **Heurística violada:** IA - Is it clear?
+- **Problema:** El texto descriptivo sobre la plataforma es ambiguo, lo que dificulta que los usuarios comprendan de manera rápida la propuesta de valor.
+- **Recomendación:** Simplificar y estructurar el contenido de la página de manera más clara, usando listas, títulos, y descripciones concisas.
+
+
+**Problema 2**
+- **Severidad:** 2
+- **Heurística violada:** IA - Is it usable?
+- **Problema:** El call to action (ej. "Reservar ahora") no es intuitivo ni atractivo. No comunica adecuadamente lo que sucederá al hacer clic.
+- **Recomendación:** Mejorar el diseño y el texto del call to action para hacerlo más claro y directo. Ejemplo: “Reserva tu vehículo fácilmente”.
+
+**Problema 3**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency and standards
+- **Problema:** Las cards de los vehículos no incluyen información completa y consistente, como el número de placa, lo que puede generar dudas.
+- **Recomendación:** Incluir información adicional como la placa y otros detalles relevantes para garantizar que todos los vehículos estén descritos de manera consistente.
+
+**Problema 4**
+- **Severidad:** 3
+- **Heurística violada:** IA - Is it findable?
+- **Problema:** El diseño no tiene una jerarquía visual clara, lo que dificulta que los usuarios encuentren rápidamente lo que buscan (vehículos, call to action, etc.).
+- **Recomendación:** Rediseñar la página para establecer una jerarquía visual más clara, asegurando que las secciones más importantes sean fácilmente accesibles.
+
+---
+
+#### **2. Web Application**
+
+**Problema 1**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Flexibility and efficiency of use
+- **Problema:** Los filtros de búsqueda no son suficientes. Los arrendatarios no pueden realizar búsquedas avanzadas por tipo de vehículo, precio o características específicas.
+- **Recomendación:** Añadir filtros más detallados como tipo de coche, rango de precios, y opción para ordenar por calificación o cercanía.
+
+**Problema 2**
+- **Severidad:** 3
+- **Heurística violada:** Usability - Feedback and system status
+- **Problema:** La plataforma no muestra la disponibilidad de los vehículos en tiempo real, lo que genera incertidumbre en los arrendatarios.
+- **Recomendación:** Implementar un sistema de actualización en tiempo real sobre la disponibilidad de los vehículos y mostrar mensajes claros si un vehículo está ocupado o no disponible.
+
+**Problema 3**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency and standards
+- **Problema:** Los arrendadores enfrentan dificultades para editar los detalles de sus vehículos, ya que el proceso no sigue un flujo consistente con el resto de la plataforma.
+- **Recomendación:** Estandarizar el proceso de edición de vehículos y asegurarse de que todos los formularios sigan una estructura coherente.
+
+**Problema 4**
+- **Severidad:** 3
+- **Heurística violada:** IA - Is it findable?
+- **Problema:** La falta de un mapa interactivo impide a los arrendatarios encontrar la ubicación exacta de los vehículos disponibles.
+- **Recomendación:** Incluir un mapa interactivo que permita a los arrendatarios ver los vehículos disponibles en su zona y su disponibilidad en tiempo real.
+
+
 ## Conclusiones:
 
 **TB1**
