@@ -25,14 +25,21 @@
 
 ## Registro de Versiones del Informe
 
-| Versión  | Fecha      | Autor                                            | Descripción de modificación   |
-|----------|------------|--------------------------------------------------|-------------------------------|
-| 0.1      | 24/04/2025 | Todos los integrantes                            | Primer sprint TB1             |
-| 0.2      | 10/05/20205| Christian Huanca, Carlos De La Cruz, Josue Paiva | Segundo sprint TP1            |
+| Versión | Fecha       | Autor                                            | Descripción de modificación |
+|---------|-------------|--------------------------------------------------|-----------------------------|
+| 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
+| 0.2     | 10/05/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Segundo sprint TP1          |
+| 0.3     | 18/06/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Tercer sprint TB2           |
 
 | URL de la organización del proyecto |      URL del repositorio del reporte       |
 |:-----------------------------------:|:------------------------------------------:|
 | https://github.com/Grupo-3-Apps-Web | https://github.com/Grupo-3-Apps-Web/Report |
+
+
+|           URL del repositorio del frontend            |             URL del repositorio del backend              |
+|:-----------------------------------------------------:|:--------------------------------------------------------:|
+| https://github.com/Grupo-3-Apps-Web/NovaCode-Frontend | https://github.com/Grupo-3-Apps-Web/NovaCode-WebServices |
+
 
 - [Student Outcome](#student-outcome)
 
@@ -1415,6 +1422,122 @@ Insights del repositorio del frontend de github:
 
 <img src="assets/sprint2/sprint2Front.png" width=600 >
 
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+
+| Sprint #                               | Sprint 3                                                                             |
+|----------------------------------------|--------------------------------------------------------------------------------------|
+| **Date**                               | 19/06/2025                                                                           |
+| **Time**                               | 10:00 PM                                                                             |
+| **Location**                           | Discord                                                                              |
+| **Prepared By**                        | Josue Paiva                                                                          |
+| **Attendees (to planning meeting)**    | Josue Paiva, Carlos de la Cruz, Christian Huanca                                     |
+| **No Participo**                       | Gabriel Alcántara, Josue Flores                                                      |
+| **Sprint n - 2 Review Summary**        | Implementación de las user stories pendientes del sprint 2                           |
+| **Sprint n - 2 Retrospective Summary** | Se logro culminar en su totalidad todo el frontend de la aplicación                  |
+| **Sprint 3 Goal**                      | Finalización de la documentación del entregable y producción del video de exposición |
+| **Sprint 3 Velocity**                  | 45 points                                                                            |
+| **Sum of Story Points**                | 45 points                                                                            |
+
+##### 5.2.3.2. Sprint Backlog 3
+A continuación se presenta el trello actualizado considerando los bounded context de Dashboard, Publicaciones y Navegación, con sus respectivas technical stories y user stories tanto de backend como de frontend.
+
+Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+
+Y el nuevo repositorio de web services: https://github.com/Grupo-3-Apps-Web/NovaCode-WebServices
+
+Web Services Technical Stories:
+
+| # Orden | User Story Id | Título                                                                                  | Descripción                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-01         | Implementación del servicio GET de vehículos publicados                                 | Operación de lectura de entradas registradas en el endpoint /myPublishedVehicles, tanto de todos los registros como de un ID especifico. | 5                                |
+| 2       | TS-02         | Implementación del servicio DELETE de vehículos publicados                              | Operación de eliminación de un registro existente del endpoint /myPublishedVehicles.                                                     | 5                                |
+| 3       | TS-03         | Implementación del servicio POST de vehículos publicados                                | Operación de creación de un nuevo registro del endpoint /myPublishedVehicles.                                                            | 5                                |
+| 4       | US-15         | Reseñar publicaciones de alquiler                                                       | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños.                                              | 5                                |
+| 5       | US-04         | Dashboard del usuario                                                                   | Como usuario, quiero contar con un Dashboard donde consultar información relevante rápidamente.                                          | 5                                |
+| 6       | US-06         | Seccion Publicados del Dashboard                                                        | Como usuario, quiero contar con una sección Publicados en el Dashboard donde consultar mis vehículos publicados.                         | 5                                |
+| 7       | TS-04         | Implementación del servicio GET de datos del usuario y libro de vehículos               | Operacion de lectura de entradas registradas en los endpoint /userProfiles and /myBookVehicles.                                          | 5                                |
+| 8       | TS-05         | Implementación del servicio PUT para actualizar datos del usuario  y libro de vehículos | Operación de actualizar de un registro en los endpoint /userProfiles and /myBookVehicles.                                                | 5                                |
+| 9       | TS-06         | Implementación de servicio DELETE del libro de vehículos del usuario                    | Operación de eliminación de un registro existente del endpoint /myBookVehicles.                                                          | 5                                |
+
+#### 5.2.3.3. Development Evidence for Sprint Review 3
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/sprint3/front.png" width=600 >
+
+Commits realizados en el repositorio de web services:
+
+<img src="assets/sprint3/webServices.png" width=600 >
+
+Commits realizados en el repositorio de landing page:
+
+<img src="assets/sprint3/landingCommits.png" width=600 >
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review 3
+
+| User Story Id | Título                                                     | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                             |
+|---------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TS-01         | Implementación del servicio GET de vehículos publicados    | Escenario 1:**Given** el usuario accede a la aplicación, **when** se sitúa en la pestaña publicación, **then**  se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:**Given** el usuario está en la sección de "Mis Publicaciones", **when** selecciona la opción "Nueva Publicación", **then** se le redirigirá a la pestaña de publicación. |
+| TS-02         | Implementación del servicio DELETE de vehículos publicados | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona eliminar publicación, **then** podrá eliminar el registro del vehículo publicado. Escenario 2:**Given** el usuario está en la pestaña publicación, **when** selecciona la opción de eliminación múltiple, **then** podrá eliminar varias publicaciones al mismo tiempo.             |
+| TS-03         | Implementación del servicio POST de vehículos publicados   | Escenario 1:**Given** el usuario se encuentra en Publicación , **when**  selecciona crear nueva publicación, **then** debera rellenar los campos para realizar el registro.                                                                                                                                                                                             |
+| US-04         | Dashboard del usuario                                      | Escenario 1:Given el usuario ingresa sus credenciales, when selecciona "Log-In", then se le cargara la pestaña "Dashboard" por defecto. Escenario 2:Given el usuario se encuentra en otra pestaña, when selecciona desde el toolbar el Button "Dashboard", then se le redirigirá a la pestaña de Dashboard.                                                             |
+| US-06         | Seccion Publicados del Dashboard                           | Escenario 1:Given el usuario accede a la aplicación, when se sitúa en la pestaña Dashboard, then se visualizaran sus publicaciones en la zona "Mis Publicaciones". Escenario 2:Given el usuario está en la sección de "Mis Publicaciones", when selecciona la opción "Nueva Publicación", then se le redirigirá a la pestaña de publicación.                            |
+
+#### 5.2.3.5 Execution Evidence for Sprint Review 3
+Se adjuntan evidencias del despliegue de la segunda version del frontend, cubriendo las user stories previamente mencionadas:
+
+- Desarrollo del bounded context "Dashboard del usuario" el cual consume 2 endpoint /userProfiles para mostrar datos del usuario y /myBookVehicles la cual lista los vehiculos que estan en la libreria del usuario.
+<img src="assets/sprint3/frontBCDashboard.png" width=600 >
+
+A continuación se presenta la primera version de los webs services que cubre el bounded context de Publicaciones, con las siguientes funcionalidades:
+
+<img src="assets/sprint3/publicationsSwagger.png" width=600 >
+
+Nueva version desplegada de la landing page:
+
+<img src="assets/sprint3/landingNew.jpg" width=600 >
+
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review 3
+A continuación se presentan los endpoints implementados en el backend para el bounded context de Publicaciones, los cuales se encuentran documentados en Swagger:
+
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax**                                                                                        | **Parameters Specification**                                                                      | **Call Example**                                       | **Response Explanation**                                    |
+|-------------------|-------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|
+| Publications      | POST, GET, DELETE       | POST: `/api/v1/myPublishedVehicles`, GET/DELETE: `/api/v1/myPublishedVehicles/{myPublishedVehiclesId}` | POST: `id, Model, Brand, Year, Description, Image, Price, PublishedDate`, GET/DELETE: `vehicleId` | GET `http://localhost:3000/api/v1/myPublishedVehicles` | Devuelve un objeto con la orden correspondiente al ID.      |
+
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+Nueva version del frontend desplegada:
+
+<img src="assets/sprint3/frontnew.jpg" width=600 >
+
+Nueva version de la landing page desplegada:
+
+<img src="assets/sprint3/landingDeploy.png" width=600 >
+
+Backend desplegado en Swagger:
+
+<img src="assets/sprint3/publicationsSwagger.png" width=600 >
+
+
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint.
+
+Repo del frontend:
+
+<img src="assets/sprint3/frontInsights.png" width=600 >
+
+Repo de web services:
+
+<img src="assets/sprint3/web.png" width=600 >
+
+
+Repo de landing page:
+
+<img src="assets/sprint3/landingInsights.png" width=600 >
+
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
@@ -1728,6 +1851,9 @@ reuniones por discord y asignación de tareas, finalmente el despliegue de la la
 Finalizar este entregable nos permitió avanzar de manera concreta en las user stories definidas, destacando la relevancia de la planificación y organización en el desarrollo de software. 
 La construcción de los bounded contexts planteados en la documentación inicial refleja el progreso alcanzado en la aplicación. Logramos cumplir satisfactoriamente con todas las user stories previstas para esta etapa, por lo que consideramos que esta entrega fue exitosa.
 
+**TB2** 
+Este entregable nos permitió avanzar significativamente en el desarrollo de la aplicación enfocándonos en la implementación del backend a través de las technical stories, lo que permitió optimizar la estructura de la base de datos y los servicios del sistema. Además, finalizamos el 
+desarrollo del frontend con las user stories definidas, logrando una integración funcional de ambas partes. Durante este sprint, se completaron las tareas asignadas de acuerdo al plan establecido, y se realizaron pruebas para asegurar la correcta funcionalidad del producto.
 
 ## Anexos
 - Link de la organización de GitHub: https://github.com/Grupo-3-Apps-Web
@@ -1737,3 +1863,4 @@ La construcción de los bounded contexts planteados en la documentación inicial
 - Link de la landing page desplegada: https://automovilunite.netlify.app/
 - Link del frontend desplegado: https://novacode-frontend.netlify.app
 - Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+- Link del repositorio de web services: https://github.com/Grupo-3-Apps-Web/NovaCode-WebServices
