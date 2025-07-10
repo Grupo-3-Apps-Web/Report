@@ -190,7 +190,7 @@ Realización de entrevistas para ambos segmentos objetivos, realización complet
 <br> TP1: Asignacion y explicacion de los bounded context a desarrollar, aplicacion de la retroalimentacion del entregable anterior
 <br> TB2: Organizacion con el fin de completar el desarrollo del frontend y al mismo tiempo empezar el desarrollo del backend, asignacion de tareas y verificacion del progreso del equipo.
 <br> TF: Definicion y asignacion de los ultimos user y techincal stories con el fin de lograr comunicacion entre backend y frontend
-    </td>
+<br>Melina Liz Santillan Alvarado<br>TF1: Desarrollo de consultas en Navigation en el backend. Además, implementación de reviews en el frontend.</td>
 <td>La culminacion del proyecto fue parcial, debido a complicaciones en el equipo de trabajo y el recibimiento de nuevos integrantes, aun asi se logró una comunicacion parcial en ambos servicios de la aplicacion
 con la cual el bounded context de publications es completamente funcional, asi como la implemetnacion del servicio de IAM para ambas partes igualmente, se culminaron servicios backend y aspectos del frontend pendientes</td>
   </tr>
@@ -200,7 +200,8 @@ con la cual el bounded context de publications es completamente funcional, asi c
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
 <br>TP: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
 <br>TB2: Implementacion del web service de publicacion y sus 4 operaciones CRUD, implementacion de la conexion landing-frontend, documentacion del entregable
-<br>TF:Culminacion y conexion del bounded context de publicacion, implementacion del bounded context de IAM, documentacion del entregable, despliegue de todos los servicios</td>
+<br>TF:Culminacion y conexion del bounded context de publicacion, implementacion del bounded context de IAM, documentacion del entregable, despliegue de todos los servicios
+<br> Melina Liz Santillan Alvarado <br>TF1: Desarrollo del bounded context Navigation en el backend y contribución en el frontend.
 <td>Logramos desplegar una version funcional del producto gracias a Azure, esta se comunica con el frontend de Netlify, consideramos que de culminarse en su totalidad se trataria de un buen concepto
 con un nicho y core de negocio claro y con mucho potencial para resaltar como una alternativa en el sector de alquilado de vehiculos</td>
   </tr>
