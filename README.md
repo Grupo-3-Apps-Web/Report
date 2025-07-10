@@ -231,6 +231,9 @@ puedan interactuar de una manera rápida y sencilla.
   <tr><td><img src="assets/TeamMembers/CarlosDeLaCruz.png" alt="Carlos De La Cruz" style="width: 300px"></td>
     <td>Me llamo Carlos soy un estudiante de Ingeniería de Software, tengo 22 años y vivo en Lima. Mis pasatiempos son hacer deporte, jugar videojuegos y escuchar música. Me gusta trabajar en equipo porque de esta manera todos los integrantes podemos dar nuestro punto de vista e ideas para poder lograr el objetivo del curso. Además, para este curso me comprometo a ayudar en todo lo posible para la elaboración y desarrollo del trabajo.</td>
   </tr>
+<tr><th colspan="2">Melina Liz Santillan Alvarado</th></tr>
+  <tr><td><img src="assets/TeamMembers/Melina-Santillan.jpeg" alt="Melina Santillan" style="width: 300px"></td>
+<td>Soy Melina Liz Santillan Alvarado, tengo 21 años y soy de la carrera de Ingeniería de Software. Tengo conocimientos en diversos lenguajes de programación, además de frameworks como Angular, Vue entre otros.</td></tr>
 <tr><th colspan="2">Josue Antonio Flores Apaico</th></tr>
   <tr><td><img src="assets/TeamMembers/JosueFlores.png" alt="Carlos De La Cruz" style="width: 300px"></td>
     <td>Soy Josue Flores es una persona creativa, perseverante y empática, con interés en áreas como la Inteligencia Artificial, ciberseguridad y ciencia de datos. Busca aplicar sus conocimientos en C++, Python, C# y Java dentro de una startup tecnológica, impulsando la innovación y la mejora continua. Cuenta con experiencia práctica en proyectos y participación en conferencias de ciberseguridad.</td></tr>
