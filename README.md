@@ -202,6 +202,7 @@ con la cual el bounded context de publications es completamente funcional, asi c
 <br>TB2: Implementacion del web service de publicacion y sus 4 operaciones CRUD, implementacion de la conexion landing-frontend, documentacion del entregable
 <br>TF:Culminacion y conexion del bounded context de publicacion, implementacion del bounded context de IAM, documentacion del entregable, despliegue de todos los servicios
 <br> Melina Liz Santillan Alvarado <br>TF1: Desarrollo del bounded context Navigation en el backend y contribución en el frontend.
+<br> Jhon Huamani  <br>TF1: Desarrollo el bounded context profile en el backend y de forma parcial en el frontend.
 <td>Logramos desplegar una version funcional del producto gracias a Azure, esta se comunica con el frontend de Netlify, consideramos que de culminarse en su totalidad se trataria de un buen concepto
 con un nicho y core de negocio claro y con mucho potencial para resaltar como una alternativa en el sector de alquilado de vehiculos</td>
   </tr>
