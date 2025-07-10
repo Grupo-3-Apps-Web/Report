@@ -14,9 +14,8 @@
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
       <li><h3>Josue Gonzalo Paiva Quispe</h3></li>
-      <li><h3>Carlos Alejandro De La Cruz Villarreal</h3></li>
-      <li><h3>Josue Antonio Flores Apaico</h3></li>
-      <li><h3>Poly Gabriel Alcantara Baldeon</h3></li>
+      <li><h3>Melina Santillan</h3></li>
+      <li><h3>John Huamani</h3></li>
       <li><h3>Cristhian Joel Huanca Zevallos</h3></li>
   </ul>
   <br>
@@ -30,6 +29,7 @@
 | 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
 | 0.2     | 10/05/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Segundo sprint TP1          |
 | 0.3     | 18/06/20205 | Christian Huanca, Carlos De La Cruz, Josue Paiva | Tercer sprint TB2           |
+| 1.0     | 18/06/20205 | Josue Paiva                                      | Ultimo Sprint TF            |
 
 | URL de la organización del proyecto |      URL del repositorio del reporte       |
 |:-----------------------------------:|:------------------------------------------:|
@@ -170,9 +170,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 **ABET – EAC - Student Outcome 3**
 
 **Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3.
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5 Criterio: 
+La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, 
+establecen objetivos, planifican tareas y cumplen objetivos. En el siguiente cuadro se describe las acciones realizadas y enunciados de 
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 <table>
   <tr>
@@ -182,31 +183,26 @@ del ABET – EAC - Student Outcome 3.
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td>De La Cruz Villarreal Carlos Alejandro<br> TB1:Participación en las reuniones grupales.<br> Realización de entrevistas para ambos segmentos objetivos. <br> TP1: Asignación del bounded contextcorrespondiente y mejora con respecto al feedback de la entrega anterior. 
-<br> TB2: Participación en reuniones grupales. Realización de entrevistas para los 2 segmentos objetivos, about the team,product y realización parcial de US <br>Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento.<br> TP1: Desarrollo del bounded context asignado, así como también corregí las revisiones de la anterior entrega <br> TB2: :Participación en las reuniones grupales.
-Realización de entrevistas para ambos segmentos objetivos, realización completa de US asignadas.<br>Flores Apaico, Josue Antonio<br>
-TB1: Comunicó sus ideas con claridad y se adaptó efectivamente a diferentes audiencias durante entrevistas y reuniones grupales.
+    <td> 
+<br><br>Huanca Zevallos, Cristhian Joel <br> TB1: Presento sus ideas de manera clara y efectiva a diferentes publicos, ajustando su discurso según el segmento.<br> TP1: Desarrollo del bounded context asignado, así como también corregí las revisiones de la anterior entrega <br> TB2: :Participación en las reuniones grupales.
+Realización de entrevistas para ambos segmentos objetivos, realización completa de US asignadas.
 <br> Josue Paiva:<br> TB1: Liderazgo del equipo, organización de reuniones, verificación de progreso del reporte y revisión de los mismos.
 <br> TP1: Asignacion y explicacion de los bounded context a desarrollar, aplicacion de la retroalimentacion del entregable anterior
 <br> TB2: Organizacion con el fin de completar el desarrollo del frontend y al mismo tiempo empezar el desarrollo del backend, asignacion de tareas y verificacion del progreso del equipo.
-<br> Alcantara Baldeon Poly gabriel <br>TB1: Participación en reuniones grupales. Explicación del diseño orientado a objetos. 
+<br> TF: Definicion y asignacion de los ultimos user y techincal stories con el fin de lograr comunicacion entre backend y frontend
     </td>
-<td>Josue Paiva:Ejercer liderazgo me permitió desarrollar habilidades de comunicación y dirección con el equipo, además de tomar decisiones y responsabilidades en todo momento <br>
-<br> Para este entregable colaboramos 3 de los 5 miembros originales, lo cual fue un reto; sin embargo, logramos cumplir con las metas asignadas a los aun presentes<br> De La Cruz Villarreal Carlos Alejandro <br> TB1: Hacer el trabajo en equipo fue un reto pues todos teníamos diferentes opiniones;sin embargo, con una buena comunicación asertiva logramos finalizar bien la entrega del proyecto<br>
-TP1: Lograr realizar el proyecto de 3 integrantes fue muy difícil pero a la vez fue más organizado todo<br> TB2: Lograr cumplir con los pendientes para el TB2 fue un reto amplio pero que sin embargo creo pudimos cumplir los objetivos del Sprint 3<br>
-Huanca Zevallos, Cristhian Joel <br> TB1: La habilidad de adaptar la comunicación oral a diferentes audiencias mejora la claridad y la conexión con los demás, facilitando el intercambio de ideas en diversos contextos.<br> TP1: Fue un reto lograr hacer el proyecto de 3 personas pero a pesar de todo logramos cumplir con los bounded context asignados.<br> TB2: Fue un gran desafío afrontar el trabajo con solo 3 integrantes pero se realizó con éxito los deberes del entregable.<br>Alcantara Baldeon Poly Gabriel<br>TB1:Explicar el diseño fortaleció mi capacidad de comunicar ideas complejas de manera clara y adaptada al contexto del equipo.  </td>
+<td>La culminacion del proyecto fue parcial, debido a complicaciones en el equipo de trabajo y el recibimiento de nuevos integrantes, aun asi se logró una comunicacion parcial en ambos servicios de la aplicacion
+con la cual el bounded context de publications es completamente funcional, asi como la implemetnacion del servicio de IAM para ambas partes igualmente, se culminaron servicios backend y aspectos del frontend pendientes</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>De la Cruz Villarreal Carlos Alejandro<br> TB1: Elaboración de ideas. <br> Elaboración de documentación técnica.<br> TP1: Elaboración del bounded context Navigation y traducción del idioma <br> TB2:Creación de ideas, elaboración de documentación técnica y ayuda en el landing page y front-end  <br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.<br> TP1: Elaboración del bounded context de Navigation y footer<br> TB2: Elaboración del bounded context de Dashboard y documentación. <br>Flores Apaico, Josue Antonio<br> TB1: Redactó documentación clara y estructurada, adecuada para distintos públicos, demostrando precisión técnica y buen manejo del lenguaje.
+    <td><br> Huanca Zevallos, Cristhian Joel<br> TB1: Redacto textos organizados y comprensibles, utilizando un lenguaje apropiado.<br> TP1: Elaboración del bounded context de Navigation y footer<br> TB2: Elaboración del bounded context de Dashboard y documentación.
 <br> Josue Paiva:<br> TB1: Desarrollo del capítulo 1, Needfinding que incluye los journey maps, user personas, analisis competitivo y la formulacion de los user stories
-<br>TP1: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
-<br>TP1: Implementacion del web service de publicacion y sus 4 operaciones CRUD, implementacion de la conexion landing-frontend, documentacion del entregable
-<br>Alcantara Baldeon Poly Gabriel<br>TB1:Elaboro el capitulo 4.7 Class Diagrams y Class Dictionary </td>
-<td>Josue Paiva:<br> TB1: El primer entregable me permitio poner a prueba todos los conocimientos que vengo adquiriendo de diversos cursos como IHC, Diseño de patrones de software, etc. 
-<br> TP1: Concluyo con una entrega completa considerando los user stories que se propusieron trabajar, pues se completó la implementacion de todos<br>De la Cruz Villarreal Carlos Alejandro<br> TB1: Esta primera entrega me permitió plasmar mis conocimientos de cursos de ciclos anteriores <br> TP1: La parte del bounded context asignada no logré terminarla al 100% pero pude apoyar haciendo el header y traducción.<br> TB2:Logré imponerme ante casi el 100% de las dificultades que se me plantearon.
-<br> Huanca Zevallos, Cristhian Joel <br> TB1: La capacidad de ajustar la escritura según el público permite una transmisión clara y precisa de ideas, mejorando la participación y comprensión en diversos entornos.<br>TP1: Logré terminar la parte del bounded context que se me asignó satisfactoriamente.<br> TB2:Logré completar el bounded context de Dashboard en la aplicación a pesar de las adversidades presentadas.<br>
-Alcantara Baldeon Poly Gabriel<br>TB1:Documentar la Class Diagrams y realizar el diseño orientado a objetos me permitió desarrollar claridad técnica en la escritura, adecuada para audiencias académicas y técnicas.</td>
+<br>TP: Implementacion del bounded context de publicacion y sus 4 operaciones CRUD
+<br>TB2: Implementacion del web service de publicacion y sus 4 operaciones CRUD, implementacion de la conexion landing-frontend, documentacion del entregable
+<br>TF:Culminacion y conexion del bounded context de publicacion, implementacion del bounded context de IAM, documentacion del entregable, despliegue de todos los servicios</td>
+<td>Logramos desplegar una version funcional del producto gracias a Azure, esta se comunica con el frontend de Netlify, consideramos que de culminarse en su totalidad se trataria de un buen concepto
+con un nicho y core de negocio claro y con mucho potencial para resaltar como una alternativa en el sector de alquilado de vehiculos</td>
   </tr>
 </table>
 
@@ -1541,6 +1537,155 @@ Repo de landing page:
 <img src="assets/sprint3/landingInsights.png" width=600 >
 
 
+#### 5.2.4. Sprint 4
+##### 5.2.4.1. Sprint Planning 4
+
+| Sprint #                               | Sprint 4                                                                       |
+|----------------------------------------|--------------------------------------------------------------------------------|
+| **Date**                               | 19/06/2025                                                                     |
+| **Time**                               | 10:00 PM                                                                       |
+| **Location**                           | Discord                                                                        |
+| **Prepared By**                        | Josue Paiva                                                                    |
+| **Attendees (to planning meeting)**    | Josue Paiva, Christian Huanca, Melina Santillan, John Huamani                  |
+| **No Participo**                       | Gabriel Alcántara, Josue Flores, Carlos De la Cruz                             |
+| **Sprint n - 4 Review Summary**        | Finalizar producción de front y back y establecer conexión con ambos servicios |
+| **Sprint n - 3 Retrospective Summary** | Falto los servicios de reservas y navegación                                   |
+| **Sprint 4 Goal**                      | Finalizar una demo del producto funcional con ambos servicios desplegados      |
+| **Sprint 4 Velocity**                  | 40 points                                                                      |
+| **Sum of Story Points**                | 40 points                                                                      |
+
+
+##### 5.2.4.2. Sprint Backlog 4
+A continuación se presenta la última version del trello actualizado considerando los bounded context de Dashboard, Publicaciones y Navegación, ademas de la implementacion
+del IAM para el control de usuarios
+
+<img src="assets/sprint4/trello4.png" width=600 >
+
+
+Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
+
+
+Web Services Technical Stories:
+
+| # Orden | User Story Id | Título                                                                       | Descripción                                                                                                                  | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | TS-07         | Implementación de servicio de creación de usuarios                           | Implementar el servicio que permita registrar nuevos usuarios en el sistema, conectando con el backend correspondiente.      | 5                                |
+| 2       | TS-08         | Implementación de servicio de login de usuarios                              | Desarrollar el servicio de autenticación de usuarios, permitiendo el inicio de sesión mediante credenciales válidas.         | 5                                |
+| 3       | TS-09         | Implementación de servicio de generación de Token                            | Implementar el servicio encargado de generar un token JWT al momento de iniciar sesión correctamente.                        | 5                                |
+| 4       | TS-26         | Actualización de los servicios de Publicaciones para conectar con el backend | Actualizar los servicios de publicaciones existentes para que interactúen correctamente con el backend implementado.         | 5                                |
+| 5       | US-15         | Reseña de publicaciones                                                      | Como usuario, quiero poder dejar reseñas sobre las publicaciones realizadas por los dueños, para compartir mi experiencia.   | 5                                |
+| 6       | US-16         | Reservar de vehículo                                                         | Como usuario, quiero poder reservar un vehículo publicado por otro usuario, mediante una interfaz sencilla e intuitiva.      | 5                                |
+| 7       | TS-10         | Despliegue del servicio web en Azure                                         | Configurar y desplegar el servicio web en la plataforma Azure, asegurando su correcto funcionamiento en producción.          | 5                                |
+| 8       | TS-11         | Creación de servicio POST y PUT de perfil de usuario                         | Implementar los servicios para crear y actualizar perfiles de usuario mediante operaciones POST y PUT conectadas al backend. | 5                                |
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review 4
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/sprint4/front1.png" width=600 >
+
+<img src="assets/sprint4/front2.png" width=600 >
+
+<img src="assets/sprint4/front3.png" width=600 >
+
+
+
+Commits realizados en el repositorio de web services:
+
+<img src="assets/sprint4/back1.png" width=600 >
+
+<img src="assets/sprint4/back2.png" width=600 >
+
+<img src="assets/sprint4/back3.png" width=600 >
+
+<img src="assets/sprint4/back4.png" width=600 >
+
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review 3
+
+| User Story Id | Título                                               | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                 |
+|---------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TS-07         | Implementación de servicio de creación de usuarios   | Escenario 1: **Given** el usuario se encuentra en el formulario de registro, **when** completa los campos requeridos y envía el formulario, **then** se debe crear correctamente el usuario en el sistema.                                                                                                                                                  |
+| TS-08         | Implementación de servicio de login de usuarios      | Escenario 1: **Given** el usuario accede al formulario de login, **when** ingresa credenciales válidas, **then** podrá iniciar sesión correctamente. Escenario 2: **Given** el usuario ingresa credenciales incorrectas, **when** intenta iniciar sesión, **then** se le mostrará un mensaje de error.                                                      |
+| TS-09         | Implementación de servicio de generación de Token    | Escenario 1: **Given** el usuario inicia sesión exitosamente, **when** se valida su identidad en backend, **then** se genera y retorna un token JWT. Escenario 2: **Given** el token es generado, **when** se recibe en el frontend, **then** se debe almacenar localmente para futuras solicitudes autenticadas.                                           |
+| TS-26         | Actualización de servicios de Publicaciones          | Escenario 1: **Given** el usuario realiza acciones sobre publicaciones, **when** visualiza, crea, edita o elimina, **then** estas deben sincronizarse correctamente con el backend. Escenario 2: **Given** los endpoints de publicaciones cambian, **when** se actualizan en el frontend, **then** el funcionamiento debe mantenerse estable y sin errores. |
+| US-15         | Reseña de publicaciones                              | Escenario 1: **Given** el usuario visualiza una publicación, **when** decide dejar una reseña, **then** se le debe mostrar un formulario para escribirla. Escenario 2: **Given** el usuario completa el formulario de reseña, **when** hace clic en "Enviar", **then** la reseña se debe guardar y mostrar con la publicación.                              |
+| US-16         | Reservar de vehículo                                 | Escenario 1: **Given** el usuario encuentra un vehículo disponible, **when** selecciona "Reservar", **then** se debe registrar la reserva correctamente. Escenario 2: **Given** un vehículo ya está reservado, **when** otro usuario intenta reservarlo, **then** se debe mostrar un mensaje indicando que ya no está disponible.                           |
+| TS-10         | Despliegue del servicio web en Azure                 | Escenario 1: **Given** se cuenta con la aplicación funcional, **when** se ejecuta el pipeline de despliegue, **then** debe desplegarse correctamente en Azure. Escenario 2: **Given** la app está desplegada, **when** un usuario accede a la URL pública, **then** debe poder navegar sin errores.                                                         |
+| TS-11         | Creación de servicio POST y PUT de perfil de usuario | Escenario 1: **Given** el usuario desea crear su perfil, **when** completa y envía el formulario, **then** se debe registrar mediante POST. Escenario 2: **Given** el usuario desea modificar su perfil, **when** edita los campos y guarda cambios, **then** se debe actualizar mediante PUT.                                                              |
+
+
+
+#### 5.2.4.5 Execution Evidence for Sprint Review 4
+
+A continuación se presentan los servicios backend y frontend corriendo desplegados en Azure y Netlify respectivamente:
+
+#### IAM Bounded Context:
+
+<img src="assets/sprint4/frontDeploy1.png" width=600 >
+
+<img src="assets/sprint4/backDeploy1.png" width=600 >
+
+
+#### Publications Bounded Context:
+
+<img src="assets/sprint4/frontDeploy2.png" width=600 >
+
+<img src="assets/sprint4/backDeploy2.png" width=600 >
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review 3
+A continuación se presentan los endpoints implementados en el backend para el bounded context de Publicaciones, los cuales se encuentran documentados en Swagger:
+
+| **Endpoint Name**  | **Implemented Actions**           | **Call Syntax**                                                                                                                                                                                                                                                                            | **Parameters Specification**                                                                                                                        | **Call Example**                                 | **Response Explanation**                                                  |
+|--------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------|
+| **Publications**   | GET, POST, GET by ID, DELETE, PUT | - GET: `/api/v1/myPublishedVehicles`  <br> - POST: `/api/v1/myPublishedVehicles`  <br> - GET: `/api/v1/myPublishedVehicles/{myPublishedVehiclesId}` <br> - DELETE: `/api/v1/myPublishedVehicles/{myPublishedVehiclesId}` <br> - PUT: `/api/v1/myPublishedVehicles/{myPublishedVehiclesId}` | - POST: `model, brand, year, description, image, price, publishedDate` <br> - GET/DELETE/PUT: `myPublishedVehiclesId`, body with updated data (PUT) | GET `https://.../api/v1/myPublishedVehicles`     | Devuelve la lista completa de vehículos publicados o detalles por ID.     |
+| **Profiles**       | GET, POST, GET by ID, PUT, DELETE | - GET: `/api/v1/profiles`  <br> - POST: `/api/v1/profiles`  <br> - GET: `/api/v1/profiles/{id}`  <br> - PUT: `/api/v1/profiles/{id}`  <br> - DELETE: `/api/v1/profiles/{id}`                                                                                                               | - POST/PUT: `firstName, lastName, email, phone, address` <br> - GET/DELETE: `id`                                                                    | GET `https://.../api/v1/profiles`                | Permite gestionar perfiles de usuario: crear, editar, ver o eliminar.     |
+| **Authentication** | POST                              | - POST: `/api/v1/authentication/sign-in`  <br> - POST: `/api/v1/authentication/sign-up`                                                                                                                                                                                                    | - Sign-in: `email, password` <br> - Sign-up: `firstName, lastName, email, password`                                                                 | POST `https://.../api/v1/authentication/sign-in` | Devuelve un token JWT para autenticación si las credenciales son válidas. |
+| **Users**          | GET, GET by ID                    | - GET: `/api/v1/users`  <br> - GET: `/api/v1/users/{id}`                                                                                                                                                                                                                                   | - GET: none <br> - GET by ID: `id`                                                                                                                  | GET `https://.../api/v1/users/123`               | Devuelve todos los usuarios o un usuario específico por su ID.            |
+
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+El servicio de backend fue desplegado en Azure. A continuación se presentan las evidencias:
+
+<img src="assets/sprint4/azure1.png" width=600 >
+
+<img src="assets/sprint4/azure2.png" width=600 >
+
+**Link del backend desplegado:** https://nova2-deg8guf5gybcdwep.canadacentral-01.azurewebsites.net/swagger/index.html
+
+La base de datos que consume el backend fue desplegada con Railway:
+
+<img src="assets/sprint4/railway.png" width=600 >
+
+La version final del frontend fue desplegado en Netlify. A continuación se presentan las evidencias:
+
+<img src="assets/sprint4/netlify.png" width=600 >
+
+**Link del backend desplegado:** https://novacode-frontend.netlify.app/
+
+La version final de la landing page que cuenta con video about the product y about the team se encuentra disponible en Netlify.
+**Link de landing page:** https://automovilunite.netlify.app/
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint.
+
+
+Repo del frontend:
+
+<img src="assets/sprint4/insightsFront.png" width=600 >
+
+Repo de web services:
+
+<img src="assets/sprint4/insightsBack.png" width=600 >
+
+Repo de landing page:
+
+<img src="assets/sprint4/insightsLanding.png" width=600 >
+
+
+
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 #### Objetivo de la Entrevista
@@ -1628,7 +1773,7 @@ Presentamos los conocimientos obtenidos de las entrevistas de validación que re
 | Entrevistado                             | Juan Diaz Banda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Edad                                     | 26 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Distrito                                 | Bellavista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ERL7e0L-jeVNh3Al5ZxE5s4BairSzzoh50dkWERkMoTkXA?e=gAgJHb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Inicio de la entrevista                  | [00:01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ERL7e0L-jeVNh3Al5ZxE5s4BairSzzoh50dkWERkMoTkXA?e=gAgJHb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Foto captura                             | ![Entrevista con Juan Diaz](assets/ValidationInterview/ValidationSebastian.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Empleo Actual                            | Profesor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                        
 | Información de presentación del producto | Se le presento la  lista de funcionalidades y demostracion de la landig page al entrevistado y este reaccion satisfactoriamente con varias funcionalidades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -1857,6 +2002,13 @@ La construcción de los bounded contexts planteados en la documentación inicial
 Este entregable nos permitió avanzar significativamente en el desarrollo de la aplicación enfocándonos en la implementación del backend a través de las technical stories, lo que permitió optimizar la estructura de la base de datos y los servicios del sistema. Además, finalizamos el 
 desarrollo del frontend con las user stories definidas, logrando una integración funcional de ambas partes. Durante este sprint, se completaron las tareas asignadas de acuerdo al plan establecido, y se realizaron pruebas para asegurar la correcta funcionalidad del producto.
 
+**TF**
+Para el entregable final logramos completar el bounded context de Publicaciones con su respectivo CRUD, así como la implementación de los servicios de autenticación y autorización.
+Se incluyeron en Swagger los servicios restantes faltantes como Reservations y Profile; sin embargo, por cambios en los miembros del equipo y retiro de otro no pudimos realizar una comunicacion
+exitosa con el resto de servicios. A pesar de esto, se logró desplegar todos los servicios en línea.
+
+
+
 ## Anexos
 - Link de la organización de GitHub: https://github.com/Grupo-3-Apps-Web
 - Link del repositorio del reporte: https://github.com/Grupo-3-Apps-Web/Report
@@ -1866,3 +2018,4 @@ desarrollo del frontend con las user stories definidas, logrando una integració
 - Link del frontend desplegado: https://novacode-frontend.netlify.app
 - Link del trello: https://trello.com/b/djC7sD8z/novacode-trello
 - Link del repositorio de web services: https://github.com/Grupo-3-Apps-Web/NovaCode-WebServices
+- Link de web services desplegado: https://nova2-deg8guf5gybcdwep.canadacentral-01.azurewebsites.net/swagger
